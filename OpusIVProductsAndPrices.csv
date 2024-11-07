@@ -1,0 +1,903 @@
+productId,name,cleanName,imageUrl,categoryId,groupId,url,modifiedOn,imageCount,extRarity,extDescription,lowPrice,midPrice,highPrice,marketPrice,directLowPrice,subTypeName,extNumber,extCardType,extElement,extCost,extPower,extJob,extCategory
+133561,Opus IV Booster Box,Opus IV Booster Box,https://tcgplayer-cdn.tcgplayer.com/product/133561_200w.jpg,24,1947,https://cpt.tcgcsv.com/fr52,2017-06-09T18:26:40.09,1,None,"Opus IV enhances the play experience and collectability, featuring popular characters from fan favorite titles like DISSIDIA FINAL FANTASY –Arcade- and FINAL FANTASY TACTICS THE WAR OF THE LIONS.
+
+Strengthen your FINAL FANTASY TRADING CARD GAME deck with one of these BOOSTER PACKS! Booster packs include: 
+• 12 cards total 
+• 1 premium foiled card
+
+36pks per display box.",73.99,75.99,115.0,75.99,,Normal,,,,,,,
+133563,Opus IV Booster Pack,Opus IV Booster Pack,https://tcgplayer-cdn.tcgplayer.com/product/133563_200w.jpg,24,1947,https://cpt.tcgcsv.com/hr52,2017-11-09T22:26:10.403,1,None,"Booster pack includes: 
+• 12 cards total 
+• 1 premium foiled card",3.79,5.72,9.99,3.54,,Normal,,,,,,,
+152978,Hauyn,Hauyn,https://tcgplayer-cdn.tcgplayer.com/product/152978_200w.jpg,24,1947,https://cpt.tcgcsv.com/Bcf2,2018-03-13T13:47:05.73,1,Hero,"If you control 3 or more <em>Category WOFF Characters</em> other then Hauyn, Hauyn gains +4000 power.
+<br>If you control 5 or more <em>Category WOFF Characters</em> other than Hauyn, Hauyn gains +1000 power and<strong> Brave</strong>.",0.44,0.54,2.0,0.44,,Foil,4-001H,Forward,Fire,2,5000,Mysterious Woman,World of Final Fantasy
+152978,Hauyn,Hauyn,https://tcgplayer-cdn.tcgplayer.com/product/152978_200w.jpg,24,1947,https://cpt.tcgcsv.com/Bcf2,2018-03-13T13:47:05.73,1,Hero,"If you control 3 or more <em>Category WOFF Characters</em> other then Hauyn, Hauyn gains +4000 power.
+<br>If you control 5 or more <em>Category WOFF Characters</em> other than Hauyn, Hauyn gains +1000 power and<strong> Brave</strong>.",0.19,0.5,3.61,0.4,,Normal,4-001H,Forward,Fire,2,5000,Mysterious Woman,World of Final Fantasy
+152979,Ifrit EX,Ifrit EX,https://tcgplayer-cdn.tcgplayer.com/product/152979_200w.jpg,24,1947,https://cpt.tcgcsv.com/Ccf2,2017-11-24T19:22:19.42,1,Common,"<strong>EX BURST</strong> Choose 1 Forward. Deal it 4000 damage. If you control 5 or more Fire Characters, deal it 7000 damage instead.",0.03,0.15,0.99,0.08,,Normal,4-003C,Summon,Fire,2,,,DFF
+152979,Ifrit EX,Ifrit EX,https://tcgplayer-cdn.tcgplayer.com/product/152979_200w.jpg,24,1947,https://cpt.tcgcsv.com/Ccf2,2017-11-24T19:22:19.42,1,Common,"<strong>EX BURST</strong> Choose 1 Forward. Deal it 4000 damage. If you control 5 or more Fire Characters, deal it 7000 damage instead.",0.25,0.5,1.45,0.24,,Foil,4-003C,Summon,Fire,2,,,DFF
+152980,Caius,Caius,https://tcgplayer-cdn.tcgplayer.com/product/152980_200w.jpg,24,1947,https://cpt.tcgcsv.com/Dcf2,2017-11-24T19:22:37.717,1,Legend,"When Caius enters the field, you may search for 1 <em>Card Name Bahamut</em> and add it to your hand.
+<br>When Caius attacks, choose 1 Forward. You may discard 1 <em>Card Name Bahamut</em> from your hand. If you do so, deal it 7000 damage.",0.23,0.7,23.8,0.54,,Normal,4-006L,Forward,Fire,6,9000,Guardian of the Seeress,XIII
+152980,Caius,Caius,https://tcgplayer-cdn.tcgplayer.com/product/152980_200w.jpg,24,1947,https://cpt.tcgcsv.com/Dcf2,2017-11-24T19:22:37.717,1,Legend,"When Caius enters the field, you may search for 1 <em>Card Name Bahamut</em> and add it to your hand.
+<br>When Caius attacks, choose 1 Forward. You may discard 1 <em>Card Name Bahamut</em> from your hand. If you do so, deal it 7000 damage.",0.4,0.79,4.0,0.52,,Foil,4-006L,Forward,Fire,6,9000,Guardian of the Seeress,XIII
+152982,Goblin,Goblin,https://tcgplayer-cdn.tcgplayer.com/product/152982_200w.jpg,24,1947,https://cpt.tcgcsv.com/Gcf2,2017-11-24T19:22:59.913,1,Common,Put Goblin into the Break Zone: Choose 1 Forward you control. It gains <strong>Haste</strong> until the end of the turn. Draw 1 card.,14.99,14.99,14.99,5.32,,Foil,4-012C,Monster,Fire,1,,Goblin,Theatrhythm
+152982,Goblin,Goblin,https://tcgplayer-cdn.tcgplayer.com/product/152982_200w.jpg,24,1947,https://cpt.tcgcsv.com/Gcf2,2017-11-24T19:22:59.913,1,Common,Put Goblin into the Break Zone: Choose 1 Forward you control. It gains <strong>Haste</strong> until the end of the turn. Draw 1 card.,0.25,0.41,1.0,0.31,,Normal,4-012C,Monster,Fire,1,,Goblin,Theatrhythm
+152983,Zack EX,Zack EX,https://tcgplayer-cdn.tcgplayer.com/product/152983_200w.jpg,24,1947,https://cpt.tcgcsv.com/Hcf2,2018-03-13T12:57:59.82,1,Common,"<strong>EX BURST</strong> When Zack enters the field, choose 1 <em>Card Name Cloud</em> or <em>Job SOLDIER</em> in your Break Zone. Add it to your hand.",0.45,0.96,6.0,0.87,,Foil,4-013C,Backup,Fire,3,,SOLDIER,VII;Theatrhythm
+152983,Zack EX,Zack EX,https://tcgplayer-cdn.tcgplayer.com/product/152983_200w.jpg,24,1947,https://cpt.tcgcsv.com/Hcf2,2018-03-13T12:57:59.82,1,Common,"<strong>EX BURST</strong> When Zack enters the field, choose 1 <em>Card Name Cloud</em> or <em>Job SOLDIER</em> in your Break Zone. Add it to your hand.",0.03,0.15,0.99,0.07,,Normal,4-013C,Backup,Fire,3,,SOLDIER,VII;Theatrhythm
+152984,Bomb,Bomb,https://tcgplayer-cdn.tcgplayer.com/product/152984_200w.jpg,24,1947,https://cpt.tcgcsv.com/Jcf2,2017-11-24T19:23:42.37,1,Rare,"[R]: Until the end of the turn, Bomb also becomes a Forward with 5000 power and ""Put Bomb into the Break Zone: Deal 4000 damage to all Forwards."" You can only use this ability once per turn.",0.25,0.31,1.87,0.31,,Foil,4-018R,Monster,Fire,2,,Bomb,FFT
+152984,Bomb,Bomb,https://tcgplayer-cdn.tcgplayer.com/product/152984_200w.jpg,24,1947,https://cpt.tcgcsv.com/Jcf2,2017-11-24T19:23:42.37,1,Rare,"[R]: Until the end of the turn, Bomb also becomes a Forward with 5000 power and ""Put Bomb into the Break Zone: Deal 4000 damage to all Forwards."" You can only use this ability once per turn.",0.02,0.15,0.99,0.12,,Normal,4-018R,Monster,Fire,2,,Bomb,FFT
+152985,Sabin,Sabin,https://tcgplayer-cdn.tcgplayer.com/product/152985_200w.jpg,24,1947,https://cpt.tcgcsv.com/Kcf2,2017-11-24T19:24:03.09,1,Legend,"When Sabin enters the field or attacks, choose 1 Forward you control. It cannot be broken this turn.
+<br>[R][1]: Sabin gains +2000 power until the end of the turn. You can only use this ability while Sabin is attacking.
+<br><strong>Rising Phoenix</strong> [S][R][R][2]: Deal 8000 damage to all Forwards. You can only use this ability while Sabin is attacking.",0.85,1.0,3.0,0.92,,Foil,4-021L,Forward,Fire,4,8000,Monk,VI
+152985,Sabin,Sabin,https://tcgplayer-cdn.tcgplayer.com/product/152985_200w.jpg,24,1947,https://cpt.tcgcsv.com/Kcf2,2017-11-24T19:24:03.09,1,Legend,"When Sabin enters the field or attacks, choose 1 Forward you control. It cannot be broken this turn.
+<br>[R][1]: Sabin gains +2000 power until the end of the turn. You can only use this ability while Sabin is attacking.
+<br><strong>Rising Phoenix</strong> [S][R][R][2]: Deal 8000 damage to all Forwards. You can only use this ability while Sabin is attacking.",0.45,0.63,5.0,0.63,,Normal,4-021L,Forward,Fire,4,8000,Monk,VI
+152986,Setzer,Setzer,https://tcgplayer-cdn.tcgplayer.com/product/152986_200w.jpg,24,1947,https://cpt.tcgcsv.com/Lcf2,2017-11-24T19:24:28.373,1,Hero,"When Selzer enters the field, you may search for 1 <em>Category VI Character</em> and add it to your hand.
+<br>When Selzer is put from the field into the Break Zone, choose 1 Forward opponent controls. Dull it and <strong>Freeze</strong> it.",0.13,0.36,1.0,0.36,,Normal,4-036H,Forward,Ice,5,7000,Gambler,VI
+152986,Setzer,Setzer,https://tcgplayer-cdn.tcgplayer.com/product/152986_200w.jpg,24,1947,https://cpt.tcgcsv.com/Lcf2,2017-11-24T19:24:28.373,1,Hero,"When Selzer enters the field, you may search for 1 <em>Category VI Character</em> and add it to your hand.
+<br>When Selzer is put from the field into the Break Zone, choose 1 Forward opponent controls. Dull it and <strong>Freeze</strong> it.",0.24,0.59,1.65,0.83,,Foil,4-036H,Forward,Ice,5,7000,Gambler,VI
+152987,Mecha Chocobo,Mecha Chocobo,https://tcgplayer-cdn.tcgplayer.com/product/152987_200w.jpg,24,1947,https://cpt.tcgcsv.com/Mcf2,2018-03-13T13:47:09.25,1,Hero,"Mecha Chocobo cannot be chosen by summons.
+<br>When Mecha Chocobo attacks, choose 1 <strong>dull</strong> Forward of cost 4 or less opponent controls. Break it.
+<br>When Mecha Chocobo is blocked, break Mecha Chocobo.",0.19,0.25,208690.97,0.24,,Normal,4-045H,Forward,Ice,4,7000,Mech,World of Final Fantasy
+152987,Mecha Chocobo,Mecha Chocobo,https://tcgplayer-cdn.tcgplayer.com/product/152987_200w.jpg,24,1947,https://cpt.tcgcsv.com/Mcf2,2018-03-13T13:47:09.25,1,Hero,"Mecha Chocobo cannot be chosen by summons.
+<br>When Mecha Chocobo attacks, choose 1 <strong>dull</strong> Forward of cost 4 or less opponent controls. Break it.
+<br>When Mecha Chocobo is blocked, break Mecha Chocobo.",0.25,0.74,2.0,,,Foil,4-045H,Forward,Ice,4,7000,Mech,World of Final Fantasy
+152989,Remedi,Remedi,https://tcgplayer-cdn.tcgplayer.com/product/152989_200w.jpg,24,1947,https://cpt.tcgcsv.com/Pcf2,2017-11-24T19:25:09.103,1,Rare,"If you control <em>Card Name Cid Randell</em>, Remedi gains +1000 power.
+<br>When your opponent plays a Character onto the field other than from his/her hand, if your opponent doesn't pay [2], break it.",0.05,0.25,1.0,0.23,,Normal,4-047R,Forward,Ice,3,7000,Queen,FFTA
+152989,Remedi,Remedi,https://tcgplayer-cdn.tcgplayer.com/product/152989_200w.jpg,24,1947,https://cpt.tcgcsv.com/Pcf2,2017-11-24T19:25:09.103,1,Rare,"If you control <em>Card Name Cid Randell</em>, Remedi gains +1000 power.
+<br>When your opponent plays a Character onto the field other than from his/her hand, if your opponent doesn't pay [2], break it.",7.48,8.24,12.0,8.66,,Foil,4-047R,Forward,Ice,3,7000,Queen,FFTA
+152990,Ahriman,Ahriman,https://tcgplayer-cdn.tcgplayer.com/product/152990_200w.jpg,24,1947,https://cpt.tcgcsv.com/Qcf2,2017-11-24T19:25:25.307,1,Common,"[G], put Ahriman into the Break Zone: Choose 1 Monster of cost 5 or more. Break it.
+<br>[G], put Ahriman into the Break Zone: Choose 1 Forward of cost 5 or more. Break it.",0.01,0.1,0.99,0.1,,Normal,4-049C,Monster,Wind,2,,Ahriman,Theatrhythm
+152990,Ahriman,Ahriman,https://tcgplayer-cdn.tcgplayer.com/product/152990_200w.jpg,24,1947,https://cpt.tcgcsv.com/Qcf2,2017-11-24T19:25:25.307,1,Common,"[G], put Ahriman into the Break Zone: Choose 1 Monster of cost 5 or more. Break it.
+<br>[G], put Ahriman into the Break Zone: Choose 1 Forward of cost 5 or more. Break it.",0.25,0.49,2.52,0.75,,Foil,4-049C,Monster,Wind,2,,Ahriman,Theatrhythm
+152991,Alexander EX,Alexander EX,https://tcgplayer-cdn.tcgplayer.com/product/152991_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rcf2,2023-03-22T15:23:26.413,1,Common,"<strong>EX BURST</strong> Select 1 of the 2 following actions.
+<br>""Choose 1 Monster. Break it.""
+<br>""Choose 1 Backup you control. Activate it. Draw 1 card.""",0.43,0.49,1.34,0.47,,Foil,4-052C,Summon,Wind,2,,,DFF
+152991,Alexander EX,Alexander EX,https://tcgplayer-cdn.tcgplayer.com/product/152991_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rcf2,2023-03-22T15:23:26.413,1,Common,"<strong>EX BURST</strong> Select 1 of the 2 following actions.
+<br>""Choose 1 Monster. Break it.""
+<br>""Choose 1 Backup you control. Activate it. Draw 1 card.""",0.05,0.15,0.99,0.08,,Normal,4-052C,Summon,Wind,2,,,DFF
+152992,Hope EX,Hope EX,https://tcgplayer-cdn.tcgplayer.com/product/152992_200w.jpg,24,1947,https://cpt.tcgcsv.com/Scf2,2017-11-24T19:26:23.32,1,Hero,"<strong>EX BURST</strong> When Hope enters the field, you may search for 1 <em>Card Name Alexander</em> and add it to your hand.
+[Dull]: Choose 1 Forward. Activate it.",0.23,0.42,1.0,0.53,,Foil,4-068H,Forward,Wind,4,5000,Supreme Advisor,XIII
+152992,Hope EX,Hope EX,https://tcgplayer-cdn.tcgplayer.com/product/152992_200w.jpg,24,1947,https://cpt.tcgcsv.com/Scf2,2017-11-24T19:26:23.32,1,Hero,"<strong>EX BURST</strong> When Hope enters the field, you may search for 1 <em>Card Name Alexander</em> and add it to your hand.
+[Dull]: Choose 1 Forward. Activate it.",0.1,0.25,208761.03,0.2,,Normal,4-068H,Forward,Wind,4,5000,Supreme Advisor,XIII
+152993,Ritz,Ritz,https://tcgplayer-cdn.tcgplayer.com/product/152993_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tcf2,2017-11-24T19:32:12.367,1,Hero,"Characters you control cannot be returned to their owner's hand by your opponent's Summons or abilities.
+<br>If you control <em>Card Name Shara</em>, Ritz gains +2000 power.",0.45,0.57,2.0,0.46,,Foil,4-072H,Forward,Wind,3,7000,Fencer,FFTA
+152993,Ritz,Ritz,https://tcgplayer-cdn.tcgplayer.com/product/152993_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tcf2,2017-11-24T19:32:12.367,1,Hero,"Characters you control cannot be returned to their owner's hand by your opponent's Summons or abilities.
+<br>If you control <em>Card Name Shara</em>, Ritz gains +2000 power.",0.13,0.26,2.0,0.29,,Normal,4-072H,Forward,Wind,3,7000,Fencer,FFTA
+152994,Magic Pot,Magic Pot,https://tcgplayer-cdn.tcgplayer.com/product/152994_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vcf2,2017-11-24T19:32:33.4,1,Rare,"Magic Pot enters the field dull.
+<br>[Y][Dull], put Magic Pot and 1 Forward into the Break Zone: <strong>Search</strong> for 1 Forward with the same name as the Forward you put into the Break Zone and play it onto the field. You can only use this ability during your turn.",2.75,2.95,5.0,2.98,,Foil,4-094R,Monster,Earth,1,,Magic Pot,Theatrhythm
+152994,Magic Pot,Magic Pot,https://tcgplayer-cdn.tcgplayer.com/product/152994_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vcf2,2017-11-24T19:32:33.4,1,Rare,"Magic Pot enters the field dull.
+<br>[Y][Dull], put Magic Pot and 1 Forward into the Break Zone: <strong>Search</strong> for 1 Forward with the same name as the Forward you put into the Break Zone and play it onto the field. You can only use this ability during your turn.",0.04,0.18,0.99,0.18,,Normal,4-094R,Monster,Earth,1,,Magic Pot,Theatrhythm
+152995,Ark Angel EV,Ark Angel EV,https://tcgplayer-cdn.tcgplayer.com/product/152995_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wcf2,2018-03-13T13:06:14.46,1,Hero,"If Ark Angel EV deals damage to a Forward, increase the damage by 2000 instead.
+<br>If Ark Angel EV is dealt damage by a Character, reduce the damage by 2000 instead.",0.03,0.25,1.0,0.1,,Normal,4-097H,Forward,Lightning,3,6000,Ark Angel,XI;Lord of Vermilion
+152995,Ark Angel EV,Ark Angel EV,https://tcgplayer-cdn.tcgplayer.com/product/152995_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wcf2,2018-03-13T13:06:14.46,1,Hero,"If Ark Angel EV deals damage to a Forward, increase the damage by 2000 instead.
+<br>If Ark Angel EV is dealt damage by a Character, reduce the damage by 2000 instead.",0.23,0.36,1.0,0.26,,Foil,4-097H,Forward,Lightning,3,6000,Ark Angel,XI;Lord of Vermilion
+152996,Dragon,Dragon,https://tcgplayer-cdn.tcgplayer.com/product/152996_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xcf2,2017-11-24T19:33:07.983,1,Common,"[P], put Dragon into the Break Zone: Choose 1 Monster of cost 4 or less. Break it.
+<br>[P][1], put Dragon into the Break Zone: Choose 1 Forward of cost 4 or less. Break it.",0.03,0.2,0.99,0.11,,Normal,4-106C,Monster,Lightning,2,,Dragon,FFT
+152996,Dragon,Dragon,https://tcgplayer-cdn.tcgplayer.com/product/152996_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xcf2,2017-11-24T19:33:07.983,1,Common,"[P], put Dragon into the Break Zone: Choose 1 Monster of cost 4 or less. Break it.
+<br>[P][1], put Dragon into the Break Zone: Choose 1 Forward of cost 4 or less. Break it.",0.18,0.47,1.25,0.31,,Foil,4-106C,Monster,Lightning,2,,Dragon,FFT
+152998,Gau,Gau,https://tcgplayer-cdn.tcgplayer.com/product/152998_200w.jpg,24,1947,https://cpt.tcgcsv.com/-cf2,2017-11-24T19:33:24.787,1,Hero,"For each Monster you control, Gau gain +1000 power.
+<br>When Gau enters the field, choose 1 Monster of cost 2 or less in your Break Zone. Play it onto the field.
+<br><strong>Rage</strong> [S][U][Dull]: Choose 1 Forward. Break it. You can only use this ability if you control 3 or more Monsters.",0.5,0.86,1.98,0.83,,Normal,4-123H,Forward,Water,5,6000,Wild Child,VI
+152998,Gau,Gau,https://tcgplayer-cdn.tcgplayer.com/product/152998_200w.jpg,24,1947,https://cpt.tcgcsv.com/-cf2,2017-11-24T19:33:24.787,1,Hero,"For each Monster you control, Gau gain +1000 power.
+<br>When Gau enters the field, choose 1 Monster of cost 2 or less in your Break Zone. Play it onto the field.
+<br><strong>Rage</strong> [S][U][Dull]: Choose 1 Forward. Break it. You can only use this ability if you control 3 or more Monsters.",0.25,2.38,7.5,2.93,,Foil,4-123H,Forward,Water,5,6000,Wild Child,VI
+152999,Brahne EX,Brahne EX,https://tcgplayer-cdn.tcgplayer.com/product/152999_200w.jpg,24,1947,https://cpt.tcgcsv.com/_cf2,2018-10-15T12:26:09.993,1,Common,"<strong>EX BURST</strong> When Brahne enters the field, you may <strong>search</strong> for 1 <em>Job Standard Unit Forward</em> and add it to your hand.",0.25,0.96,5.0,2.01,,Foil,4-134C,Backup,Water,3,,Queen,IX
+152999,Brahne EX,Brahne EX,https://tcgplayer-cdn.tcgplayer.com/product/152999_200w.jpg,24,1947,https://cpt.tcgcsv.com/_cf2,2018-10-15T12:26:09.993,1,Common,"<strong>EX BURST</strong> When Brahne enters the field, you may <strong>search</strong> for 1 <em>Job Standard Unit Forward</em> and add it to your hand.",0.01,0.13,0.99,0.09,,Normal,4-134C,Backup,Water,3,,Queen,IX
+153000,Leviathan EX,Leviathan EX,https://tcgplayer-cdn.tcgplayer.com/product/153000_200w.jpg,24,1947,https://cpt.tcgcsv.com/0df2,2023-03-22T15:30:00.857,1,Rare,<strong>EX BURST</strong> Choose 1 Forward you control and 1 Forward opponent controls. Return them to their owners' hand.,0.69,0.75,1.5,0.43,,Foil,4-143R,Summon,Water,3,,,DFF
+153000,Leviathan EX,Leviathan EX,https://tcgplayer-cdn.tcgplayer.com/product/153000_200w.jpg,24,1947,https://cpt.tcgcsv.com/0df2,2023-03-22T15:30:00.857,1,Rare,<strong>EX BURST</strong> Choose 1 Forward you control and 1 Forward opponent controls. Return them to their owners' hand.,0.04,0.19,0.99,0.13,,Normal,4-143R,Summon,Water,3,,,DFF
+153281,Red Mage,Red Mage,https://tcgplayer-cdn.tcgplayer.com/product/153281_200w.jpg,24,1947,https://cpt.tcgcsv.com/Fkf2,2017-11-24T19:36:38.573,1,Common,"[R] Dull: : Choose 1 Forward. During this turn, the damage dealt to it is increased by 1000 instead.",0.01,0.1,0.99,0.09,,Normal,4-002C,Backup,Fire,,,Standard Unit,III
+153281,Red Mage,Red Mage,https://tcgplayer-cdn.tcgplayer.com/product/153281_200w.jpg,24,1947,https://cpt.tcgcsv.com/Fkf2,2017-11-24T19:36:38.573,1,Common,"[R] Dull: : Choose 1 Forward. During this turn, the damage dealt to it is increased by 1000 instead.",0.24,0.32,1.0,0.25,,Foil,4-002C,Backup,Fire,,,Standard Unit,III
+153285,Edgar EX,Edgar EX,https://tcgplayer-cdn.tcgplayer.com/product/153285_200w.jpg,24,1947,https://cpt.tcgcsv.com/Kkf2,2017-11-24T19:40:39.183,1,Hero,"<strong>EX BURST</strong> When Edgar enters the field, you may search for 1 Card Name Sabin and add it to your hand.
+<br>Dull: Choose 1 Forward. Deal it 2000 damage. 
+<br><strong><em>Drill</strong></em> [S][R][R]1 Dull: Choose 1 Forward. Break it.",0.98,1.16,4.57,1.16,,Foil,4-004H,Forward,Fire,5,7000,King,VI
+153285,Edgar EX,Edgar EX,https://tcgplayer-cdn.tcgplayer.com/product/153285_200w.jpg,24,1947,https://cpt.tcgcsv.com/Kkf2,2017-11-24T19:40:39.183,1,Hero,"<strong>EX BURST</strong> When Edgar enters the field, you may search for 1 Card Name Sabin and add it to your hand.
+<br>Dull: Choose 1 Forward. Deal it 2000 damage. 
+<br><strong><em>Drill</strong></em> [S][R][R]1 Dull: Choose 1 Forward. Break it.",0.12,0.3,1.0,0.25,,Normal,4-004H,Forward,Fire,5,7000,King,VI
+153286,Garland,Garland,https://tcgplayer-cdn.tcgplayer.com/product/153286_200w.jpg,24,1947,https://cpt.tcgcsv.com/Lkf2,2023-03-22T15:23:35.28,1,Rare,"When Garland enters the field, you may play 1 Fire Backup of cost 3 or less from your hand onto the field <strong>dull</strong>.",0.25,0.3,0.75,0.25,,Foil,4-005R,Forward,Fire,6,9000,Knight,I;DFF
+153286,Garland,Garland,https://tcgplayer-cdn.tcgplayer.com/product/153286_200w.jpg,24,1947,https://cpt.tcgcsv.com/Lkf2,2023-03-22T15:23:35.28,1,Rare,"When Garland enters the field, you may play 1 Fire Backup of cost 3 or less from your hand onto the field <strong>dull</strong>.",0.01,0.15,0.99,0.04,,Normal,4-005R,Forward,Fire,6,9000,Knight,I;DFF
+153287,Cyan,Cyan,https://tcgplayer-cdn.tcgplayer.com/product/153287_200w.jpg,24,1947,https://cpt.tcgcsv.com/Mkf2,2017-11-24T19:44:13.35,1,Hero,"<strong>Brave</strong>
+<br>The Category VI Forwards other than Cyan you control gain Brave.
+<br><br>
+<strong>Bushido: Fang</strong>  [S] Dull: Choose 1 Forward. At the beginning of your next Main Phase 1, if Cyan is on your field, break it.",0.25,0.67,4.95,0.84,,Foil,4-007H,Forward,Fire,3,7000,Samurai,VI
+153287,Cyan,Cyan,https://tcgplayer-cdn.tcgplayer.com/product/153287_200w.jpg,24,1947,https://cpt.tcgcsv.com/Mkf2,2017-11-24T19:44:13.35,1,Hero,"<strong>Brave</strong>
+<br>The Category VI Forwards other than Cyan you control gain Brave.
+<br><br>
+<strong>Bushido: Fang</strong>  [S] Dull: Choose 1 Forward. At the beginning of your next Main Phase 1, if Cyan is on your field, break it.",0.21,0.37,1.0,0.37,,Normal,4-007H,Forward,Fire,3,7000,Samurai,VI
+153289,Scholar,Scholar,https://tcgplayer-cdn.tcgplayer.com/product/153289_200w.jpg,24,1947,https://cpt.tcgcsv.com/Pkf2,2017-11-24T19:45:52.347,1,Common,"[R] Dull, put Scholar into the Break Zone: Choose up to 2 Forwards opponent controls. Deal them 3000 damage.",0.01,0.1,0.99,0.08,,Normal,4-008C,Backup,Fire,2,,Standard Unit,III
+153289,Scholar,Scholar,https://tcgplayer-cdn.tcgplayer.com/product/153289_200w.jpg,24,1947,https://cpt.tcgcsv.com/Pkf2,2017-11-24T19:45:52.347,1,Common,"[R] Dull, put Scholar into the Break Zone: Choose up to 2 Forwards opponent controls. Deal them 3000 damage.",0.17,0.33,1.0,,,Foil,4-008C,Backup,Fire,2,,Standard Unit,III
+153291,Ranger,Ranger,https://tcgplayer-cdn.tcgplayer.com/product/153291_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rkf2,2017-11-24T19:47:05.253,1,Common,"<strong>Haste</strong>
+<br>When Ranger attacks, deal 2000 damage to all the 
+<br>Forwards opponent controls.",0.22,0.25,1.5,0.24,,Foil,4-009C,Forward,Fire,3,,Standard Unit,III
+153291,Ranger,Ranger,https://tcgplayer-cdn.tcgplayer.com/product/153291_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rkf2,2017-11-24T19:47:05.253,1,Common,"<strong>Haste</strong>
+<br>When Ranger attacks, deal 2000 damage to all the 
+<br>Forwards opponent controls.",0.01,0.1,0.99,0.07,,Normal,4-009C,Forward,Fire,3,,Standard Unit,III
+153292,Black Mage,Black Mage,https://tcgplayer-cdn.tcgplayer.com/product/153292_200w.jpg,24,1947,https://cpt.tcgcsv.com/Skf2,2017-11-24T19:47:58.867,1,Common,"When Black Mage enters the field, choose up to 2 Forwards. Deal them 5000 damage.",0.21,0.48,1.0,0.23,,Foil,4-010C,Backup,Fire,4,,Standard Unit,FFT
+153292,Black Mage,Black Mage,https://tcgplayer-cdn.tcgplayer.com/product/153292_200w.jpg,24,1947,https://cpt.tcgcsv.com/Skf2,2017-11-24T19:47:58.867,1,Common,"When Black Mage enters the field, choose up to 2 Forwards. Deal them 5000 damage.",0.03,0.1,0.99,0.07,,Normal,4-010C,Backup,Fire,4,,Standard Unit,FFT
+153293,Sage,Sage,https://tcgplayer-cdn.tcgplayer.com/product/153293_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tkf2,2017-11-24T19:49:02.047,1,Common,"[Dull], put Sage into the Break Zone: Choose 1 Forward you control. If it deals damage to a Forward this turn, the damage increases by 2000 instead.",0.17,0.25,1.0,,,Foil,4-011C,Backup,Fire,2,,Standard Unit,III
+153293,Sage,Sage,https://tcgplayer-cdn.tcgplayer.com/product/153293_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tkf2,2017-11-24T19:49:02.047,1,Common,"[Dull], put Sage into the Break Zone: Choose 1 Forward you control. If it deals damage to a Forward this turn, the damage increases by 2000 instead.",0.01,0.1,0.99,0.08,,Normal,4-011C,Backup,Fire,2,,Standard Unit,III
+153294,Samurai,Samurai,https://tcgplayer-cdn.tcgplayer.com/product/153294_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vkf2,2017-11-24T19:50:10.677,1,Common,"If you have received 5 points of damage or more, Samurai gains +1000 power and Brave.",0.2,0.28,1.0,0.43,,Foil,4-014C,Forward,Fire,4,8000,Standard Unit,FFT
+153294,Samurai,Samurai,https://tcgplayer-cdn.tcgplayer.com/product/153294_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vkf2,2017-11-24T19:50:10.677,1,Common,"If you have received 5 points of damage or more, Samurai gains +1000 power and Brave.",0.01,0.1,0.99,0.08,,Normal,4-014C,Forward,Fire,4,8000,Standard Unit,FFT
+153295,Shadow,Shadow,https://tcgplayer-cdn.tcgplayer.com/product/153295_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wkf2,2017-11-24T19:51:34.4,1,Hero,"<strong>First Strike</strong>
+<br>[R][R], remove 1 card in your hand from the game: Choose 1 Forward. Deal it 1000 damage for each CP required to play the removed card.",0.15,0.28,1.0,0.27,,Normal,4-015H,Forward,Fire,4,7000,Assassin,VI
+153295,Shadow,Shadow,https://tcgplayer-cdn.tcgplayer.com/product/153295_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wkf2,2017-11-24T19:51:34.4,1,Hero,"<strong>First Strike</strong>
+<br>[R][R], remove 1 card in your hand from the game: Choose 1 Forward. Deal it 1000 damage for each CP required to play the removed card.",0.25,0.45,1.5,0.7,,Foil,4-015H,Forward,Fire,4,7000,Assassin,VI
+153296,Bahamut,Bahamut,https://tcgplayer-cdn.tcgplayer.com/product/153296_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xkf2,2017-11-24T19:52:39.237,1,Rare,"Choose 1 Forward. Deal it 8000 damage. If it is put from the field into the Break Zone this turn, remove it from the game instead.",0.05,0.2,8.04,0.11,,Normal,4-016R,Summon,Fire,4,,,Theatrhythm
+153296,Bahamut,Bahamut,https://tcgplayer-cdn.tcgplayer.com/product/153296_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xkf2,2017-11-24T19:52:39.237,1,Rare,"Choose 1 Forward. Deal it 8000 damage. If it is put from the field into the Break Zone this turn, remove it from the game instead.",0.25,0.75,4.99,0.39,,Foil,4-016R,Summon,Fire,4,,,Theatrhythm
+153297,Marauder,Marauder,https://tcgplayer-cdn.tcgplayer.com/product/153297_200w.jpg,24,1947,https://cpt.tcgcsv.com/Zkf2,2017-11-24T19:53:45.68,1,Rare,"When Marauder attacks, Marauder gains +8000 power until the end of the turn.",0.01,0.13,0.99,0.09,,Normal,4-017R,Forward,Fire,2,1000,Standard Unit,XIV
+153297,Marauder,Marauder,https://tcgplayer-cdn.tcgplayer.com/product/153297_200w.jpg,24,1947,https://cpt.tcgcsv.com/Zkf2,2017-11-24T19:53:45.68,1,Rare,"When Marauder attacks, Marauder gains +8000 power until the end of the turn.",0.25,0.29,1.0,0.25,,Foil,4-017R,Forward,Fire,2,1000,Standard Unit,XIV
+153298,Bomb (4-019C),Bomb 4 019C,https://tcgplayer-cdn.tcgplayer.com/product/153298_200w.jpg,24,1947,https://cpt.tcgcsv.com/-kf2,2017-11-24T19:55:10.01,1,Common,"Put Bomb into the Break Zone: Choose 1 Forward. 
+<br>Deal it 5000 damage.",0.01,0.1,0.99,0.1,,Normal,4-019C,Monster,Fire,1,,Bomb,Theatrhythm
+153298,Bomb (4-019C),Bomb 4 019C,https://tcgplayer-cdn.tcgplayer.com/product/153298_200w.jpg,24,1947,https://cpt.tcgcsv.com/-kf2,2017-11-24T19:55:10.01,1,Common,"Put Bomb into the Break Zone: Choose 1 Forward. 
+<br>Deal it 5000 damage.",0.22,0.42,4.46,0.42,,Foil,4-019C,Monster,Fire,1,,Bomb,Theatrhythm
+153299,Marche,Marche,https://tcgplayer-cdn.tcgplayer.com/product/153299_200w.jpg,24,1947,https://cpt.tcgcsv.com/_kf2,2017-11-24T19:57:50.733,1,Rare,<strong>Dull</strong> 1 active Forward: Choose 1 Forward blocking Marche. Deal it damage equal to the power of the <strong>dull</strong> Forward.,0.02,0.13,0.99,0.06,,Normal,4-020R,Forward,Fire,3,7000,Clan Leader,FFTA
+153299,Marche,Marche,https://tcgplayer-cdn.tcgplayer.com/product/153299_200w.jpg,24,1947,https://cpt.tcgcsv.com/_kf2,2017-11-24T19:57:50.733,1,Rare,<strong>Dull</strong> 1 active Forward: Choose 1 Forward blocking Marche. Deal it damage equal to the power of the <strong>dull</strong> Forward.,0.22,0.3,2.11,0.25,,Foil,4-020R,Forward,Fire,3,7000,Clan Leader,FFTA
+153300,Montblanc EX,Montblanc EX,https://tcgplayer-cdn.tcgplayer.com/product/153300_200w.jpg,24,1947,https://cpt.tcgcsv.com/0lf2,2017-11-24T20:00:09.9,1,Rare,"<strong>EX BURST</strong> When Montblanc enters the field, you may search for 1 Card Name Marche and add it to your hand.
+<br>[R][Dull]: Choose 1 Forward. Deal it 2000 damage. You can only use this ability if you control <em>Card Name Marche</em>.",0.01,0.15,0.75,0.08,,Normal,4-022R,Backup,Fire,4,,Moogle,FFTA
+153300,Montblanc EX,Montblanc EX,https://tcgplayer-cdn.tcgplayer.com/product/153300_200w.jpg,24,1947,https://cpt.tcgcsv.com/0lf2,2017-11-24T20:00:09.9,1,Rare,"<strong>EX BURST</strong> When Montblanc enters the field, you may search for 1 Card Name Marche and add it to your hand.
+<br>[R][Dull]: Choose 1 Forward. Deal it 2000 damage. You can only use this ability if you control <em>Card Name Marche</em>.",0.7,0.76,4.99,0.74,,Foil,4-022R,Backup,Fire,4,,Moogle,FFTA
+153302,General Leo,General Leo,https://tcgplayer-cdn.tcgplayer.com/product/153302_200w.jpg,24,1947,https://cpt.tcgcsv.com/3lf2,2017-11-24T20:01:58.343,1,Hero,"When General Leo attacks, choose 1 Forward opponent 
+<br>controls. Deal it 2000 damage.
+<br><strong>Shock</strong>  [S]3: Deal 5000 damage to all the Forwards 
+<br>opponent controls.",0.2,0.3,1.0,0.34,,Foil,4-023H,Forward,Fire,3,7000,Captain,VI
+153302,General Leo,General Leo,https://tcgplayer-cdn.tcgplayer.com/product/153302_200w.jpg,24,1947,https://cpt.tcgcsv.com/3lf2,2017-11-24T20:01:58.343,1,Hero,"When General Leo attacks, choose 1 Forward opponent 
+<br>controls. Deal it 2000 damage.
+<br><strong>Shock</strong>  [S]3: Deal 5000 damage to all the Forwards 
+<br>opponent controls.",0.1,0.25,0.99,0.15,,Normal,4-023H,Forward,Fire,3,7000,Captain,VI
+153308,Llednar,Llednar,https://tcgplayer-cdn.tcgplayer.com/product/153308_200w.jpg,24,1947,https://cpt.tcgcsv.com/blf2,2017-11-24T20:04:43.153,1,Rare,"When Llednar blocks or is blocked, if your opponent 
+<br>doesn't pay 2, Llednar cannot be broken this turn. 
+<br>When Llednar is chosen by a Summon or an ability 
+<br>of your opponent, if your opponent doesn't pay 2, 
+<br>Llednar cannot be broken this turn.",0.02,0.17,0.99,0.09,,Normal,4-024R,Forward,Fire,2,5000,Biskmatar,FFTA
+153308,Llednar,Llednar,https://tcgplayer-cdn.tcgplayer.com/product/153308_200w.jpg,24,1947,https://cpt.tcgcsv.com/blf2,2017-11-24T20:04:43.153,1,Rare,"When Llednar blocks or is blocked, if your opponent 
+<br>doesn't pay 2, Llednar cannot be broken this turn. 
+<br>When Llednar is chosen by a Summon or an ability 
+<br>of your opponent, if your opponent doesn't pay 2, 
+<br>Llednar cannot be broken this turn.",0.24,0.43,1.0,0.43,,Foil,4-024R,Forward,Fire,2,5000,Biskmatar,FFTA
+153313,Umaro EX,Umaro EX,https://tcgplayer-cdn.tcgplayer.com/product/153313_200w.jpg,24,1947,https://cpt.tcgcsv.com/hlf2,2017-11-25T20:28:12.91,1,Hero,"<strong>EX BURST</strong> When Umaro enters the field, you may 
+<br>search for 1 Monster and add it to your hand.
+<br>Umaro must attack once per turn if possible.
+<br><strong>Bodyslam</strong> [S][Dull]: Choose 1 Forward. Deal it 7000 damage.",0.45,0.68,1.49,1.0,,Foil,4-025H,Forward,Ice,6,9000,Yedi,VI
+153313,Umaro EX,Umaro EX,https://tcgplayer-cdn.tcgplayer.com/product/153313_200w.jpg,24,1947,https://cpt.tcgcsv.com/hlf2,2017-11-25T20:28:12.91,1,Hero,"<strong>EX BURST</strong> When Umaro enters the field, you may 
+<br>search for 1 Monster and add it to your hand.
+<br>Umaro must attack once per turn if possible.
+<br><strong>Bodyslam</strong> [S][Dull]: Choose 1 Forward. Deal it 7000 damage.",0.1,0.25,205231.33,0.2,,Normal,4-025H,Forward,Ice,6,9000,Yedi,VI
+153314,Gestahlian Empire Cid,Gestahlian Empire Cid,https://tcgplayer-cdn.tcgplayer.com/product/153314_200w.jpg,24,1947,https://cpt.tcgcsv.com/jlf2,2017-11-25T20:23:26.41,1,Hero,"When Gestahlian Empire Cid enters the field, 
+<br>you may search for 1 <em>Category VI</em> Forward and add it to your 
+<br>hand.",11.0,11.5,12.0,7.15,,Foil,4-026H,Backup,Ice,3,,Engineer,VI
+153314,Gestahlian Empire Cid,Gestahlian Empire Cid,https://tcgplayer-cdn.tcgplayer.com/product/153314_200w.jpg,24,1947,https://cpt.tcgcsv.com/jlf2,2017-11-25T20:23:26.41,1,Hero,"When Gestahlian Empire Cid enters the field, 
+<br>you may search for 1 <em>Category VI</em> Forward and add it to your 
+<br>hand.",0.2,0.5,5.95,0.53,,Normal,4-026H,Backup,Ice,3,,Engineer,VI
+153315,Bard,Bard,https://tcgplayer-cdn.tcgplayer.com/product/153315_200w.jpg,24,1947,https://cpt.tcgcsv.com/klf2,2017-11-25T20:24:36.617,1,Common,"[I][Dull], put Bard into the Break Zone: Choose 1 Forward. 
+<br><strong>Dull it</strong>.",0.23,0.3,1.0,0.28,,Foil,4-027C,Backup,Ice,2,,Standard Unit,III
+153315,Bard,Bard,https://tcgplayer-cdn.tcgplayer.com/product/153315_200w.jpg,24,1947,https://cpt.tcgcsv.com/klf2,2017-11-25T20:24:36.617,1,Common,"[I][Dull], put Bard into the Break Zone: Choose 1 Forward. 
+<br><strong>Dull it</strong>.",0.01,0.1,0.99,0.05,,Normal,4-027C,Backup,Ice,2,,Standard Unit,III
+153318,Bard (4-028C),Bard 4 028C,https://tcgplayer-cdn.tcgplayer.com/product/153318_200w.jpg,24,1947,https://cpt.tcgcsv.com/nlf2,2017-11-24T20:14:48.497,1,Common,"[I][I]2[Dull], put Bard into the Break Zone: Your opponent 
+<br>discards 2 cards from his/her hand. You can only use 
+<br>this ability during your turn.",0.35,0.5,1.0,0.4,,Foil,4-028C,Backup,Ice,2,,Standard Unit,FFT
+153318,Bard (4-028C),Bard 4 028C,https://tcgplayer-cdn.tcgplayer.com/product/153318_200w.jpg,24,1947,https://cpt.tcgcsv.com/nlf2,2017-11-24T20:14:48.497,1,Common,"[I][I]2[Dull], put Bard into the Break Zone: Your opponent 
+<br>discards 2 cards from his/her hand. You can only use 
+<br>this ability during your turn.",0.01,0.1,0.99,0.1,,Normal,4-028C,Backup,Ice,2,,Standard Unit,FFT
+153320,Ghoul,Ghoul,https://tcgplayer-cdn.tcgplayer.com/product/153320_200w.jpg,24,1947,https://cpt.tcgcsv.com/qlf2,2017-11-24T20:25:46.197,1,Common,[I]1[Dull]: Choose 1 Forward. <strong>Dull it</strong>.,0.2,0.25,1.0,0.22,,Foil,4-029C,Monster,Ice,2,,Ghoul,FFT
+153320,Ghoul,Ghoul,https://tcgplayer-cdn.tcgplayer.com/product/153320_200w.jpg,24,1947,https://cpt.tcgcsv.com/qlf2,2017-11-24T20:25:46.197,1,Common,[I]1[Dull]: Choose 1 Forward. <strong>Dull it</strong>.,0.02,0.1,0.99,0.08,,Normal,4-029C,Monster,Ice,2,,Ghoul,FFT
+153321,Black Mage (4-030C),Black Mage 4 030C,https://tcgplayer-cdn.tcgplayer.com/product/153321_200w.jpg,24,1947,https://cpt.tcgcsv.com/rlf2,2017-11-24T20:31:04.327,1,Common,"[Dull]:, put Black Mage into the Break Zone: Choose 1 dull Forward. Deal it 4000 damage.",0.01,0.1,1.95,0.05,,Normal,4-030C,Backup,Ice,2,,Standard Unit,III
+153321,Black Mage (4-030C),Black Mage 4 030C,https://tcgplayer-cdn.tcgplayer.com/product/153321_200w.jpg,24,1947,https://cpt.tcgcsv.com/rlf2,2017-11-24T20:31:04.327,1,Common,"[Dull]:, put Black Mage into the Break Zone: Choose 1 dull Forward. Deal it 4000 damage.",0.25,0.33,1.0,0.25,,Foil,4-030C,Backup,Ice,2,,Standard Unit,III
+153322,Sage (4-031C),Sage 4 031C,https://tcgplayer-cdn.tcgplayer.com/product/153322_200w.jpg,24,1947,https://cpt.tcgcsv.com/slf2,2017-11-24T20:32:51.35,1,Common,"[I][I][Dull], put Sage into the Break Zone: Choose up to 2 
+<br>Forwards opponent controls. <strong>Freeze</strong> them.",0.02,0.1,0.99,0.05,,Normal,4-031C,Backup,Ice,2,,Standard Unit,III
+153322,Sage (4-031C),Sage 4 031C,https://tcgplayer-cdn.tcgplayer.com/product/153322_200w.jpg,24,1947,https://cpt.tcgcsv.com/slf2,2017-11-24T20:32:51.35,1,Common,"[I][I][Dull], put Sage into the Break Zone: Choose up to 2 
+<br>Forwards opponent controls. <strong>Freeze</strong> them.",0.16,0.25,1.0,,,Foil,4-031C,Backup,Ice,2,,Standard Unit,III
+153323,Arithmetician,Arithmetician,https://tcgplayer-cdn.tcgplayer.com/product/153323_200w.jpg,24,1947,https://cpt.tcgcsv.com/tlf2,2017-11-24T20:33:49.27,1,Common,"When Arithmetician enters the field, select 1 number. 
+<br>Dull and Freeze all the Forwards of that cost.",0.01,0.1,1.95,0.09,,Normal,4-032C,Backup,Ice,4,,Standard Unit,FFT
+153323,Arithmetician,Arithmetician,https://tcgplayer-cdn.tcgplayer.com/product/153323_200w.jpg,24,1947,https://cpt.tcgcsv.com/tlf2,2017-11-24T20:33:49.27,1,Common,"When Arithmetician enters the field, select 1 number. 
+<br>Dull and Freeze all the Forwards of that cost.",0.21,0.35,1.0,0.28,,Foil,4-032C,Backup,Ice,4,,Standard Unit,FFT
+153324,Shiva EX,Shiva EX,https://tcgplayer-cdn.tcgplayer.com/product/153324_200w.jpg,24,1947,https://cpt.tcgcsv.com/vlf2,2017-11-24T20:36:01.733,1,Common,"<strong>EX BURST</strong> Choose 1 <strong>dull</strong> Forward. Deal it 6000 
+<br>damage and 1000 more damage for each <em>Card Name</em
+<br><em>Shiva</em in your Break Zone.",0.04,0.19,0.99,0.12,,Normal,4-033C,Summon,Ice,2,,,XIII
+153324,Shiva EX,Shiva EX,https://tcgplayer-cdn.tcgplayer.com/product/153324_200w.jpg,24,1947,https://cpt.tcgcsv.com/vlf2,2017-11-24T20:36:01.733,1,Common,"<strong>EX BURST</strong> Choose 1 <strong>dull</strong> Forward. Deal it 6000 
+<br>damage and 1000 more damage for each <em>Card Name</em
+<br><em>Shiva</em in your Break Zone.",0.6,1.15,3.0,1.3,,Foil,4-033C,Summon,Ice,2,,,XIII
+153325,Cid (WOFF),Cid WOFF,https://tcgplayer-cdn.tcgplayer.com/product/153325_200w.jpg,24,1947,https://cpt.tcgcsv.com/wlf2,2018-03-13T13:47:46.793,1,Rare,"Cid (WOFF) cannot be broken.
+<br>[Dull], put Cid (WOFF) into the Break Zone: Choose 1 
+<br>Monster of cost 2 or less in your Break Zone. Play it 
+<br>onto the field. You can only use this ability during your 
+<br>turn.",0.03,0.15,0.99,0.11,,Normal,4-034R,Backup,Ice,2,,Mech,World of Final Fantasy
+153325,Cid (WOFF),Cid WOFF,https://tcgplayer-cdn.tcgplayer.com/product/153325_200w.jpg,24,1947,https://cpt.tcgcsv.com/wlf2,2018-03-13T13:47:46.793,1,Rare,"Cid (WOFF) cannot be broken.
+<br>[Dull], put Cid (WOFF) into the Break Zone: Choose 1 
+<br>Monster of cost 2 or less in your Break Zone. Play it 
+<br>onto the field. You can only use this ability during your 
+<br>turn.",0.25,0.9,2.0,,,Foil,4-034R,Backup,Ice,2,,Mech,World of Final Fantasy
+153328,Cid Randell,Cid Randell,https://tcgplayer-cdn.tcgplayer.com/product/153328_200w.jpg,24,1947,https://cpt.tcgcsv.com/Blf2,2017-11-24T20:39:39.64,1,Rare,"If you control <em>Card Name Remedi</em>, Cid Randell gains
+<br>+1000 power. 
+<br>When your opponent's Forward enters the field, if your 
+<br>opponent doesn't pay 1,<strong>dull</strong> that Forward.",0.04,0.15,0.99,0.12,,Normal,4-035R,Forward,Ice,4,8000,Judgemaster,FFTA
+153328,Cid Randell,Cid Randell,https://tcgplayer-cdn.tcgplayer.com/product/153328_200w.jpg,24,1947,https://cpt.tcgcsv.com/Blf2,2017-11-24T20:39:39.64,1,Rare,"If you control <em>Card Name Remedi</em>, Cid Randell gains
+<br>+1000 power. 
+<br>When your opponent's Forward enters the field, if your 
+<br>opponent doesn't pay 1,<strong>dull</strong> that Forward.",0.25,0.5,4.47,0.51,,Foil,4-035R,Forward,Ice,4,8000,Judgemaster,FFTA
+153331,Serah,Serah,https://tcgplayer-cdn.tcgplayer.com/product/153331_200w.jpg,24,1947,https://cpt.tcgcsv.com/Flf2,2017-11-24T20:41:54.833,1,Hero,"When Serah enters the field, choose 1 Forward 
+<br>opponent controls. If you control a <em>Category XIII</em> 
+<br>Forward other than Serah, <strong>dull</strong> it and Freeze it. 
+<br>When Serah attacks, you may pay [I][I], if you do so, 
+<br>your opponent discards 1 card from his/her hand.",0.23,0.62,2.0,0.58,,Foil,4-037H,Forward,Ice,2,5000,Commando,XIII
+153331,Serah,Serah,https://tcgplayer-cdn.tcgplayer.com/product/153331_200w.jpg,24,1947,https://cpt.tcgcsv.com/Flf2,2017-11-24T20:41:54.833,1,Hero,"When Serah enters the field, choose 1 Forward 
+<br>opponent controls. If you control a <em>Category XIII</em> 
+<br>Forward other than Serah, <strong>dull</strong> it and Freeze it. 
+<br>When Serah attacks, you may pay [I][I], if you do so, 
+<br>your opponent discards 1 card from his/her hand.",0.15,0.3,1.0,0.2,,Normal,4-037H,Forward,Ice,2,5000,Commando,XIII
+153332,Celes,Celes,https://tcgplayer-cdn.tcgplayer.com/product/153332_200w.jpg,24,1947,https://cpt.tcgcsv.com/Glf2,2017-11-24T20:45:08.203,1,Legend,"When Celes enters the field, choose 1 Character. 
+<br><strong>Freeze</strong> it.
+<br>When Celes deals damage to your opponent, choose 1 
+<br><strong>dull</strong> Forward opponent controls. Deal it 4000 damage.
+<br>Runic  [S][I]: Choose 1 Summon. Cancel its effect. 
+<br><strong>Activate</strong> Celes.",0.94,3.18,11.21,0.94,,Foil,4-038L,Forward,Ice,4,8000,Rune Knight,VI
+153332,Celes,Celes,https://tcgplayer-cdn.tcgplayer.com/product/153332_200w.jpg,24,1947,https://cpt.tcgcsv.com/Glf2,2017-11-24T20:45:08.203,1,Legend,"When Celes enters the field, choose 1 Character. 
+<br><strong>Freeze</strong> it.
+<br>When Celes deals damage to your opponent, choose 1 
+<br><strong>dull</strong> Forward opponent controls. Deal it 4000 damage.
+<br>Runic  [S][I]: Choose 1 Summon. Cancel its effect. 
+<br><strong>Activate</strong> Celes.",0.8,0.97,4.0,0.94,,Normal,4-038L,Forward,Ice,4,8000,Rune Knight,VI
+153336,Rogue,Rogue,https://tcgplayer-cdn.tcgplayer.com/product/153336_200w.jpg,24,1947,https://cpt.tcgcsv.com/Llf2,2017-11-24T20:46:41.487,1,Rare,"When Rogue deals damage to a Forward, dull it and 
+<br><strong>Freeze</strong> it.",0.23,0.42,1.0,0.23,,Foil,4-039R,Forward,Ice,2,5000,Standard Unit,XIV
+153336,Rogue,Rogue,https://tcgplayer-cdn.tcgplayer.com/product/153336_200w.jpg,24,1947,https://cpt.tcgcsv.com/Llf2,2017-11-24T20:46:41.487,1,Rare,"When Rogue deals damage to a Forward, dull it and 
+<br><strong>Freeze</strong> it.",0.01,0.15,0.99,0.09,,Normal,4-039R,Forward,Ice,2,5000,Standard Unit,XIV
+153338,Knight,Knight,https://tcgplayer-cdn.tcgplayer.com/product/153338_200w.jpg,24,1947,https://cpt.tcgcsv.com/Nlf2,2017-11-24T20:51:46.93,1,Common,,0.02,0.1,0.99,0.09,,Normal,4-040C,Forward,Ice,4,8000,Standard Unit,FFT
+153338,Knight,Knight,https://tcgplayer-cdn.tcgplayer.com/product/153338_200w.jpg,24,1947,https://cpt.tcgcsv.com/Nlf2,2017-11-24T20:51:46.93,1,Common,,0.16,0.42,1.0,0.2,,Foil,4-040C,Forward,Ice,4,8000,Standard Unit,FFT
+153339,Swampmonk,Swampmonk,https://tcgplayer-cdn.tcgplayer.com/product/153339_200w.jpg,24,1947,https://cpt.tcgcsv.com/Plf2,2017-11-24T21:05:11.067,1,Rare,"[I]: Until the end of the turn, Swampmonk also becomes
+<br>a Forward with 5000 power and ""When Swampmonk 
+<br>attacks, choose 1 Forward or Monster. <strong>Dull</strong> it."" You can
+<br>only use this ability once per turn.",0.03,0.15,0.99,0.1,,Normal,4-041R,Monster,Ice,2,,Sahagin,XIII
+153339,Swampmonk,Swampmonk,https://tcgplayer-cdn.tcgplayer.com/product/153339_200w.jpg,24,1947,https://cpt.tcgcsv.com/Plf2,2017-11-24T21:05:11.067,1,Rare,"[I]: Until the end of the turn, Swampmonk also becomes
+<br>a Forward with 5000 power and ""When Swampmonk 
+<br>attacks, choose 1 Forward or Monster. <strong>Dull</strong> it."" You can
+<br>only use this ability once per turn.",0.14,0.25,1.0,0.15,,Foil,4-041R,Monster,Ice,2,,Sahagin,XIII
+153340,Babus,Babus,https://tcgplayer-cdn.tcgplayer.com/product/153340_200w.jpg,24,1947,https://cpt.tcgcsv.com/Qlf2,2017-11-24T21:08:07.883,1,Common,"When a Forward opponent controls attacks, choose 1 
+<br>Forward opponent controls. If your opponent doesn't
+<br>pay 1, <strong>Freeze</strong> it.",0.01,0.11,0.99,0.08,,Normal,4-042C,Forward,Ice,2,5000,Runeseeker,FFTA
+153340,Babus,Babus,https://tcgplayer-cdn.tcgplayer.com/product/153340_200w.jpg,24,1947,https://cpt.tcgcsv.com/Qlf2,2017-11-24T21:08:07.883,1,Common,"When a Forward opponent controls attacks, choose 1 
+<br>Forward opponent controls. If your opponent doesn't
+<br>pay 1, <strong>Freeze</strong> it.",0.14,0.44,1.0,0.13,,Foil,4-042C,Forward,Ice,2,5000,Runeseeker,FFTA
+153341,Flan,Flan,https://tcgplayer-cdn.tcgplayer.com/product/153341_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rlf2,2017-11-24T22:52:43.52,1,Common,"[I][Dull]: Search for 1 Card Name Flan and add it to your 
+<br>hand.
+<br>[Dull], put Flan into the Break Zone: Your opponent
+<br>discards 1 card from his/her hand. You can only use this
+<br>ability during your turn.",0.02,0.15,1.95,0.12,,Normal,4-043C,Monster,Ice,1,,Flan,Theatrhythm
+153341,Flan,Flan,https://tcgplayer-cdn.tcgplayer.com/product/153341_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rlf2,2017-11-24T22:52:43.52,1,Common,"[I][Dull]: Search for 1 Card Name Flan and add it to your 
+<br>hand.
+<br>[Dull], put Flan into the Break Zone: Your opponent
+<br>discards 1 card from his/her hand. You can only use this
+<br>ability during your turn.",0.89,1.15,1.36,1.3,,Foil,4-043C,Monster,Ice,1,,Flan,Theatrhythm
+153342,Mewt EX,Mewt EX,https://tcgplayer-cdn.tcgplayer.com/product/153342_200w.jpg,24,1947,https://cpt.tcgcsv.com/Slf2,2017-11-24T21:13:47.98,1,Rare,"<strong>EX BURST</strong> When Mewt enters the field, you may 
+<br>search for 1 <em>Card Name Cid Randell</em> or <em>Card Name</em> 
+<br><em>Remedi</em and add it to your hand.",0.11,0.25,1.0,0.25,,Normal,4-044R,Backup,Ice,3,,Prince,FFTA
+153342,Mewt EX,Mewt EX,https://tcgplayer-cdn.tcgplayer.com/product/153342_200w.jpg,24,1947,https://cpt.tcgcsv.com/Slf2,2017-11-24T21:13:47.98,1,Rare,"<strong>EX BURST</strong> When Mewt enters the field, you may 
+<br>search for 1 <em>Card Name Cid Randell</em> or <em>Card Name</em> 
+<br><em>Remedi</em and add it to your hand.",10.99,11.0,12.5,9.04,,Foil,4-044R,Backup,Ice,3,,Prince,FFTA
+153343,Locke,Locke,https://tcgplayer-cdn.tcgplayer.com/product/153343_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tlf2,2017-11-24T21:16:35.107,1,Legend,"When Locke enters the field, if you control 2 
+<br>or more <em>Category VI</em> Characters other than Locke, your 
+<br>opponent discards 1 card from his/her hand. 
+<br>When Locke deals damage to your opponent, 
+<br>your opponent discards 1 card from his/her hand.
+<br><strong>Mirage Dive</strong> [S]: Locke cannot be blocked this turn.",3.98,9.99,21.0,4.9,,Normal,4-048L,Forward,Ice,3,7000,Treasure Hunter,VI
+153343,Locke,Locke,https://tcgplayer-cdn.tcgplayer.com/product/153343_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tlf2,2017-11-24T21:16:35.107,1,Legend,"When Locke enters the field, if you control 2 
+<br>or more <em>Category VI</em> Characters other than Locke, your 
+<br>opponent discards 1 card from his/her hand. 
+<br>When Locke deals damage to your opponent, 
+<br>your opponent discards 1 card from his/her hand.
+<br><strong>Mirage Dive</strong> [S]: Locke cannot be blocked this turn.",5.0,7.99,34.99,5.24,,Foil,4-048L,Forward,Ice,3,7000,Treasure Hunter,VI
+153344,A-Ruhn-Senna,A Ruhn Senna,https://tcgplayer-cdn.tcgplayer.com/product/153344_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vlf2,2021-07-19T13:22:09.673,1,Rare,"When A-Ruhn-Senna enters the field, you may <strong>search</strong> for 1 <em>Card Name Kan-E-Senna</em> or <em>Card Name Raya-O-Senna</em> and add it to your hand.",0.02,0.13,0.99,0.07,,Normal,4-050R,Backup,Wind,4,,Seedseer,XIV
+153344,A-Ruhn-Senna,A Ruhn Senna,https://tcgplayer-cdn.tcgplayer.com/product/153344_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vlf2,2021-07-19T13:22:09.673,1,Rare,"When A-Ruhn-Senna enters the field, you may <strong>search</strong> for 1 <em>Card Name Kan-E-Senna</em> or <em>Card Name Raya-O-Senna</em> and add it to your hand.",0.23,0.43,1.0,0.55,,Foil,4-050R,Backup,Wind,4,,Seedseer,XIV
+153345,Alexander EX (4-051H),Alexander EX 4 051H,https://tcgplayer-cdn.tcgplayer.com/product/153345_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wlf2,2023-03-22T15:23:18.013,1,Hero,"<strong>EX BURST</strong> Choose 1 Forward of power 9000 or more. 
+<br><strong>Break</strong> it.",0.19,0.25,1.0,,,Foil,4-051H,Summon,Wind,5,,,DFF
+153345,Alexander EX (4-051H),Alexander EX 4 051H,https://tcgplayer-cdn.tcgplayer.com/product/153345_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wlf2,2023-03-22T15:23:18.013,1,Hero,"<strong>EX BURST</strong> Choose 1 Forward of power 9000 or more. 
+<br><strong>Break</strong> it.",0.1,0.25,1.0,0.22,,Normal,4-051H,Summon,Wind,5,,,DFF
+153346,Ezel,Ezel,https://tcgplayer-cdn.tcgplayer.com/product/153346_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xlf2,2017-11-25T20:44:53.317,1,Rare,"When your opponent casts a Summon, <strong>activate</strong> all the 
+<br>Forwards you control.",0.01,0.15,5.53,0.12,,Normal,4-053R,Forward,Wind,2,5000,Hermetic,FFTA
+153346,Ezel,Ezel,https://tcgplayer-cdn.tcgplayer.com/product/153346_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xlf2,2017-11-25T20:44:53.317,1,Rare,"When your opponent casts a Summon, <strong>activate</strong> all the 
+<br>Forwards you control.",0.2,0.28,1.0,0.32,,Foil,4-053R,Forward,Wind,2,5000,Hermetic,FFTA
+153347,Onion Knight,Onion Knight,https://tcgplayer-cdn.tcgplayer.com/product/153347_200w.jpg,24,1947,https://cpt.tcgcsv.com/Zlf2,2023-03-22T15:23:46.017,1,Legend,"When Onion Knight enters the field or attacks, choose 1 Forward. Deal it 3000 
+<br>damage.
+<br>When Onion Knight enters the field, choose 1 <em>Card Name Onion Knight</em> of any <br>Element except Wind in your Break Zone. Add it to your hand.
+<br><strong>Job change: Ninja</strong>[S]: Place Onion Knight at the bottom of your deck. If you do so, <strong>search</strong> for 1 <em>Card Name Onion Knight</em> with <em>Job Sage</em> and play it onto the field.",0.39,0.5,3.4,0.42,,Foil,4-054L,Forward,Wind,4,7000,Ninja,III;DFF
+153347,Onion Knight,Onion Knight,https://tcgplayer-cdn.tcgplayer.com/product/153347_200w.jpg,24,1947,https://cpt.tcgcsv.com/Zlf2,2023-03-22T15:23:46.017,1,Legend,"When Onion Knight enters the field or attacks, choose 1 Forward. Deal it 3000 
+<br>damage.
+<br>When Onion Knight enters the field, choose 1 <em>Card Name Onion Knight</em> of any <br>Element except Wind in your Break Zone. Add it to your hand.
+<br><strong>Job change: Ninja</strong>[S]: Place Onion Knight at the bottom of your deck. If you do so, <strong>search</strong> for 1 <em>Card Name Onion Knight</em> with <em>Job Sage</em> and play it onto the field.",0.12,0.44,3.75,0.23,,Normal,4-054L,Forward,Wind,4,7000,Ninja,III;DFF
+153348,Kan-E-Senna,Kan E Senna,https://tcgplayer-cdn.tcgplayer.com/product/153348_200w.jpg,24,1947,https://cpt.tcgcsv.com/-lf2,2018-01-15T16:17:05.037,1,Hero,"If you control <em>Card Name Raya-O-Senna</em>, Kan-E-Senna gains +2000 power.
+<br>When Kan-E-Senna enters the field, if you control <em>Card Name A-Ruhn-Senna</em>, <strong>activate</strong> all the Backups you control.",0.25,0.31,1.25,0.26,,Foil,4-055H,Forward,Wind,5,7000,Seedseer,XIV
+153348,Kan-E-Senna,Kan E Senna,https://tcgplayer-cdn.tcgplayer.com/product/153348_200w.jpg,24,1947,https://cpt.tcgcsv.com/-lf2,2018-01-15T16:17:05.037,1,Hero,"If you control <em>Card Name Raya-O-Senna</em>, Kan-E-Senna gains +2000 power.
+<br>When Kan-E-Senna enters the field, if you control <em>Card Name A-Ruhn-Senna</em>, <strong>activate</strong> all the Backups you control.",0.05,0.15,5.53,0.1,,Normal,4-055H,Forward,Wind,5,7000,Seedseer,XIV
+153349,Archer,Archer,https://tcgplayer-cdn.tcgplayer.com/product/153349_200w.jpg,24,1947,https://cpt.tcgcsv.com/_lf2,2017-11-24T21:37:35.6,1,Rare,"When Archer enters the field, deal 1000 damage to all 
+<br>the Forwards opponent controls. 
+<br>[G][Dull], put Archer into the Break Zone: Deal 2000 
+<br>damage to all the Forwards opponent controls.",0.21,0.4,1.0,,,Foil,4-056R,Backup,Wind,2,,Standard Unit,XIV
+153349,Archer,Archer,https://tcgplayer-cdn.tcgplayer.com/product/153349_200w.jpg,24,1947,https://cpt.tcgcsv.com/_lf2,2017-11-24T21:37:35.6,1,Rare,"When Archer enters the field, deal 1000 damage to all 
+<br>the Forwards opponent controls. 
+<br>[G][Dull], put Archer into the Break Zone: Deal 2000 
+<br>damage to all the Forwards opponent controls.",0.01,0.15,0.99,0.07,,Normal,4-056R,Backup,Wind,2,,Standard Unit,XIV
+153350,Koboldroid Yin,Koboldroid Yin,https://tcgplayer-cdn.tcgplayer.com/product/153350_200w.jpg,24,1947,https://cpt.tcgcsv.com/0mf2,2017-11-24T21:39:23.33,1,Rare,"[G]: Until the end of the turn, Koboldroid Yin also 
+<br>becomes a Forward with 3000 power and ""Koboldroid
+<br> Yin cannot be blocked by Forwards of cost 3 or more."" 
+<br>You can only use this ability once per turn.",0.24,0.5,2.07,0.6,,Foil,4-057R,Monster,Wind,1,,Zwerg Droid,XIII
+153350,Koboldroid Yin,Koboldroid Yin,https://tcgplayer-cdn.tcgplayer.com/product/153350_200w.jpg,24,1947,https://cpt.tcgcsv.com/0mf2,2017-11-24T21:39:23.33,1,Rare,"[G]: Until the end of the turn, Koboldroid Yin also 
+<br>becomes a Forward with 3000 power and ""Koboldroid
+<br> Yin cannot be blocked by Forwards of cost 3 or more."" 
+<br>You can only use this ability once per turn.",0.01,0.15,0.99,0.11,,Normal,4-057R,Monster,Wind,1,,Zwerg Droid,XIII
+153351,Cactuar,Cactuar,https://tcgplayer-cdn.tcgplayer.com/product/153351_200w.jpg,24,1947,https://cpt.tcgcsv.com/2mf2,2017-11-24T21:41:18.387,1,Common,"[Dull]: Choose 1 Forward. Deal it 1000 damage.
+<br>[G]2[Dull], put Cactuar into the Break Zone: Choose 1 
+<br>Forward. Deal it 10000 damage. Cactuar deals you
+<br>1 point of damage. EX Bursts of cards put into the
+<br>Damage Zone due to this ability cannot be used.",0.1,0.35,2.1,0.44,,Foil,4-058C,Monster,Wind,1,,Cactuar,Theatrhythm
+153351,Cactuar,Cactuar,https://tcgplayer-cdn.tcgplayer.com/product/153351_200w.jpg,24,1947,https://cpt.tcgcsv.com/2mf2,2017-11-24T21:41:18.387,1,Common,"[Dull]: Choose 1 Forward. Deal it 1000 damage.
+<br>[G]2[Dull], put Cactuar into the Break Zone: Choose 1 
+<br>Forward. Deal it 10000 damage. Cactuar deals you
+<br>1 point of damage. EX Bursts of cards put into the
+<br>Damage Zone due to this ability cannot be used.",0.02,0.1,0.99,0.09,,Normal,4-058C,Monster,Wind,1,,Cactuar,Theatrhythm
+153352,Thief,Thief,https://tcgplayer-cdn.tcgplayer.com/product/153352_200w.jpg,24,1947,https://cpt.tcgcsv.com/3mf2,2017-11-24T21:42:31.487,1,Common,"When Thief leaves the field, your opponent puts the top 
+<br>card of his/her deck into the Break Zone.",0.17,0.3,1.0,0.2,,Foil,4-059C,Forward,Wind,1,3000,Standard Unit,FFT
+153352,Thief,Thief,https://tcgplayer-cdn.tcgplayer.com/product/153352_200w.jpg,24,1947,https://cpt.tcgcsv.com/3mf2,2017-11-24T21:42:31.487,1,Common,"When Thief leaves the field, your opponent puts the top 
+<br>card of his/her deck into the Break Zone.",0.02,0.1,0.99,0.08,,Normal,4-059C,Forward,Wind,1,3000,Standard Unit,FFT
+153353,Shara EX,Shara EX,https://tcgplayer-cdn.tcgplayer.com/product/153353_200w.jpg,24,1947,https://cpt.tcgcsv.com/5mf2,2017-11-24T21:44:16.23,1,Rare,"<strong>EX BURST</strong> When Shara enters the field, choose 1 
+<br>Forward opponent controls. Deal it 3000 damage. 
+<br>If you control <em>Card Name Ritz</em>, deal it 6000 damage 
+<br>instead.",0.25,0.43,1.25,0.44,,Foil,4-060R,Forward,Wind,1,3000,Archer,FFTA
+153353,Shara EX,Shara EX,https://tcgplayer-cdn.tcgplayer.com/product/153353_200w.jpg,24,1947,https://cpt.tcgcsv.com/5mf2,2017-11-24T21:44:16.23,1,Rare,"<strong>EX BURST</strong> When Shara enters the field, choose 1 
+<br>Forward opponent controls. Deal it 3000 damage. 
+<br>If you control <em>Card Name Ritz</em>, deal it 6000 damage 
+<br>instead.",0.05,0.16,0.99,0.09,,Normal,4-060R,Forward,Wind,1,3000,Archer,FFTA
+153354,White Mage,White Mage,https://tcgplayer-cdn.tcgplayer.com/product/153354_200w.jpg,24,1947,https://cpt.tcgcsv.com/6mf2,2017-11-24T21:54:05.84,1,Common,"1,[Dull] put White Mage into the Break Zone: Choose 1 
+<br>Forward. <strong>Activate</strong> it. It gains +1000 power until the 
+<br>end of the turn.",0.13,0.25,1.0,0.17,,Foil,4-061C,Backup,Wind,2,,Standard Unit,FFT
+153354,White Mage,White Mage,https://tcgplayer-cdn.tcgplayer.com/product/153354_200w.jpg,24,1947,https://cpt.tcgcsv.com/6mf2,2017-11-24T21:54:05.84,1,Common,"1,[Dull] put White Mage into the Break Zone: Choose 1 
+<br>Forward. <strong>Activate</strong> it. It gains +1000 power until the 
+<br>end of the turn.",0.01,0.1,0.99,0.07,,Normal,4-061C,Backup,Wind,2,,Standard Unit,FFT
+153355,Chocobo,Chocobo,https://tcgplayer-cdn.tcgplayer.com/product/153355_200w.jpg,24,1947,https://cpt.tcgcsv.com/7mf2,2017-11-24T21:56:25.253,1,Common,"When Chocobo forms a party and attacks, Chocobo 
+<br>and all the Forwards forming a party with it gain +3000 
+<br>power until the end of the turn.",0.05,0.15,0.99,0.1,,Normal,4-062C,Forward,Wind,3,6000,Standard Unit,XIII
+153355,Chocobo,Chocobo,https://tcgplayer-cdn.tcgplayer.com/product/153355_200w.jpg,24,1947,https://cpt.tcgcsv.com/7mf2,2017-11-24T21:56:25.253,1,Common,"When Chocobo forms a party and attacks, Chocobo 
+<br>and all the Forwards forming a party with it gain +3000 
+<br>power until the end of the turn.",0.29,0.35,6.0,0.32,,Foil,4-062C,Forward,Wind,3,6000,Standard Unit,XIII
+153356,Chocobo (4-063C),Chocobo 4 063C,https://tcgplayer-cdn.tcgplayer.com/product/153356_200w.jpg,24,1947,https://cpt.tcgcsv.com/8mf2,2017-11-24T22:00:21.713,1,Common,"When Chocobo enters the field, choose 1 Forward other 
+<br>than Chocobo. It gains <strong>Haste</strong> until the end of the turn.",0.05,0.19,16195.16,0.1,,Normal,4-063C,Forward,Wind,3,6000,Standard Unit,Special
+153356,Chocobo (4-063C),Chocobo 4 063C,https://tcgplayer-cdn.tcgplayer.com/product/153356_200w.jpg,24,1947,https://cpt.tcgcsv.com/8mf2,2017-11-24T22:00:21.713,1,Common,"When Chocobo enters the field, choose 1 Forward other 
+<br>than Chocobo. It gains <strong>Haste</strong> until the end of the turn.",0.6,0.68,7.49,0.8,,Foil,4-063C,Forward,Wind,3,6000,Standard Unit,Special
+153357,Fat Chocobo,Fat Chocobo,https://tcgplayer-cdn.tcgplayer.com/product/153357_200w.jpg,24,1947,https://cpt.tcgcsv.com/9mf2,2017-11-24T22:03:25.303,1,Legend,"When Fat Chocobo enters the field, you may <strong>search</strong>
+<br>for 1 <em>Job Chocobo</em> or <em>Card Name Chocobo</em> of cost 3 or 
+<br>less and play it onto the field.
+<br>[Dull]: Choose 1 <em>Job Chocobo</em> or <em>Card Name Chocobo</em>. It 
+<br>gains +2000 power until the end of the turn.",0.41,2.19,11.03,2.68,,Normal,4-064L,Backup,Wind,5,,Chocobo,Special
+153357,Fat Chocobo,Fat Chocobo,https://tcgplayer-cdn.tcgplayer.com/product/153357_200w.jpg,24,1947,https://cpt.tcgcsv.com/9mf2,2017-11-24T22:03:25.303,1,Legend,"When Fat Chocobo enters the field, you may <strong>search</strong>
+<br>for 1 <em>Job Chocobo</em> or <em>Card Name Chocobo</em> of cost 3 or 
+<br>less and play it onto the field.
+<br>[Dull]: Choose 1 <em>Job Chocobo</em> or <em>Card Name Chocobo</em>. It 
+<br>gains +2000 power until the end of the turn.",1.99,2.5,6.0,2.31,,Foil,4-064L,Backup,Wind,5,,Chocobo,Special
+153358,Doned,Doned,https://tcgplayer-cdn.tcgplayer.com/product/153358_200w.jpg,24,1947,https://cpt.tcgcsv.com/bmf2,2017-11-24T22:04:57.157,1,Common,[Dull]: Choose 1 Monster. <strong>Dull</strong> it or <strong>activate</strong> it.,0.01,0.1,0.99,0.07,,Normal,4-065C,Forward,Wind,2,5000,Clan Leader,FFTA
+153358,Doned,Doned,https://tcgplayer-cdn.tcgplayer.com/product/153358_200w.jpg,24,1947,https://cpt.tcgcsv.com/bmf2,2017-11-24T22:04:57.157,1,Common,[Dull]: Choose 1 Monster. <strong>Dull</strong> it or <strong>activate</strong> it.,0.25,0.4,1.0,0.25,,Foil,4-065C,Forward,Wind,2,5000,Clan Leader,FFTA
+153359,Nono,Nono,https://tcgplayer-cdn.tcgplayer.com/product/153359_200w.jpg,24,1947,https://cpt.tcgcsv.com/cmf2,2017-11-24T22:06:04.147,1,Rare,"When a Forward you control attacks, choose 1 Backup you control. Activate it.",0.15,0.65,1.0,0.68,,Normal,4-066R,Backup,Wind,3,,Moogle,FFTA
+153359,Nono,Nono,https://tcgplayer-cdn.tcgplayer.com/product/153359_200w.jpg,24,1947,https://cpt.tcgcsv.com/cmf2,2017-11-24T22:06:04.147,1,Rare,"When a Forward you control attacks, choose 1 Backup you control. Activate it.",1.79,2.05,3.26,2.23,,Foil,4-066R,Backup,Wind,3,,Moogle,FFTA
+153360,Geomancer,Geomancer,https://tcgplayer-cdn.tcgplayer.com/product/153360_200w.jpg,24,1947,https://cpt.tcgcsv.com/dmf2,2017-11-24T22:07:29.663,1,Common,"When Geomancer enters the field, choose 1 Wind 
+<br>Character other than Geomancer you control. <strong>Activate</strong>
+<br>it.",0.01,0.1,0.99,0.08,,Normal,4-067C,Backup,Wind,2,,Standard Unit,III
+153360,Geomancer,Geomancer,https://tcgplayer-cdn.tcgplayer.com/product/153360_200w.jpg,24,1947,https://cpt.tcgcsv.com/dmf2,2017-11-24T22:07:29.663,1,Common,"When Geomancer enters the field, choose 1 Wind 
+<br>Character other than Geomancer you control. <strong>Activate</strong>
+<br>it.",0.22,0.25,1.0,,,Foil,4-067C,Backup,Wind,2,,Standard Unit,III
+153361,Moogle,Moogle,https://tcgplayer-cdn.tcgplayer.com/product/153361_200w.jpg,24,1947,https://cpt.tcgcsv.com/fmf2,2017-11-24T22:55:22.637,1,Hero,"When Moogle enters the field, draw 1 card.
+<br>When Moogle is put from the field into the Break Zone, 
+<br>draw 1 card.",0.17,0.25,2.01,0.25,,Normal,4-069H,Forward,Wind,4,6000,Moogle,Special
+153361,Moogle,Moogle,https://tcgplayer-cdn.tcgplayer.com/product/153361_200w.jpg,24,1947,https://cpt.tcgcsv.com/fmf2,2017-11-24T22:55:22.637,1,Hero,"When Moogle enters the field, draw 1 card.
+<br>When Moogle is put from the field into the Break Zone, 
+<br>draw 1 card.",0.25,1.0,2.96,1.12,,Foil,4-069H,Forward,Wind,4,6000,Moogle,Special
+153362,Archer (4-070C),Archer 4 070C,https://tcgplayer-cdn.tcgplayer.com/product/153362_200w.jpg,24,1947,https://cpt.tcgcsv.com/gmf2,2017-11-24T22:11:00.917,1,Common,"[G][Dull], put Archer into the Break Zone: Choose 1 Forward
+<br>opponent controls. During this turn, the next damage it 
+<br>deals to a Forward becomes 0 instead.",0.01,0.1,1.0,0.07,,Normal,4-070C,Backup,Wind,2,,Standard Unit,FFTA
+153362,Archer (4-070C),Archer 4 070C,https://tcgplayer-cdn.tcgplayer.com/product/153362_200w.jpg,24,1947,https://cpt.tcgcsv.com/gmf2,2017-11-24T22:11:00.917,1,Common,"[G][Dull], put Archer into the Break Zone: Choose 1 Forward
+<br>opponent controls. During this turn, the next damage it 
+<br>deals to a Forward becomes 0 instead.",0.25,0.5,2.0,0.17,,Foil,4-070C,Backup,Wind,2,,Standard Unit,FFTA
+153363,Raya-O-Senna,Raya O Senna,https://tcgplayer-cdn.tcgplayer.com/product/153363_200w.jpg,24,1947,https://cpt.tcgcsv.com/hmf2,2017-11-24T22:12:51.017,1,Rare,"The <em>Card Name A-Ruhn-Senna</em> and <em>Card Name</em> 
+<br><em>Kan-E-Senna</em> you control cannot be chosen by your 
+<br>opponent's abilities.",0.24,0.43,1.0,0.29,,Foil,4-071R,Backup,Wind,2,,Seedseer,XIV
+153363,Raya-O-Senna,Raya O Senna,https://tcgplayer-cdn.tcgplayer.com/product/153363_200w.jpg,24,1947,https://cpt.tcgcsv.com/hmf2,2017-11-24T22:12:51.017,1,Rare,"The <em>Card Name A-Ruhn-Senna</em> and <em>Card Name</em> 
+<br><em>Kan-E-Senna</em> you control cannot be chosen by your 
+<br>opponent's abilities.",0.02,0.15,0.99,0.14,,Normal,4-071R,Backup,Wind,2,,Seedseer,XIV
+153364,Atomos EX,Atomos EX,https://tcgplayer-cdn.tcgplayer.com/product/153364_200w.jpg,24,1947,https://cpt.tcgcsv.com/jmf2,2017-11-24T22:17:01.773,1,Common,"<strong>EX BURST</strong> Select 1 of the 2 following actions.
+<br>""Choose 1 <strong>dull</strong> Forward. Break it.""
+<br>""Choose 1 Forward. Deal it 8000 damage.""",0.3,0.5,5.0,0.4,,Foil,4-073C,Summon,Earth,6,,,IX
+153364,Atomos EX,Atomos EX,https://tcgplayer-cdn.tcgplayer.com/product/153364_200w.jpg,24,1947,https://cpt.tcgcsv.com/jmf2,2017-11-24T22:17:01.773,1,Common,"<strong>EX BURST</strong> Select 1 of the 2 following actions.
+<br>""Choose 1 <strong>dull</strong> Forward. Break it.""
+<br>""Choose 1 Forward. Deal it 8000 damage.""",0.01,0.1,0.99,0.08,,Normal,4-073C,Summon,Earth,6,,,IX
+153365,Dark Knight,Dark Knight,https://tcgplayer-cdn.tcgplayer.com/product/153365_200w.jpg,24,1947,https://cpt.tcgcsv.com/kmf2,2017-11-24T22:18:22.303,1,Common,"When Dark Knight enters the field, choose 1 Forward 
+<br>you control. It gains +1000 power for each point of 
+<br>damage you have received until the end of the turn.",0.14,0.25,1.0,0.18,,Foil,4-074C,Forward,Earth,3,7000,Standard Unit,FFT
+153365,Dark Knight,Dark Knight,https://tcgplayer-cdn.tcgplayer.com/product/153365_200w.jpg,24,1947,https://cpt.tcgcsv.com/kmf2,2017-11-24T22:18:22.303,1,Common,"When Dark Knight enters the field, choose 1 Forward 
+<br>you control. It gains +1000 power for each point of 
+<br>damage you have received until the end of the turn.",0.03,0.1,0.99,0.09,,Normal,4-074C,Forward,Earth,3,7000,Standard Unit,FFT
+153366,Vincent EX,Vincent EX,https://tcgplayer-cdn.tcgplayer.com/product/153366_200w.jpg,24,1947,https://cpt.tcgcsv.com/lmf2,2017-11-24T22:20:32.06,1,Hero,"<strong>EX BURST</strong> When Vincent enters the field, you may 
+<br>search for 1 Card Name Vincent and add it to your 
+<br>hand.
+<br><strong>Galian Beast</strong> [S][Y]: Vincent gains +4000 power until the 
+<br>end of the turn.",0.2,0.5,2.55,0.33,,Foil,4-075H,Forward,Earth,5,7000,Gunslinger,VII
+153366,Vincent EX,Vincent EX,https://tcgplayer-cdn.tcgplayer.com/product/153366_200w.jpg,24,1947,https://cpt.tcgcsv.com/lmf2,2017-11-24T22:20:32.06,1,Hero,"<strong>EX BURST</strong> When Vincent enters the field, you may 
+<br>search for 1 Card Name Vincent and add it to your 
+<br>hand.
+<br><strong>Galian Beast</strong> [S][Y]: Vincent gains +4000 power until the 
+<br>end of the turn.",0.1,0.33,1.0,0.2,,Normal,4-075H,Forward,Earth,5,7000,Gunslinger,VII
+153367,Wedge,Wedge,https://tcgplayer-cdn.tcgplayer.com/product/153367_200w.jpg,24,1947,https://cpt.tcgcsv.com/mmf2,2018-01-30T22:16:38.743,1,Rare,"When Wedge enters the field, you may <strong>search</strong> for 1 
+<br><em>Job AVALANCHE Operative</em> Forward and add it to your 
+<br>hand.",1.78,2.1,6.99,2.64,,Foil,4-076R,Backup,Earth,3,,AVALANCHE Operative,VII
+153367,Wedge,Wedge,https://tcgplayer-cdn.tcgplayer.com/product/153367_200w.jpg,24,1947,https://cpt.tcgcsv.com/mmf2,2018-01-30T22:16:38.743,1,Rare,"When Wedge enters the field, you may <strong>search</strong> for 1 
+<br><em>Job AVALANCHE Operative</em> Forward and add it to your 
+<br>hand.",0.05,0.15,0.99,0.09,,Normal,4-076R,Backup,Earth,3,,AVALANCHE Operative,VII
+153368,Pugilist,Pugilist,https://tcgplayer-cdn.tcgplayer.com/product/153368_200w.jpg,24,1947,https://cpt.tcgcsv.com/nmf2,2017-11-24T22:23:49.887,1,Rare,"For each <em>Job Standard Unit</em> Forward other than Pugilist 
+<br>you control, Pugilist gains +2000 power.",0.25,0.38,1.0,0.34,,Foil,4-077R,Forward,Earth,2,5000,Standard Unit,XIV
+153368,Pugilist,Pugilist,https://tcgplayer-cdn.tcgplayer.com/product/153368_200w.jpg,24,1947,https://cpt.tcgcsv.com/nmf2,2017-11-24T22:23:49.887,1,Rare,"For each <em>Job Standard Unit</em> Forward other than Pugilist 
+<br>you control, Pugilist gains +2000 power.",0.02,0.15,0.99,0.1,,Normal,4-077R,Forward,Earth,2,5000,Standard Unit,XIV
+153369,Black Belt,Black Belt,https://tcgplayer-cdn.tcgplayer.com/product/153369_200w.jpg,24,1947,https://cpt.tcgcsv.com/pmf2,2017-11-24T22:24:55.74,1,Common,"When Black Belt enters the field, choose 1 Forward
+<br>you control. It gains +5000 power until the end of the turn.",0.25,0.35,1.0,0.49,,Foil,4-078C,Backup,Earth,2,,Standard Unit,III
+153369,Black Belt,Black Belt,https://tcgplayer-cdn.tcgplayer.com/product/153369_200w.jpg,24,1947,https://cpt.tcgcsv.com/pmf2,2017-11-24T22:24:55.74,1,Common,"When Black Belt enters the field, choose 1 Forward
+<br>you control. It gains +5000 power until the end of the turn.",0.01,0.1,0.99,0.08,,Normal,4-078C,Backup,Earth,2,,Standard Unit,III
+153370,Black Mage (4-079C),Black Mage 4 079C,https://tcgplayer-cdn.tcgplayer.com/product/153370_200w.jpg,24,1947,https://cpt.tcgcsv.com/qmf2,2017-11-25T20:25:53.347,1,Common,"[Y][Dull]: Choose 1 Forward. It cannot become <strong>dull</strong> by your 
+<br>opponent's Summons or abilities this turn.",0.15,0.3,1.25,0.35,,Foil,4-079C,Backup,Earth,2,,Standard Unit,III
+153370,Black Mage (4-079C),Black Mage 4 079C,https://tcgplayer-cdn.tcgplayer.com/product/153370_200w.jpg,24,1947,https://cpt.tcgcsv.com/qmf2,2017-11-25T20:25:53.347,1,Common,"[Y][Dull]: Choose 1 Forward. It cannot become <strong>dull</strong> by your 
+<br>opponent's Summons or abilities this turn.",0.02,0.1,5.53,0.06,,Normal,4-079C,Backup,Earth,2,,Standard Unit,III
+153371,Kefka,Kefka,https://tcgplayer-cdn.tcgplayer.com/product/153371_200w.jpg,24,1947,https://cpt.tcgcsv.com/rmf2,2023-03-22T15:23:59.24,1,Legend,"You can put a total of 3 Forwards or Monsters you 
+<br>control into the Break Zone to play Kefka from your 
+<br>hand onto the field. 
+<br>When Kefka enters the field, choose 1 Forward or 
+<br>Monster opponent controls. Break it.",0.25,0.54,22.46,0.58,,Normal,4-080L,Forward,Earth,8,8000,Mage,VI;DFF
+153371,Kefka,Kefka,https://tcgplayer-cdn.tcgplayer.com/product/153371_200w.jpg,24,1947,https://cpt.tcgcsv.com/rmf2,2023-03-22T15:23:59.24,1,Legend,"You can put a total of 3 Forwards or Monsters you 
+<br>control into the Break Zone to play Kefka from your 
+<br>hand onto the field. 
+<br>When Kefka enters the field, choose 1 Forward or 
+<br>Monster opponent controls. Break it.",0.99,1.25,5.0,0.98,,Foil,4-080L,Forward,Earth,8,8000,Mage,VI;DFF
+153372,Goblin (4-081C),Goblin 4 081C,https://tcgplayer-cdn.tcgplayer.com/product/153372_200w.jpg,24,1947,https://cpt.tcgcsv.com/smf2,2017-11-24T22:29:43.867,1,Common,"Put Goblin into the Break Zone: Choose 1 Forward. It 
+<br>gains +2000 power until the end of the turn.",0.02,0.1,0.99,0.07,,Normal,4-081C,Monster,Earth,1,,Goblin,FFT
+153372,Goblin (4-081C),Goblin 4 081C,https://tcgplayer-cdn.tcgplayer.com/product/153372_200w.jpg,24,1947,https://cpt.tcgcsv.com/smf2,2017-11-24T22:29:43.867,1,Common,"Put Goblin into the Break Zone: Choose 1 Forward. It 
+<br>gains +2000 power until the end of the turn.",0.25,0.26,1.0,0.4,,Foil,4-081C,Monster,Earth,1,,Goblin,FFT
+153373,Jessie,Jessie,https://tcgplayer-cdn.tcgplayer.com/product/153373_200w.jpg,24,1947,https://cpt.tcgcsv.com/tmf2,2017-11-24T22:31:15.71,1,Common,"The cost required to play <em>Card Name Cloud</em> or <em>Card 
+<br><em>Name Barret</em> onto the field is reduced by 1.",0.02,0.15,0.99,0.08,,Normal,4-082C,Backup,Earth,2,,AVALANCHE Operative,VII
+153373,Jessie,Jessie,https://tcgplayer-cdn.tcgplayer.com/product/153373_200w.jpg,24,1947,https://cpt.tcgcsv.com/tmf2,2017-11-24T22:31:15.71,1,Common,"The cost required to play <em>Card Name Cloud</em> or <em>Card 
+<br><em>Name Barret</em> onto the field is reduced by 1.",0.5,1.25,1.9,1.82,,Foil,4-082C,Backup,Earth,2,,AVALANCHE Operative,VII
+153374,Shantotto,Shantotto,https://tcgplayer-cdn.tcgplayer.com/product/153374_200w.jpg,24,1947,https://cpt.tcgcsv.com/vmf2,2023-03-22T15:24:06.41,1,Legend,"When Shantotto is dealt damage, deal the same amount 
+<br>of damage to all the Forwards other than Shantotto. If 
+<br>a Forward damaged by this ability is put into the Break 
+<br>Zone this turn, remove it from the game instead. 
+<br><strong>Colossal Shantotto</strong> [S][Y][Y][Y][Dull]: Deal 5000 damage to all 
+<br>the Forwards.",0.4,0.59,2.67,0.5,,Normal,4-083L,Forward,Earth,6,9000,Mage,DFF
+153374,Shantotto,Shantotto,https://tcgplayer-cdn.tcgplayer.com/product/153374_200w.jpg,24,1947,https://cpt.tcgcsv.com/vmf2,2023-03-22T15:24:06.41,1,Legend,"When Shantotto is dealt damage, deal the same amount 
+<br>of damage to all the Forwards other than Shantotto. If 
+<br>a Forward damaged by this ability is put into the Break 
+<br>Zone this turn, remove it from the game instead. 
+<br><strong>Colossal Shantotto</strong> [S][Y][Y][Y][Dull]: Deal 5000 damage to all 
+<br>the Forwards.",0.49,0.62,5.0,0.59,,Foil,4-083L,Forward,Earth,6,9000,Mage,DFF
+153375,Warrior,Warrior,https://tcgplayer-cdn.tcgplayer.com/product/153375_200w.jpg,24,1947,https://cpt.tcgcsv.com/wmf2,2017-11-24T22:34:41.127,1,Common,,0.01,0.12,0.99,0.12,,Normal,4-084C,Forward,Earth,1,4000,Standard Unit,III
+153375,Warrior,Warrior,https://tcgplayer-cdn.tcgplayer.com/product/153375_200w.jpg,24,1947,https://cpt.tcgcsv.com/wmf2,2017-11-24T22:34:41.127,1,Common,,0.11,0.25,1.0,,,Foil,4-084C,Forward,Earth,1,4000,Standard Unit,III
+153376,Dadaluma,Dadaluma,https://tcgplayer-cdn.tcgplayer.com/product/153376_200w.jpg,24,1947,https://cpt.tcgcsv.com/xmf2,2017-11-24T22:36:07.207,1,Hero,"When Dadaluma is chosen by your opponent's 
+<br>Summons or abilities, choose up to 1 Forward opponent 
+<br>controls. Deal it 4000 damage. 
+<br>When Dadaluma is dealt damage, choose up to 1 
+<br>Forward opponent controls. Deal it 4000 damage.",0.05,0.25,1.65,0.12,,Normal,4-085H,Forward,Earth,4,8000,Martial Artist,VI
+153376,Dadaluma,Dadaluma,https://tcgplayer-cdn.tcgplayer.com/product/153376_200w.jpg,24,1947,https://cpt.tcgcsv.com/xmf2,2017-11-24T22:36:07.207,1,Hero,"When Dadaluma is chosen by your opponent's 
+<br>Summons or abilities, choose up to 1 Forward opponent 
+<br>controls. Deal it 4000 damage. 
+<br>When Dadaluma is dealt damage, choose up to 1 
+<br>Forward opponent controls. Deal it 4000 damage.",0.98,1.12,8.99,,,Foil,4-085H,Forward,Earth,4,8000,Martial Artist,VI
+153377,Tama,Tama,https://tcgplayer-cdn.tcgplayer.com/product/153377_200w.jpg,24,1947,https://cpt.tcgcsv.com/zmf2,2018-03-13T13:47:23.663,1,Hero,"When Tama enters the field, choose 1 Earth Forward of 
+<br>cost 5 or less in your Break Zone. Play it onto the field.
+<br>6[Dull], put Tama into the Break Zone: choose 1 Earth 
+<br>Forward of cost 5 or less in your Break Zone. Play it 
+<br>onto the field dull. You can only use this ability during 
+<br>your turn.",0.04,0.25,2.5,0.19,,Normal,4-086H,Backup,Earth,7,,Companion,World of Final Fantasy
+153377,Tama,Tama,https://tcgplayer-cdn.tcgplayer.com/product/153377_200w.jpg,24,1947,https://cpt.tcgcsv.com/zmf2,2018-03-13T13:47:23.663,1,Hero,"When Tama enters the field, choose 1 Earth Forward of 
+<br>cost 5 or less in your Break Zone. Play it onto the field.
+<br>6[Dull], put Tama into the Break Zone: choose 1 Earth 
+<br>Forward of cost 5 or less in your Break Zone. Play it 
+<br>onto the field dull. You can only use this ability during 
+<br>your turn.",0.45,0.5,39.93,0.58,,Foil,4-086H,Backup,Earth,7,,Companion,World of Final Fantasy
+153378,Delita,Delita,https://tcgplayer-cdn.tcgplayer.com/product/153378_200w.jpg,24,1947,https://cpt.tcgcsv.com/Bmf2,2017-11-24T22:39:15.38,1,Rare,"When Delita enters the field, choose 1 Forward 
+<br>opponent controls. You may put 1 of your Forwards of 
+<br>the same cost other than Delita into the Break Zone. If 
+<br>you do so, break the chosen Forward.
+<br>When Delita is chosen by Summons or abilities, Delita 
+<br>gains +1000 power until the end of the turn.",0.03,0.15,0.99,0.13,,Normal,4-087R,Forward,Earth,3,7000,Knight,FFT
+153378,Delita,Delita,https://tcgplayer-cdn.tcgplayer.com/product/153378_200w.jpg,24,1947,https://cpt.tcgcsv.com/Bmf2,2017-11-24T22:39:15.38,1,Rare,"When Delita enters the field, choose 1 Forward 
+<br>opponent controls. You may put 1 of your Forwards of 
+<br>the same cost other than Delita into the Break Zone. If 
+<br>you do so, break the chosen Forward.
+<br>When Delita is chosen by Summons or abilities, Delita 
+<br>gains +1000 power until the end of the turn.",0.29,0.5,1.75,0.4,,Foil,4-087R,Forward,Earth,3,7000,Knight,FFT
+153379,Bangaa Thief,Bangaa Thief,https://tcgplayer-cdn.tcgplayer.com/product/153379_200w.jpg,24,1947,https://cpt.tcgcsv.com/Cmf2,2018-03-13T12:58:36.01,1,Common,"[Y]: Until the end of the turn, Bangaa Thief also becomes 
+<br>a Forward with 7000 power and <strong>Brave</strong>. You can only 
+<br>use this ability once per turn.",0.11,0.28,1.0,0.42,,Foil,4-088C,Monster,Earth,2,,Bangaa,XII;Theatrhythm
+153379,Bangaa Thief,Bangaa Thief,https://tcgplayer-cdn.tcgplayer.com/product/153379_200w.jpg,24,1947,https://cpt.tcgcsv.com/Cmf2,2018-03-13T12:58:36.01,1,Common,"[Y]: Until the end of the turn, Bangaa Thief also becomes 
+<br>a Forward with 7000 power and <strong>Brave</strong>. You can only 
+<br>use this ability once per turn.",0.01,0.1,0.99,0.06,,Normal,4-088C,Monster,Earth,2,,Bangaa,XII;Theatrhythm
+153380,Barret,Barret,https://tcgplayer-cdn.tcgplayer.com/product/153380_200w.jpg,24,1947,https://cpt.tcgcsv.com/Dmf2,2017-11-24T22:46:30.77,1,Rare,"<strong>Brave</strong>
+<br>When a J<em>ob AVALANCHE Operative</em> you control other
+<br>than Barret is put from the field into the Break Zone, 
+<br>deal 2000 damage to all the Forwards opponent controls.
+<br><strong>Satellite Beam</strong> [S][Y][Y][Dull]: Deal 5000 damage to all the 
+<br>Forwards opponent controls.",0.35,0.5,0.99,0.75,,Foil,4-089R,Forward,Earth,4,8000,AVALANCHE Operative,VII
+153380,Barret,Barret,https://tcgplayer-cdn.tcgplayer.com/product/153380_200w.jpg,24,1947,https://cpt.tcgcsv.com/Dmf2,2017-11-24T22:46:30.77,1,Rare,"<strong>Brave</strong>
+<br>When a J<em>ob AVALANCHE Operative</em> you control other
+<br>than Barret is put from the field into the Break Zone, 
+<br>deal 2000 damage to all the Forwards opponent controls.
+<br><strong>Satellite Beam</strong> [S][Y][Y][Dull]: Deal 5000 damage to all the 
+<br>Forwards opponent controls.",0.02,0.15,0.99,0.13,,Normal,4-089R,Forward,Earth,4,8000,AVALANCHE Operative,VII
+153381,Biggs,Biggs,https://tcgplayer-cdn.tcgplayer.com/product/153381_200w.jpg,24,1947,https://cpt.tcgcsv.com/Fmf2,2017-11-24T22:56:25.023,1,Rare,"[Dull]: Choose 1 <em>Job AVALANCHE Operative</em>. It gains
+<br> +1000 power until the end of the turn. If you control 
+<br><em>Card Name Wedge</em>, it gains +2000 power until the end 
+<br>of the turn instead.",0.25,0.5,1.0,0.43,,Foil,4-090R,Backup,Earth,2,,AVALANCHE Operative,VII
+153381,Biggs,Biggs,https://tcgplayer-cdn.tcgplayer.com/product/153381_200w.jpg,24,1947,https://cpt.tcgcsv.com/Fmf2,2017-11-24T22:56:25.023,1,Rare,"[Dull]: Choose 1 <em>Job AVALANCHE Operative</em>. It gains
+<br> +1000 power until the end of the turn. If you control 
+<br><em>Card Name Wedge</em>, it gains +2000 power until the end 
+<br>of the turn instead.",0.01,0.15,0.99,0.09,,Normal,4-090R,Backup,Earth,2,,AVALANCHE Operative,VII
+153382,Geomancer (4-091C),Geomancer 4 091C,https://tcgplayer-cdn.tcgplayer.com/product/153382_200w.jpg,24,1947,https://cpt.tcgcsv.com/Gmf2,2017-11-24T22:51:12.267,1,Common,"[Y]1[Dull]: Choose 1 Forward. It gains Brave until the end 
+<br>of the turn.",0.2,0.25,1.0,0.2,,Foil,4-091C,Backup,Earth,2,,Standard Unit,III
+153382,Geomancer (4-091C),Geomancer 4 091C,https://tcgplayer-cdn.tcgplayer.com/product/153382_200w.jpg,24,1947,https://cpt.tcgcsv.com/Gmf2,2017-11-24T22:51:12.267,1,Common,"[Y]1[Dull]: Choose 1 Forward. It gains Brave until the end 
+<br>of the turn.",0.01,0.1,0.99,0.07,,Normal,4-091C,Backup,Earth,2,,Standard Unit,III
+153383,Lich,Lich,https://tcgplayer-cdn.tcgplayer.com/product/153383_200w.jpg,24,1947,https://cpt.tcgcsv.com/Hmf2,2017-11-24T22:54:33.327,1,Rare,"Deal each Forward opponent controls damage equal to 
+<br>half of its power (round up to the nearest 1000).",0.25,0.59,1.0,0.43,,Foil,4-046R,Summon,Ice,4,,,FFT
+153383,Lich,Lich,https://tcgplayer-cdn.tcgplayer.com/product/153383_200w.jpg,24,1947,https://cpt.tcgcsv.com/Hmf2,2017-11-24T22:54:33.327,1,Rare,"Deal each Forward opponent controls damage equal to 
+<br>half of its power (round up to the nearest 1000).",0.02,0.15,0.99,0.09,,Normal,4-046R,Summon,Ice,4,,,FFT
+153384,Prishe,Prishe,https://tcgplayer-cdn.tcgplayer.com/product/153384_200w.jpg,24,1947,https://cpt.tcgcsv.com/Jmf2,2023-03-22T15:27:25.57,1,Hero,"If you control 4 or more Earth Backups, Prishe gains
+<br> +2000 power and <strong>Brave</strong>.
+<br>When Prishe is put from the field into the Break Zone, 
+<br>you may pay [Y], if you do so, play 1 <em>Card Name Prishe</em> 
+<br>from your hand onto the field dull.",0.2,0.5,1.29,0.38,,Foil,4-092H,Forward,Earth,2,5000,Abhorrent One,XI;DFF
+153384,Prishe,Prishe,https://tcgplayer-cdn.tcgplayer.com/product/153384_200w.jpg,24,1947,https://cpt.tcgcsv.com/Jmf2,2023-03-22T15:27:25.57,1,Hero,"If you control 4 or more Earth Backups, Prishe gains
+<br> +2000 power and <strong>Brave</strong>.
+<br>When Prishe is put from the field into the Break Zone, 
+<br>you may pay [Y], if you do so, play 1 <em>Card Name Prishe</em> 
+<br>from your hand onto the field dull.",0.03,0.2,0.99,0.17,,Normal,4-092H,Forward,Earth,2,5000,Abhorrent One,XI;DFF
+153385,Hecatoncheir,Hecatoncheir,https://tcgplayer-cdn.tcgplayer.com/product/153385_200w.jpg,24,1947,https://cpt.tcgcsv.com/Kmf2,2017-11-25T18:15:56.753,1,Rare,"Choose 1 Forward you control and 1 Forward opponent 
+<br>controls. Each Forward deals damage equal to its power
+<br>to the other.",0.23,0.89,14.0,0.87,,Foil,4-093R,Summon,Earth,2,,,XIII
+153385,Hecatoncheir,Hecatoncheir,https://tcgplayer-cdn.tcgplayer.com/product/153385_200w.jpg,24,1947,https://cpt.tcgcsv.com/Kmf2,2017-11-25T18:15:56.753,1,Rare,"Choose 1 Forward you control and 1 Forward opponent 
+<br>controls. Each Forward deals damage equal to its power
+<br>to the other.",0.01,0.15,1.05,0.1,,Normal,4-093R,Summon,Earth,2,,,XIII
+153386,Monk,Monk,https://tcgplayer-cdn.tcgplayer.com/product/153386_200w.jpg,24,1947,https://cpt.tcgcsv.com/Lmf2,2017-11-25T18:17:55.73,1,Common,"[Y][Y][Dull], put Monk into the Break Zone: Choose 1 <strong>dull</strong> 
+<br>Forward you control. It cannot be broken this turn.",0.18,0.48,1.0,0.24,,Foil,4-095C,Backup,Earth,2,,Standard Unit,III
+153386,Monk,Monk,https://tcgplayer-cdn.tcgplayer.com/product/153386_200w.jpg,24,1947,https://cpt.tcgcsv.com/Lmf2,2017-11-25T18:17:55.73,1,Common,"[Y][Y][Dull], put Monk into the Break Zone: Choose 1 <strong>dull</strong> 
+<br>Forward you control. It cannot be broken this turn.",0.02,0.1,0.99,0.07,,Normal,4-095C,Backup,Earth,2,,Standard Unit,III
+153387,Raubahn,Raubahn,https://tcgplayer-cdn.tcgplayer.com/product/153387_200w.jpg,24,1947,https://cpt.tcgcsv.com/Mmf2,2017-11-25T18:19:44.56,1,Hero,"When Raubahn enters the field, choose 1 Forward 
+<br>opponent controls. Deal it and Raubahn 9000 damage.",0.03,0.25,1.22,0.14,,Normal,4-096H,Forward,Earth,4,8000,Flame General,XIV
+153387,Raubahn,Raubahn,https://tcgplayer-cdn.tcgplayer.com/product/153387_200w.jpg,24,1947,https://cpt.tcgcsv.com/Mmf2,2017-11-25T18:19:44.56,1,Hero,"When Raubahn enters the field, choose 1 Forward 
+<br>opponent controls. Deal it and Raubahn 9000 damage.",0.25,0.31,1.0,0.27,,Foil,4-096H,Forward,Earth,4,8000,Flame General,XIV
+153388,Azul,Azul,https://tcgplayer-cdn.tcgplayer.com/product/153388_200w.jpg,24,1947,https://cpt.tcgcsv.com/Nmf2,2017-11-25T18:21:40.837,1,Hero,"When Azul is put from the field into the Break Zone, 
+<br>choose 1 Lightning Monster of cost 3 or less in your 
+<br>Break Zone. You may play it onto the field.",0.14,0.25,211158.82,0.15,,Normal,4-098H,Forward,Lightning,5,8000,Tsviets,VII
+153388,Azul,Azul,https://tcgplayer-cdn.tcgplayer.com/product/153388_200w.jpg,24,1947,https://cpt.tcgcsv.com/Nmf2,2017-11-25T18:21:40.837,1,Hero,"When Azul is put from the field into the Break Zone, 
+<br>choose 1 Lightning Monster of cost 3 or less in your 
+<br>Break Zone. You may play it onto the field.",0.25,0.5,1.0,0.29,,Foil,4-098H,Forward,Lightning,5,8000,Tsviets,VII
+153389,Usher EX,Usher EX,https://tcgplayer-cdn.tcgplayer.com/product/153389_200w.jpg,24,1947,https://cpt.tcgcsv.com/Pmf2,2017-11-25T18:23:55.05,1,Common,"<strong>EX BURST</strong> When Usher enters the field, you may 
+<br>search for 1 <em>Card Name DGS Trooper 1st Class</em> or 
+<br><em>Card Name Deepground Soldier</em> and add it to your 
+<br>hand.",0.01,0.1,0.99,0.08,,Normal,4-099C,Backup,Lightning,3,,Deepground Soldier,VII
+153389,Usher EX,Usher EX,https://tcgplayer-cdn.tcgplayer.com/product/153389_200w.jpg,24,1947,https://cpt.tcgcsv.com/Pmf2,2017-11-25T18:23:55.05,1,Common,"<strong>EX BURST</strong> When Usher enters the field, you may 
+<br>search for 1 <em>Card Name DGS Trooper 1st Class</em> or 
+<br><em>Card Name Deepground Soldier</em> and add it to your 
+<br>hand.",0.2,0.36,1.0,0.25,,Foil,4-099C,Backup,Lightning,3,,Deepground Soldier,VII
+153390,Esthar Soldier,Esthar Soldier,https://tcgplayer-cdn.tcgplayer.com/product/153390_200w.jpg,24,1947,https://cpt.tcgcsv.com/Qmf2,2017-11-25T18:25:47.687,1,Common,"When Esthar Soldier enters the field, choose 1 Forward 
+<br>of cost 4 or less opponent controls. <strong>Dull</strong> it.",0.02,0.1,0.99,0.09,,Normal,4-100C,Backup,Lightning,2,,Standard Unit,Theatrhythm
+153390,Esthar Soldier,Esthar Soldier,https://tcgplayer-cdn.tcgplayer.com/product/153390_200w.jpg,24,1947,https://cpt.tcgcsv.com/Qmf2,2017-11-25T18:25:47.687,1,Common,"When Esthar Soldier enters the field, choose 1 Forward 
+<br>of cost 4 or less opponent controls. <strong>Dull</strong> it.",0.25,0.45,1.0,0.64,,Foil,4-100C,Backup,Lightning,2,,Standard Unit,Theatrhythm
+153391,Orlandeau,Orlandeau,https://tcgplayer-cdn.tcgplayer.com/product/153391_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rmf2,2017-11-25T18:29:04.587,1,Hero,"When Orlandeau enters the field, choose 1 damaged 
+<br>Forward. Break it.
+<br><strong>Shadowblade</strong> [S][P][P]: Choose 1 Forward. It loses 7000 
+<br>power until the end of the turn. <strong>Activate</strong> Orlandeau.",0.1,0.25,1.45,0.12,,Normal,4-101H,Forward,Lightning,5,9000,Sword Saint,Theatrhythm
+153391,Orlandeau,Orlandeau,https://tcgplayer-cdn.tcgplayer.com/product/153391_200w.jpg,24,1947,https://cpt.tcgcsv.com/Rmf2,2017-11-25T18:29:04.587,1,Hero,"When Orlandeau enters the field, choose 1 damaged 
+<br>Forward. Break it.
+<br><strong>Shadowblade</strong> [S][P][P]: Choose 1 Forward. It loses 7000 
+<br>power until the end of the turn. <strong>Activate</strong> Orlandeau.",0.25,0.5,4.69,0.53,,Foil,4-101H,Forward,Lightning,5,9000,Sword Saint,Theatrhythm
+153392,Black Waltz 3,Black Waltz 3,https://tcgplayer-cdn.tcgplayer.com/product/153392_200w.jpg,24,1947,https://cpt.tcgcsv.com/Smf2,2017-11-25T18:31:06.69,1,Rare,"When Black Waltz 3 enters the field, choose 1 Forward. 
+<br>It loses 2000 power until the end of the turn.
+<br>When Black Waltz 3 is put from the field into the Break 
+<br>Zone, choose 1 Forward. It loses 2000 power until the 
+<br>end of the turn.",0.27,0.4,1.65,0.43,,Foil,4-102R,Forward,Lightning,3,6000,Black Mage,IX
+153392,Black Waltz 3,Black Waltz 3,https://tcgplayer-cdn.tcgplayer.com/product/153392_200w.jpg,24,1947,https://cpt.tcgcsv.com/Smf2,2017-11-25T18:31:06.69,1,Rare,"When Black Waltz 3 enters the field, choose 1 Forward. 
+<br>It loses 2000 power until the end of the turn.
+<br>When Black Waltz 3 is put from the field into the Break 
+<br>Zone, choose 1 Forward. It loses 2000 power until the 
+<br>end of the turn.",0.02,0.15,0.99,0.06,,Normal,4-102R,Forward,Lightning,3,6000,Black Mage,IX
+153393,Warrior (4-103C),Warrior 4 103C,https://tcgplayer-cdn.tcgplayer.com/product/153393_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tmf2,2017-11-25T18:33:14.4,1,Common,"If Warrior receives damage, double the damage instead.",0.25,0.33,1.0,0.2,,Foil,4-103C,Forward,Lightning,2,8000,Standard Unit,III
+153393,Warrior (4-103C),Warrior 4 103C,https://tcgplayer-cdn.tcgplayer.com/product/153393_200w.jpg,24,1947,https://cpt.tcgcsv.com/Tmf2,2017-11-25T18:33:14.4,1,Common,"If Warrior receives damage, double the damage instead.",0.02,0.13,0.99,0.08,,Normal,4-103C,Forward,Lightning,2,8000,Standard Unit,III
+153394,Lancer,Lancer,https://tcgplayer-cdn.tcgplayer.com/product/153394_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vmf2,2017-11-25T18:34:47.307,1,Rare,"[Dull], put Lancer into the Break Zone: Choose 1 Forward. 
+<br>It gains First Strike until the end of the turn.",0.25,0.35,50.0,0.25,,Foil,4-104R,Backup,Lightning,2,,Standard Unit,XIV
+153394,Lancer,Lancer,https://tcgplayer-cdn.tcgplayer.com/product/153394_200w.jpg,24,1947,https://cpt.tcgcsv.com/Vmf2,2017-11-25T18:34:47.307,1,Rare,"[Dull], put Lancer into the Break Zone: Choose 1 Forward. 
+<br>It gains First Strike until the end of the turn.",0.02,0.1,0.99,0.08,,Normal,4-104R,Backup,Lightning,2,,Standard Unit,XIV
+153395,Dycedarg,Dycedarg,https://tcgplayer-cdn.tcgplayer.com/product/153395_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wmf2,2017-11-25T18:36:11.697,1,Rare,"When Dycedarg is put from the field into the Break 
+<br>Zone, choose 1 active Forward opponent controls. 
+<br>Deal it 7000 damage.",0.25,0.49,1.5,0.31,,Foil,4-105R,Forward,Lightning,3,6000,Knight,FFT
+153395,Dycedarg,Dycedarg,https://tcgplayer-cdn.tcgplayer.com/product/153395_200w.jpg,24,1947,https://cpt.tcgcsv.com/Wmf2,2017-11-25T18:36:11.697,1,Rare,"When Dycedarg is put from the field into the Break 
+<br>Zone, choose 1 active Forward opponent controls. 
+<br>Deal it 7000 damage.",0.02,0.15,0.99,0.12,,Normal,4-105R,Forward,Lightning,3,6000,Knight,FFT
+153396,Nashu,Nashu,https://tcgplayer-cdn.tcgplayer.com/product/153396_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xmf2,2017-11-25T18:39:08.207,1,Rare,"The <em>Card Name Hildibrand</em> you control gains <strong>Haste</strong>.
+[Dull]: Choose 1 <em>Card Name Hildibrand</em> you control. It 
+<br>gains +2000 power until the end of the turn.",0.03,0.15,0.99,0.15,,Normal,4-107R,Backup,Lightning,2,,Inspector,XIV
+153396,Nashu,Nashu,https://tcgplayer-cdn.tcgplayer.com/product/153396_200w.jpg,24,1947,https://cpt.tcgcsv.com/Xmf2,2017-11-25T18:39:08.207,1,Rare,"The <em>Card Name Hildibrand</em> you control gains <strong>Haste</strong>.
+[Dull]: Choose 1 <em>Card Name Hildibrand</em> you control. It 
+<br>gains +2000 power until the end of the turn.",0.25,0.54,1.75,0.99,,Foil,4-107R,Backup,Lightning,2,,Inspector,XIV
+153397,Ninja,Ninja,https://tcgplayer-cdn.tcgplayer.com/product/153397_200w.jpg,24,1947,https://cpt.tcgcsv.com/Zmf2,2017-11-25T18:40:55.057,1,Common,"<strong>Haste</strong> (This Character can attack or use abilities 
+<br>containing [Dull] in the cost the turn it enters the field.)",0.01,0.1,1.95,0.08,,Normal,4-108C,Forward,Lightning,2,3000,Standard Unit,III
+153397,Ninja,Ninja,https://tcgplayer-cdn.tcgplayer.com/product/153397_200w.jpg,24,1947,https://cpt.tcgcsv.com/Zmf2,2017-11-25T18:40:55.057,1,Common,"<strong>Haste</strong> (This Character can attack or use abilities 
+<br>containing [Dull] in the cost the turn it enters the field.)",0.25,0.4,1.0,0.25,,Foil,4-108C,Forward,Lightning,2,3000,Standard Unit,III
+153398,Hildibrand,Hildibrand,https://tcgplayer-cdn.tcgplayer.com/product/153398_200w.jpg,24,1947,https://cpt.tcgcsv.com/-mf2,2017-11-25T20:46:47.497,1,Hero,"If Hildibrand leaves the field due to your opponent's Summons or 
+<br>abilities, return him to your hand instead. (Hildibrand does not return 
+<br>to your hand if he receives damage higher than his power or if his 
+<br>power is reduced to 0.)
+<br><strong>Manderville Dance</strong> [S][P]: Reveal the top card of your deck. If it is a 
+<br>Forward, play it onto the field <strong>dull</strong>. If not, put it into the Break Zone.",0.1,0.44,1.0,0.43,,Normal,4-109H,Forward,Lightning,3,7000,Inspector,XIV
+153398,Hildibrand,Hildibrand,https://tcgplayer-cdn.tcgplayer.com/product/153398_200w.jpg,24,1947,https://cpt.tcgcsv.com/-mf2,2017-11-25T20:46:47.497,1,Hero,"If Hildibrand leaves the field due to your opponent's Summons or 
+<br>abilities, return him to your hand instead. (Hildibrand does not return 
+<br>to your hand if he receives damage higher than his power or if his 
+<br>power is reduced to 0.)
+<br><strong>Manderville Dance</strong> [S][P]: Reveal the top card of your deck. If it is a 
+<br>Forward, play it onto the field <strong>dull</strong>. If not, put it into the Break Zone.",0.55,0.99,3.0,0.91,,Foil,4-109H,Forward,Lightning,3,7000,Inspector,XIV
+153399,King of Burmecia EX,King of Burmecia EX,https://tcgplayer-cdn.tcgplayer.com/product/153399_200w.jpg,24,1947,https://cpt.tcgcsv.com/_mf2,2017-11-25T18:46:27.683,1,Rare,"<strong>EX BURST</strong> When King of Burmecia enters the field, 
+<br>you may <strong>search<strong> for 1 <em>Job Dragoon</em> or <em>Card Name</em> 
+<br><em>Dragoon</em> and add it to your hand.",0.01,0.23,2.0,0.15,,Normal,4-110R,Backup,Lightning,3,,King,IX
+153399,King of Burmecia EX,King of Burmecia EX,https://tcgplayer-cdn.tcgplayer.com/product/153399_200w.jpg,24,1947,https://cpt.tcgcsv.com/_mf2,2017-11-25T18:46:27.683,1,Rare,"<strong>EX BURST</strong> When King of Burmecia enters the field, 
+<br>you may <strong>search<strong> for 1 <em>Job Dragoon</em> or <em>Card Name</em> 
+<br><em>Dragoon</em> and add it to your hand.",1.1,1.88,4.5,1.78,,Foil,4-110R,Backup,Lightning,3,,King,IX
+153400,Behemoth,Behemoth,https://tcgplayer-cdn.tcgplayer.com/product/153400_200w.jpg,24,1947,https://cpt.tcgcsv.com/0nf2,2017-11-25T18:48:45.957,1,Hero,"[P]: Until the end of the turn, Behemoth also becomes 
+<br>a Forward with 8000 power and ""When Behemoth 
+<br>receives damage from a Forward, deal that Forward 
+<br>damage equal to half of the received damage (round up 
+<br>to the nearest 1000)."" You can only use this ability once 
+<br>per turn.",0.25,0.5,1.51,0.25,,Foil,4-111H,Monster,Lightning,3,,Behemoth,Theatrhythm
+153400,Behemoth,Behemoth,https://tcgplayer-cdn.tcgplayer.com/product/153400_200w.jpg,24,1947,https://cpt.tcgcsv.com/0nf2,2017-11-25T18:48:45.957,1,Hero,"[P]: Until the end of the turn, Behemoth also becomes 
+<br>a Forward with 8000 power and ""When Behemoth 
+<br>receives damage from a Forward, deal that Forward 
+<br>damage equal to half of the received damage (round up 
+<br>to the nearest 1000)."" You can only use this ability once 
+<br>per turn.",0.1,0.3,193280.54,0.3,,Normal,4-111H,Monster,Lightning,3,,Behemoth,Theatrhythm
+153401,Magus,Magus,https://tcgplayer-cdn.tcgplayer.com/product/153401_200w.jpg,24,1947,https://cpt.tcgcsv.com/2nf2,2017-11-25T18:50:44.717,1,Common,"When Magus enters the field, choose 1 Forward. Deal 
+<br>it 7000 damage. If you control 5 or more <em>Job Standard</em> 
+<br><em>Unit</em>, deal it 9000 damage instead.",0.18,0.26,1.0,0.25,,Foil,4-112C,Backup,Lightning,5,,Standard Unit,III
+153401,Magus,Magus,https://tcgplayer-cdn.tcgplayer.com/product/153401_200w.jpg,24,1947,https://cpt.tcgcsv.com/2nf2,2017-11-25T18:50:44.717,1,Common,"When Magus enters the field, choose 1 Forward. Deal 
+<br>it 7000 damage. If you control 5 or more <em>Job Standard</em> 
+<br><em>Unit</em>, deal it 9000 damage instead.",0.02,0.1,0.5,0.09,,Normal,4-112C,Backup,Lightning,5,,Standard Unit,III
+153402,Magus (4-113C),Magus 4 113C,https://tcgplayer-cdn.tcgplayer.com/product/153402_200w.jpg,24,1947,https://cpt.tcgcsv.com/3nf2,2017-11-25T18:52:35.83,1,Common,"[Dull], put Magus into the Break Zone: Choose 1 <strong>active</strong> 
+<br>Forward. Deal it 4000 damage.",0.24,0.49,1.0,0.3,,Foil,4-113C,Backup,Lightning,2,,Standard Unit,III
+153402,Magus (4-113C),Magus 4 113C,https://tcgplayer-cdn.tcgplayer.com/product/153402_200w.jpg,24,1947,https://cpt.tcgcsv.com/3nf2,2017-11-25T18:52:35.83,1,Common,"[Dull], put Magus into the Break Zone: Choose 1 <strong>active</strong> 
+<br>Forward. Deal it 4000 damage.",0.01,0.1,1.95,0.06,,Normal,4-113C,Backup,Lightning,2,,Standard Unit,III
+153403,Raiden,Raiden,https://tcgplayer-cdn.tcgplayer.com/product/153403_200w.jpg,24,1947,https://cpt.tcgcsv.com/5nf2,2017-11-25T18:54:36.75,1,Legend,"Choose up to 2 Forwards opponent controls. Remove 
+<br>the first Forward from the game, and break the other.",2.45,2.99,4.0,3.01,,Foil,4-114L,Summon,Lightning,9,,,VI
+153403,Raiden,Raiden,https://tcgplayer-cdn.tcgplayer.com/product/153403_200w.jpg,24,1947,https://cpt.tcgcsv.com/5nf2,2017-11-25T18:54:36.75,1,Legend,"Choose up to 2 Forwards opponent controls. Remove 
+<br>the first Forward from the game, and break the other.",0.69,1.03,1.5,0.79,,Normal,4-114L,Summon,Lightning,9,,,VI
+153404,Lightning,Lightning,https://tcgplayer-cdn.tcgplayer.com/product/153404_200w.jpg,24,1947,https://cpt.tcgcsv.com/6nf2,2017-11-25T18:57:16.513,1,Legend,"<strong>Haste</strong>
+<br>When Lightning enters the field or attacks, choose 1 
+<br>Forward opponent controls. If you control a Category 
+<br><em>XIII</em> Character other than Lightning, <strong>dull</strong> it.
+<br>Discard 1 <em>Card Name Lightning</em>: Remove Lightning 
+<br>from the game. Then, play Lightning onto the field <strong>dull</strong>.",3.77,4.15,9.99,3.95,,Foil,4-115L,Forward,Lightning,5,7000,Knight of Etro,XIII
+153404,Lightning,Lightning,https://tcgplayer-cdn.tcgplayer.com/product/153404_200w.jpg,24,1947,https://cpt.tcgcsv.com/6nf2,2017-11-25T18:57:16.513,1,Legend,"<strong>Haste</strong>
+<br>When Lightning enters the field or attacks, choose 1 
+<br>Forward opponent controls. If you control a Category 
+<br><em>XIII</em> Character other than Lightning, <strong>dull</strong> it.
+<br>Discard 1 <em>Card Name Lightning</em>: Remove Lightning 
+<br>from the game. Then, play Lightning onto the field <strong>dull</strong>.",0.07,0.79,2.99,0.27,,Normal,4-115L,Forward,Lightning,5,7000,Knight of Etro,XIII
+153405,Ramuh EX,Ramuh EX,https://tcgplayer-cdn.tcgplayer.com/product/153405_200w.jpg,24,1947,https://cpt.tcgcsv.com/7nf2,2023-03-22T15:27:28.44,1,Common,"<strong>EX BURST</strong> Select 1 of the 2 following actions.
+<br>""Choose 1 Forward of cost 2 or less. Break it.""
+<br>""Choose 1 Monster of cost 2 or less. Break it.""",0.04,0.15,0.99,0.1,,Normal,4-116C,Summon,Lightning,1,,,DFF
+153405,Ramuh EX,Ramuh EX,https://tcgplayer-cdn.tcgplayer.com/product/153405_200w.jpg,24,1947,https://cpt.tcgcsv.com/7nf2,2023-03-22T15:27:28.44,1,Common,"<strong>EX BURST</strong> Select 1 of the 2 following actions.
+<br>""Choose 1 Forward of cost 2 or less. Break it.""
+<br>""Choose 1 Monster of cost 2 or less. Break it.""",0.25,1.2,6.5,1.97,,Foil,4-116C,Summon,Lightning,1,,,DFF
+153406,Ramza,Ramza,https://tcgplayer-cdn.tcgplayer.com/product/153406_200w.jpg,24,1947,https://cpt.tcgcsv.com/8nf2,2017-11-25T19:01:24.623,1,Rare,"When a Forward you control is put from the field into 
+<br>the Break Zone, <strong>activate</strong> Ramza.
+[Dull]: Choose 1 Forward. It gains <strong>Haste</strong> until the end of 
+<br>the turn.
+<br>[Dull]: Choose 1 Forward. It gains +1000 power until the 
+<br>end of the turn.",0.05,0.19,0.99,0.18,,Normal,4-117R,Forward,Lightning,2,5000,Knight,FFT
+153406,Ramza,Ramza,https://tcgplayer-cdn.tcgplayer.com/product/153406_200w.jpg,24,1947,https://cpt.tcgcsv.com/8nf2,2017-11-25T19:01:24.623,1,Rare,"When a Forward you control is put from the field into 
+<br>the Break Zone, <strong>activate</strong> Ramza.
+[Dull]: Choose 1 Forward. It gains <strong>Haste</strong> until the end of 
+<br>the turn.
+<br>[Dull]: Choose 1 Forward. It gains +1000 power until the 
+<br>end of the turn.",0.9,0.99,4.0,0.87,,Foil,4-117R,Forward,Lightning,2,5000,Knight,FFT
+153407,Yeoman,Yeoman,https://tcgplayer-cdn.tcgplayer.com/product/153407_200w.jpg,24,1947,https://cpt.tcgcsv.com/9nf2,2017-11-25T19:03:08.017,1,Common,"Put Yeoman into the Break Zone: Choose 1 Forward. 
+<br>It gains <strong>First Strike</strong> until the end of the turn. Draw 1 
+<br>card.",0.02,0.1,1.95,0.07,,Normal,4-118C,Monster,Lightning,1,,Tilter,XIII
+153407,Yeoman,Yeoman,https://tcgplayer-cdn.tcgplayer.com/product/153407_200w.jpg,24,1947,https://cpt.tcgcsv.com/9nf2,2017-11-25T19:03:08.017,1,Common,"Put Yeoman into the Break Zone: Choose 1 Forward. 
+<br>It gains <strong>First Strike</strong> until the end of the turn. Draw 1 
+<br>card.",0.24,0.43,1.0,0.32,,Foil,4-118C,Monster,Lightning,1,,Tilter,XIII
+153408,Dragoon,Dragoon,https://tcgplayer-cdn.tcgplayer.com/product/153408_200w.jpg,24,1947,https://cpt.tcgcsv.com/bnf2,2017-11-25T19:04:38.413,1,Common,"[P]: Dragoon gains +2000 power until the end of the 
+<br>turn. You can only use this ability once per turn.",0.01,0.1,0.99,0.09,,Normal,4-119C,Forward,Lightning,3,6000,Standard Unit,III
+153408,Dragoon,Dragoon,https://tcgplayer-cdn.tcgplayer.com/product/153408_200w.jpg,24,1947,https://cpt.tcgcsv.com/bnf2,2017-11-25T19:04:38.413,1,Common,"[P]: Dragoon gains +2000 power until the end of the 
+<br>turn. You can only use this ability once per turn.",0.2,0.25,1.0,,,Foil,4-119C,Forward,Lightning,3,6000,Standard Unit,III
+153409,Restrictor EX,Restrictor EX,https://tcgplayer-cdn.tcgplayer.com/product/153409_200w.jpg,24,1947,https://cpt.tcgcsv.com/cnf2,2018-07-24T15:20:00.967,1,Rare,"<strong>EX BURST</strong> When Restrictor enters the field, you may 
+<br>search for 1 <em>Job Tsviets</em> and add it to your hand.",10.0,15.0,19.0,8.81,,Foil,4-120R,Backup,Lightning,3,,SOLDIER,VII
+153409,Restrictor EX,Restrictor EX,https://tcgplayer-cdn.tcgplayer.com/product/153409_200w.jpg,24,1947,https://cpt.tcgcsv.com/cnf2,2018-07-24T15:20:00.967,1,Rare,"<strong>EX BURST</strong> When Restrictor enters the field, you may 
+<br>search for 1 <em>Job Tsviets</em> and add it to your hand.",0.05,0.16,0.99,0.16,,Normal,4-120R,Backup,Lightning,3,,SOLDIER,VII
+153410,Adamantoise,Adamantoise,https://tcgplayer-cdn.tcgplayer.com/product/153410_200w.jpg,24,1947,https://cpt.tcgcsv.com/dnf2,2017-11-25T19:11:43.213,1,Common,"Put Adamantoise into the Break Zone: Choose 1 
+<br>Forward. During this turn, the next damage dealt to it 
+<br>is reduced by 3000 instead. Draw 1 card.",0.25,0.48,1.0,0.67,,Foil,4-121C,Monster,Water,1,,Turtle,Theatrhythm
+153410,Adamantoise,Adamantoise,https://tcgplayer-cdn.tcgplayer.com/product/153410_200w.jpg,24,1947,https://cpt.tcgcsv.com/dnf2,2017-11-25T19:11:43.213,1,Common,"Put Adamantoise into the Break Zone: Choose 1 
+<br>Forward. During this turn, the next damage dealt to it 
+<br>is reduced by 3000 instead. Draw 1 card.",0.01,0.1,0.99,0.05,,Normal,4-121C,Monster,Water,1,,Turtle,Theatrhythm
+153411,Mystic,Mystic,https://tcgplayer-cdn.tcgplayer.com/product/153411_200w.jpg,24,1947,https://cpt.tcgcsv.com/fnf2,2017-11-25T19:13:26.593,1,Common,"[Dull], put Mystic into the Break Zone: Choose 1 Forward. 
+<br>It loses 1000 power until the end of the turn.",0.18,0.34,1.0,0.18,,Foil,4-122C,Backup,Water,2,,Standard Unit,FFT
+153411,Mystic,Mystic,https://tcgplayer-cdn.tcgplayer.com/product/153411_200w.jpg,24,1947,https://cpt.tcgcsv.com/fnf2,2017-11-25T19:13:26.593,1,Common,"[Dull], put Mystic into the Break Zone: Choose 1 Forward. 
+<br>It loses 1000 power until the end of the turn.",0.02,0.1,0.99,0.09,,Normal,4-122C,Backup,Water,2,,Standard Unit,FFT
+153412,Green Dragon,Green Dragon,https://tcgplayer-cdn.tcgplayer.com/product/153412_200w.jpg,24,1947,https://cpt.tcgcsv.com/gnf2,2017-11-25T19:15:00.883,1,Common,"1: Until the end of the turn, Green Dragon also 
+<br>becomes a Forward with 7000 power. You can only use 
+<br>this ability once per turn.",0.02,0.15,0.99,0.09,,Normal,4-124C,Monster,Water,2,,Dragon,Theatrhythm
+153412,Green Dragon,Green Dragon,https://tcgplayer-cdn.tcgplayer.com/product/153412_200w.jpg,24,1947,https://cpt.tcgcsv.com/gnf2,2017-11-25T19:15:00.883,1,Common,"1: Until the end of the turn, Green Dragon also 
+<br>becomes a Forward with 7000 power. You can only use 
+<br>this ability once per turn.",0.22,0.33,1.0,0.24,,Foil,4-124C,Monster,Water,2,,Dragon,Theatrhythm
+153413,Clione,Clione,https://tcgplayer-cdn.tcgplayer.com/product/153413_200w.jpg,24,1947,https://cpt.tcgcsv.com/hnf2,2017-11-25T19:16:30.387,1,Common,"When either player casts a Summon, put Clione into the 
+<br>Break Zone. If you do so, cancel the Summon's effect.
+<br>When Clione is put from the field into the Break Zone, 
+<br>draw 1 card.",0.05,0.15,0.99,0.13,,Normal,4-125C,Monster,Water,2,,Vermin,XIII
+153413,Clione,Clione,https://tcgplayer-cdn.tcgplayer.com/product/153413_200w.jpg,24,1947,https://cpt.tcgcsv.com/hnf2,2017-11-25T19:16:30.387,1,Common,"When either player casts a Summon, put Clione into the 
+<br>Break Zone. If you do so, cancel the Summon's effect.
+<br>When Clione is put from the field into the Break Zone, 
+<br>draw 1 card.",3.9,4.43,4.95,4.42,,Foil,4-125C,Monster,Water,2,,Vermin,XIII
+153414,Gladiator,Gladiator,https://tcgplayer-cdn.tcgplayer.com/product/153414_200w.jpg,24,1947,https://cpt.tcgcsv.com/jnf2,2017-11-25T19:18:56.653,1,Rare,"[U][Dull], put Gladiator into the Break Zone: Choose 1 <em>Job</em>
+<br><em>Standard Unit</em> Forward of cost 3 or less in your Break 
+<br>Zone. Play it onto the field. You can only use this ability 
+<br>during your turn.",0.03,0.25,2.24,0.13,,Normal,4-126R,Backup,Water,2,,Standard Unit,XIV
+153414,Gladiator,Gladiator,https://tcgplayer-cdn.tcgplayer.com/product/153414_200w.jpg,24,1947,https://cpt.tcgcsv.com/jnf2,2017-11-25T19:18:56.653,1,Rare,"[U][Dull], put Gladiator into the Break Zone: Choose 1 <em>Job</em>
+<br><em>Standard Unit</em> Forward of cost 3 or less in your Break 
+<br>Zone. Play it onto the field. You can only use this ability 
+<br>during your turn.",0.24,0.75,6.0,0.25,,Foil,4-126R,Backup,Water,2,,Standard Unit,XIV
+153415,Gogo,Gogo,https://tcgplayer-cdn.tcgplayer.com/product/153415_200w.jpg,24,1947,https://cpt.tcgcsv.com/knf2,2017-11-25T19:21:11.1,1,Hero,"If a Forward in your Break Zone has <strong>Haste</strong>, <strong>First</strong> 
+<br><strong>Strike</strong>, or <strong>Brave</strong>, Gogo gains those abilities.",0.15,0.25,1.5,0.21,,Normal,4-127H,Forward,Water,3,7000,Mime,VI
+153415,Gogo,Gogo,https://tcgplayer-cdn.tcgplayer.com/product/153415_200w.jpg,24,1947,https://cpt.tcgcsv.com/knf2,2017-11-25T19:21:11.1,1,Hero,"If a Forward in your Break Zone has <strong>Haste</strong>, <strong>First</strong> 
+<br><strong>Strike</strong>, or <strong>Brave</strong>, Gogo gains those abilities.",0.25,0.33,1.0,0.31,,Foil,4-127H,Forward,Water,3,7000,Mime,VI
+153416,PuPu EX,PuPu EX,https://tcgplayer-cdn.tcgplayer.com/product/153416_200w.jpg,24,1947,https://cpt.tcgcsv.com/lnf2,2023-03-22T15:29:21.093,1,Common,"<strong>EX BURST</strong> Discard 1 card. Then, draw 2 cards.",0.11,0.57,2.0,0.57,,Normal,4-128C,Summon,Water,1,,,DFF
+153416,PuPu EX,PuPu EX,https://tcgplayer-cdn.tcgplayer.com/product/153416_200w.jpg,24,1947,https://cpt.tcgcsv.com/lnf2,2023-03-22T15:29:21.093,1,Common,"<strong>EX BURST</strong> Discard 1 card. Then, draw 2 cards.",4.43,5.4,5.68,4.75,,Foil,4-128C,Summon,Water,1,,,DFF
+153417,Steiner,Steiner,https://tcgplayer-cdn.tcgplayer.com/product/153417_200w.jpg,24,1947,https://cpt.tcgcsv.com/mnf2,2017-11-25T19:24:35.353,1,Legend,"When Steiner enters the field, if you have received 3 
+<br>points of damage or more, draw 1 card. 
+<strong>Dull</strong> 1 <strong>active</strong> Water Forward other than Steiner: Steiner 
+<br>gains +1000 power until the end of the turn.",0.78,0.94,2.0,0.9,,Foil,4-129L,Forward,Water,4,8000,Knight,IX
+153417,Steiner,Steiner,https://tcgplayer-cdn.tcgplayer.com/product/153417_200w.jpg,24,1947,https://cpt.tcgcsv.com/mnf2,2017-11-25T19:24:35.353,1,Legend,"When Steiner enters the field, if you have received 3 
+<br>points of damage or more, draw 1 card. 
+<strong>Dull</strong> 1 <strong>active</strong> Water Forward other than Steiner: Steiner 
+<br>gains +1000 power until the end of the turn.",0.23,1.0,8.5,0.3,,Normal,4-129L,Forward,Water,4,8000,Knight,IX
+153418,Strago EX,Strago EX,https://tcgplayer-cdn.tcgplayer.com/product/153418_200w.jpg,24,1947,https://cpt.tcgcsv.com/nnf2,2017-11-25T19:27:19.803,1,Hero,"<strong>EX BURST</strong> When Strago enters the field, choose 1 Forward 
+<br>or Monster opponent controls. If you control a <em>Category VI</em>
+<br>Forward other than Strago, return it to its owner's hand.
+<br><strong>Grand Delta</strong> [S][U][U][Dull]: Divide 12000 damage equally among 
+<br>all the Forwards opponent controls (round up to the 
+<br>nearest 1000).",0.25,0.62,1.5,0.75,,Foil,4-130H,Forward,Water,3,6000,Blue Mage,VI
+153418,Strago EX,Strago EX,https://tcgplayer-cdn.tcgplayer.com/product/153418_200w.jpg,24,1947,https://cpt.tcgcsv.com/nnf2,2017-11-25T19:27:19.803,1,Hero,"<strong>EX BURST</strong> When Strago enters the field, choose 1 Forward 
+<br>or Monster opponent controls. If you control a <em>Category VI</em>
+<br>Forward other than Strago, return it to its owner's hand.
+<br><strong>Grand Delta</strong> [S][U][U][Dull]: Divide 12000 damage equally among 
+<br>all the Forwards opponent controls (round up to the 
+<br>nearest 1000).",0.07,0.3,1.0,0.2,,Normal,4-130H,Forward,Water,3,6000,Blue Mage,VI
+153419,Tonbetty EX,Tonbetty EX,https://tcgplayer-cdn.tcgplayer.com/product/153419_200w.jpg,24,1947,https://cpt.tcgcsv.com/pnf2,2018-10-29T19:50:24.253,1,Rare,"<strong>EX BURST</strong> When Tonbetty enters the field, you 
+<br>may <strong>search</strong> for 1 <em>Card Name Mira</em> or <em>Card Name</em>
+<br><em>Tonberries</em> and add it to your hand.",0.45,0.98,2.0,0.99,,Foil,4-131R,Backup,Water,3,,Advisor,FFCC
+153419,Tonbetty EX,Tonbetty EX,https://tcgplayer-cdn.tcgplayer.com/product/153419_200w.jpg,24,1947,https://cpt.tcgcsv.com/pnf2,2018-10-29T19:50:24.253,1,Rare,"<strong>EX BURST</strong> When Tonbetty enters the field, you 
+<br>may <strong>search</strong> for 1 <em>Card Name Mira</em> or <em>Card Name</em>
+<br><em>Tonberries</em> and add it to your hand.",0.05,0.2,0.89,0.16,,Normal,4-131R,Backup,Water,3,,Advisor,FFCC
+153420,Tonberries,Tonberries,https://tcgplayer-cdn.tcgplayer.com/product/153420_200w.jpg,24,1947,https://cpt.tcgcsv.com/qnf2,2018-10-29T19:49:30.927,1,Rare,"When Tonberries enters the field, choose 1 Forward. It 
+<br>loses 2000 power until the end of the turn.
+<br>Put Tonberries into the Break Zone: Choose 1 Forward. 
+<br>It loses 2000 power until the end of the turn.
+<br>[U], put Tonberries into the Break Zone: Choose 1 
+<br>Forward. It loses 4000 power until the end of the turn.",0.24,0.5,7.55,1.0,,Foil,4-132R,Monster,Water,2,,Tonberry,FFCC
+153420,Tonberries,Tonberries,https://tcgplayer-cdn.tcgplayer.com/product/153420_200w.jpg,24,1947,https://cpt.tcgcsv.com/qnf2,2018-10-29T19:49:30.927,1,Rare,"When Tonberries enters the field, choose 1 Forward. It 
+<br>loses 2000 power until the end of the turn.
+<br>Put Tonberries into the Break Zone: Choose 1 Forward. 
+<br>It loses 2000 power until the end of the turn.
+<br>[U], put Tonberries into the Break Zone: Choose 1 
+<br>Forward. It loses 4000 power until the end of the turn.",0.05,0.24,0.99,0.11,,Normal,4-132R,Monster,Water,2,,Tonberry,FFCC
+153421,Viking,Viking,https://tcgplayer-cdn.tcgplayer.com/product/153421_200w.jpg,24,1947,https://cpt.tcgcsv.com/rnf2,2018-03-13T13:13:33.343,1,Common,"When Viking enters the field, draw 1 card.
+<br>When Viking leaves the field, draw 1 card.",0.01,0.15,0.5,0.15,,Normal,4-133C,Forward,Water,3,2000,Standard Unit,III
+153421,Viking,Viking,https://tcgplayer-cdn.tcgplayer.com/product/153421_200w.jpg,24,1947,https://cpt.tcgcsv.com/rnf2,2018-03-13T13:13:33.343,1,Common,"When Viking enters the field, draw 1 card.
+<br>When Viking leaves the field, draw 1 card.",4.0,5.12,9.74,4.25,,Foil,4-133C,Forward,Water,3,2000,Standard Unit,III
+153422,Beatrix,Beatrix,https://tcgplayer-cdn.tcgplayer.com/product/153422_200w.jpg,24,1947,https://cpt.tcgcsv.com/snf2,2017-11-25T19:37:24.67,1,Rare,"If you control <em>Card Name Steiner</em>, Beatrix gains +1000 
+<br>power and ""Beatrix doesn't receive any damage from 
+<br>opponent`s abilities.""
+<br>When Beatrix attacks, all the Forwards opponent 
+<br>controls lose 1000 power until the end of the turn.",0.04,0.25,0.99,0.16,,Normal,4-135R,Forward,Water,3,7000,Knight,IX
+153422,Beatrix,Beatrix,https://tcgplayer-cdn.tcgplayer.com/product/153422_200w.jpg,24,1947,https://cpt.tcgcsv.com/snf2,2017-11-25T19:37:24.67,1,Rare,"If you control <em>Card Name Steiner</em>, Beatrix gains +1000 
+<br>power and ""Beatrix doesn't receive any damage from 
+<br>opponent`s abilities.""
+<br>When Beatrix attacks, all the Forwards opponent 
+<br>controls lose 1000 power until the end of the turn.",0.64,0.75,3.0,0.64,,Foil,4-135R,Forward,Water,3,7000,Knight,IX
+153423,Summoner,Summoner,https://tcgplayer-cdn.tcgplayer.com/product/153423_200w.jpg,24,1947,https://cpt.tcgcsv.com/tnf2,2017-11-25T19:39:04.93,1,Common,"[Dull], put Summoner into the Break Zone: Choose 1 
+<br>Summon of cost 3 or less. Cancel its effect.",0.05,0.13,0.99,0.1,,Normal,4-136C,Backup,Water,2,,Standard Unit,III
+153423,Summoner,Summoner,https://tcgplayer-cdn.tcgplayer.com/product/153423_200w.jpg,24,1947,https://cpt.tcgcsv.com/tnf2,2017-11-25T19:39:04.93,1,Common,"[Dull], put Summoner into the Break Zone: Choose 1 
+<br>Summon of cost 3 or less. Cancel its effect.",2.0,2.08,3.44,2.08,,Foil,4-136C,Backup,Water,2,,Standard Unit,III
+153424,Mira,Mira,https://tcgplayer-cdn.tcgplayer.com/product/153424_200w.jpg,24,1947,https://cpt.tcgcsv.com/vnf2,2018-10-29T19:49:15.88,1,Legend,"The cost required to play your Monsters onto the field is 
+<br>reduced by 1 (it cannot become 0).
+<br>When a Monster you control is put from the field into 
+<br>the Break Zone, you may <strong>dull</strong> Mira if it is <strong>active</strong>. 
+<br>If you do so, <strong>search</strong> for a Monster with the same name 
+<br>and add it to your hand.",2.11,4.75,6.25,2.11,,Normal,4-137L,Forward,Water,2,5000,Dark Lord,FFCC
+153424,Mira,Mira,https://tcgplayer-cdn.tcgplayer.com/product/153424_200w.jpg,24,1947,https://cpt.tcgcsv.com/vnf2,2018-10-29T19:49:15.88,1,Legend,"The cost required to play your Monsters onto the field is 
+<br>reduced by 1 (it cannot become 0).
+<br>When a Monster you control is put from the field into 
+<br>the Break Zone, you may <strong>dull</strong> Mira if it is <strong>active</strong>. 
+<br>If you do so, <strong>search</strong> for a Monster with the same name 
+<br>and add it to your hand.",3.58,9.25,10.01,3.69,,Foil,4-137L,Forward,Water,2,5000,Dark Lord,FFCC
+153425,Merlwyb,Merlwyb,https://tcgplayer-cdn.tcgplayer.com/product/153425_200w.jpg,24,1947,https://cpt.tcgcsv.com/wnf2,2017-11-25T19:43:51.263,1,Rare,"When Merlwyb enters the field, you may <strong>search</strong> for 1 
+<br>Water Forward and add it to your hand.",0.03,0.25,3.7,0.17,,Normal,4-138R,Backup,Water,4,,Admiral,XIV
+153425,Merlwyb,Merlwyb,https://tcgplayer-cdn.tcgplayer.com/product/153425_200w.jpg,24,1947,https://cpt.tcgcsv.com/wnf2,2017-11-25T19:43:51.263,1,Rare,"When Merlwyb enters the field, you may <strong>search</strong> for 1 
+<br>Water Forward and add it to your hand.",5.99,8.49,8.49,6.28,,Foil,4-138R,Backup,Water,4,,Admiral,XIV
+153426,Moogle (THEATRHYTHM),Moogle THEATRHYTHM,https://tcgplayer-cdn.tcgplayer.com/product/153426_200w.jpg,24,1947,https://cpt.tcgcsv.com/xnf2,2017-11-25T19:45:38.137,1,Common,"[U][Dull], put Moogle (THEATRHYTHM) into the Break 
+<br>Zone: Draw 1 card.",0.22,0.5,1.0,0.2,,Foil,4-139C,Backup,Water,2,,Moogle,Theatrhythm
+153426,Moogle (THEATRHYTHM),Moogle THEATRHYTHM,https://tcgplayer-cdn.tcgplayer.com/product/153426_200w.jpg,24,1947,https://cpt.tcgcsv.com/xnf2,2017-11-25T19:45:38.137,1,Common,"[U][Dull], put Moogle (THEATRHYTHM) into the Break 
+<br>Zone: Draw 1 card.",0.01,0.1,0.99,0.09,,Normal,4-139C,Backup,Water,2,,Moogle,Theatrhythm
+153427,Mog (VI),Mog VI,https://tcgplayer-cdn.tcgplayer.com/product/153427_200w.jpg,24,1947,https://cpt.tcgcsv.com/znf2,2017-11-25T19:47:37.38,1,Hero,"If you control 2 or more <em>Category VI</em> Forwards other 
+<br>than Mog (VI), Mog (VI) cannot be chosen by your 
+<br>opponent's Summons or abilities.
+<br>[Dull]: Draw 1 card.",0.95,0.99,3.0,1.25,,Foil,4-140H,Forward,Water,3,4000,Moogle,VI
+153427,Mog (VI),Mog VI,https://tcgplayer-cdn.tcgplayer.com/product/153427_200w.jpg,24,1947,https://cpt.tcgcsv.com/znf2,2017-11-25T19:47:37.38,1,Hero,"If you control 2 or more <em>Category VI</em> Forwards other 
+<br>than Mog (VI), Mog (VI) cannot be chosen by your 
+<br>opponent's Summons or abilities.
+<br>[Dull]: Draw 1 card.",0.21,0.7,0.75,0.64,,Normal,4-140H,Forward,Water,3,4000,Moogle,VI
+153428,Mime,Mime,https://tcgplayer-cdn.tcgplayer.com/product/153428_200w.jpg,24,1947,https://cpt.tcgcsv.com/Bnf2,2017-11-25T19:49:05.497,1,Common,"1: Mime's power becomes the same as your opponent's 
+<br>weakest Forward until the end of the turn.",0.25,0.26,1.0,0.26,,Foil,4-141C,Forward,Water,2,4000,Standard Unit,FFT
+153428,Mime,Mime,https://tcgplayer-cdn.tcgplayer.com/product/153428_200w.jpg,24,1947,https://cpt.tcgcsv.com/Bnf2,2017-11-25T19:49:05.497,1,Common,"1: Mime's power becomes the same as your opponent's 
+<br>weakest Forward until the end of the turn.",0.02,0.1,1.95,0.1,,Normal,4-141C,Forward,Water,2,4000,Standard Unit,FFT
+153429,Malboro,Malboro,https://tcgplayer-cdn.tcgplayer.com/product/153429_200w.jpg,24,1947,https://cpt.tcgcsv.com/Cnf2,2017-11-25T20:07:21.083,1,Rare,"[U]: Until the end of the turn, Malboro also becomes a 
+<br>Forward with 6000 power and ""When Malboro blocks 
+<br>or is blocked, all the Forwards opponent controls lose 
+<br>2000 power until the end of the turn."" You can only use 
+<br>this ability once per turn.",0.25,0.35,1.0,0.58,,Foil,4-142R,Monster,Water,3,,Malboro,Theatrhythm
+153429,Malboro,Malboro,https://tcgplayer-cdn.tcgplayer.com/product/153429_200w.jpg,24,1947,https://cpt.tcgcsv.com/Cnf2,2017-11-25T20:07:21.083,1,Rare,"[U]: Until the end of the turn, Malboro also becomes a 
+<br>Forward with 6000 power and ""When Malboro blocks 
+<br>or is blocked, all the Forwards opponent controls lose 
+<br>2000 power until the end of the turn."" You can only use 
+<br>this ability once per turn.",0.04,0.15,0.99,0.09,,Normal,4-142R,Monster,Water,3,,Malboro,Theatrhythm
+153430,Relm EX,Relm EX,https://tcgplayer-cdn.tcgplayer.com/product/153430_200w.jpg,24,1947,https://cpt.tcgcsv.com/Dnf2,2017-11-25T19:53:18.617,1,Hero,"<strong>EX BURST</strong> When Relm enters the field, reveal the top 
+<br>5 cards of your deck. Add 1 Monster among them to 
+<br>your hand and return the other cards to the bottom of 
+<br>your deck in any order.
+<br>[Dull]: Choose 1 Monster. Until the end of the turn, it also 
+<br>becomes a Forward with 7000 power.",0.25,0.41,1.0,0.37,,Normal,4-144H,Forward,Water,2,5000,Pictomancer,VI
+153430,Relm EX,Relm EX,https://tcgplayer-cdn.tcgplayer.com/product/153430_200w.jpg,24,1947,https://cpt.tcgcsv.com/Dnf2,2017-11-25T19:53:18.617,1,Hero,"<strong>EX BURST</strong> When Relm enters the field, reveal the top 
+<br>5 cards of your deck. Add 1 Monster among them to 
+<br>your hand and return the other cards to the bottom of 
+<br>your deck in any order.
+<br>[Dull]: Choose 1 Monster. Until the end of the turn, it also 
+<br>becomes a Forward with 7000 power.",1.48,1.99,5.95,2.0,,Foil,4-144H,Forward,Water,2,5000,Pictomancer,VI
+153431,Terra,Terra,https://tcgplayer-cdn.tcgplayer.com/product/153431_200w.jpg,24,1947,https://cpt.tcgcsv.com/Fnf2,2017-11-25T19:56:07.95,1,Legend,"When Terra enters the field, you may <strong>search</strong> for 1 
+<br>Summon of cost 5 or less and add it to your hand.
+<br><strong>Riot Blade</strong> [S]2[Dull]: Choose 1 Forward. Deal it 6000 
+<br>damage. Search for 1 Summon and add it to your 
+<br>hand.",1.41,1.51,3.0,1.51,,Normal,4-146L,Forward,Light,4,7000,Magitek Knight,VI
+153431,Terra,Terra,https://tcgplayer-cdn.tcgplayer.com/product/153431_200w.jpg,24,1947,https://cpt.tcgcsv.com/Fnf2,2017-11-25T19:56:07.95,1,Legend,"When Terra enters the field, you may <strong>search</strong> for 1 
+<br>Summon of cost 5 or less and add it to your hand.
+<br><strong>Riot Blade</strong> [S]2[Dull]: Choose 1 Forward. Deal it 6000 
+<br>damage. Search for 1 Summon and add it to your 
+<br>hand.",1.96,4.23,15.0,2.3,,Foil,4-146L,Forward,Light,4,7000,Magitek Knight,VI
+153432,Kefka EX,Kefka EX,https://tcgplayer-cdn.tcgplayer.com/product/153432_200w.jpg,24,1947,https://cpt.tcgcsv.com/Gnf2,2017-11-25T19:58:12.123,1,Hero,"<strong>EX BURST</strong> When Kefka enters the field, <strong>search</strong> for 1 
+<br>Monster and add it to your hand. 
+<br>[Dull]: Until the end of the turn, all the Monsters you 
+<br>control also become Forwards with 7000 power.",1.45,2.05,5.27,2.05,,Normal,4-147H,Forward,Dark,5,8000,Mage,VI
+153432,Kefka EX,Kefka EX,https://tcgplayer-cdn.tcgplayer.com/product/153432_200w.jpg,24,1947,https://cpt.tcgcsv.com/Gnf2,2017-11-25T19:58:12.123,1,Hero,"<strong>EX BURST</strong> When Kefka enters the field, <strong>search</strong> for 1 
+<br>Monster and add it to your hand. 
+<br>[Dull]: Until the end of the turn, all the Monsters you 
+<br>control also become Forwards with 7000 power.",4.4,5.58,7.49,4.81,,Foil,4-147H,Forward,Dark,5,8000,Mage,VI
+153433,Shadow Lord,Shadow Lord,https://tcgplayer-cdn.tcgplayer.com/product/153433_200w.jpg,24,1947,https://cpt.tcgcsv.com/Hnf2,2018-03-13T13:06:00.587,1,Legend,"<strong>Brave</strong>
+<br>When Shadow Lord enters the field, break all 
+<br>the Forwards of cost 2 or less.
+<br>When a Forward opponent controls is put from the 
+<br>field into the Break Zone, choose 1 Forward opponent 
+<br>controls. Deal it 2000 damage.",0.38,0.5,36.36,0.4,,Foil,4-148L,Forward,Dark,4,8000,Kindred,XI;Lord of Vermilion
+153433,Shadow Lord,Shadow Lord,https://tcgplayer-cdn.tcgplayer.com/product/153433_200w.jpg,24,1947,https://cpt.tcgcsv.com/Hnf2,2018-03-13T13:06:00.587,1,Legend,"<strong>Brave</strong>
+<br>When Shadow Lord enters the field, break all 
+<br>the Forwards of cost 2 or less.
+<br>When a Forward opponent controls is put from the 
+<br>field into the Break Zone, choose 1 Forward opponent 
+<br>controls. Deal it 2000 damage.",0.11,0.45,2.5,0.25,,Normal,4-148L,Forward,Dark,4,8000,Kindred,XI;Lord of Vermilion
+153434,Cloud EX,Cloud EX,https://tcgplayer-cdn.tcgplayer.com/product/153434_200w.jpg,24,1947,https://cpt.tcgcsv.com/Jnf2,2023-03-22T15:30:24.203,1,Hero,"<strong>EX BURST</strong> When Cloud enters the field, choose 1 
+<br>Forward opponent controls. If you control a <em>Category</em> 
+<br><em>VII</em> Forward other than Cloud, deal it 7000 damage.
+<br><strong>Blade Beam</strong> [S][R]1[Dull]: Choose 1 Forward opponent 
+<br>controls. Deal it 8000 damage, and deal 4000 damage 
+<br>to all the other Forwards opponent controls.",2.35,3.14,4.99,3.26,,Foil,4-145H,Forward,Fire,3,7000,SOLDIER,VII;DFF
+153434,Cloud EX,Cloud EX,https://tcgplayer-cdn.tcgplayer.com/product/153434_200w.jpg,24,1947,https://cpt.tcgcsv.com/Jnf2,2023-03-22T15:30:24.203,1,Hero,"<strong>EX BURST</strong> When Cloud enters the field, choose 1 
+<br>Forward opponent controls. If you control a <em>Category</em> 
+<br><em>VII</em> Forward other than Cloud, deal it 7000 damage.
+<br><strong>Blade Beam</strong> [S][R]1[Dull]: Choose 1 Forward opponent 
+<br>controls. Deal it 8000 damage, and deal 4000 damage 
+<br>to all the other Forwards opponent controls.",0.2,0.8,7.23,0.78,,Normal,4-145H,Forward,Fire,3,7000,SOLDIER,VII;DFF
+153671,Opus IV Prerelease Kit,Opus IV Prerelease Kit,https://tcgplayer-cdn.tcgplayer.com/product/153671_200w.jpg,24,1947,https://cpt.tcgcsv.com/rtf2,2017-12-01T17:21:23.84,1,None,"Each Opus IV Prerelease Kit contains:
+<br>• 9 Opus IV booster packs
+<br>• 1 <a href=""https://shop.tcgplayer.com/final-fantasy-tcg/ff-promo-cards/cloud-ex-prerelease-promo"">Cloud EX prerelease promo card</a>
+<br>• 1 10-sided die",169.99,182.98,199.99,,,Normal,,,,,,,

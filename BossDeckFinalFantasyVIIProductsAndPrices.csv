@@ -1,0 +1,66 @@
+productId,name,cleanName,imageUrl,categoryId,groupId,url,modifiedOn,imageCount,extRarity,extDescription,lowPrice,midPrice,highPrice,marketPrice,directLowPrice,subTypeName,extNumber,extCardType,extElement,extCost,extPower,extJob,extCategory
+477236,Multiplayer Challenge: Boss Deck - Final Fantasy VII,Multiplayer Challenge Boss Deck Final Fantasy VII,https://tcgplayer-cdn.tcgplayer.com/product/477236_200w.jpg,24,22894,https://cpt.tcgcsv.com/LVQ5,2023-01-27T05:03:10.447,1,None,"Multiplayer Challenge Boss Deck - Final Fantasy VII includes:
+<br>• 70 Boss Fight-specific cards*
+<br>• 30 reprinted cards**
+<br>• Reprinted Legendary cards and Starter cards, 3 cards each
+<br>• Kadaj [11-140S] Premium Full Art Card
+<br>• Rufus [8-109L] Standard Card",25.91,31.96,40.98,34.25,,Normal,,,,,,,
+480629,Kadaj EX (Full Art),Kadaj EX Full Art,https://tcgplayer-cdn.tcgplayer.com/product/480629_200w.jpg,24,22894,https://cpt.tcgcsv.com/CgS5,2023-01-30T21:35:19.6,1,Starter,"<strong>EX BURST</strong> When Kadaj enters the field, select 1 of the 3 following actions. ""Choose 1 Forward. Dull it."" ""Choose up to 2 cards from either player's Break Zone. Remove them from the game."" ""Choose 1 Forward. Until the end of your turn, it gains +2000 power and Brave."" 
+<br>At the end of each of your turns, you may remove Kadaj from the game. If you do so, at the end of your opponent's turn, play Kadaj onto the field.",1.7,3.88,5.0,4.07,,Foil,11-140S,Forward,Dark,4,9000,Remnant,VII
+483549,Sephiroth (B-028),Sephiroth B 028,https://tcgplayer-cdn.tcgplayer.com/product/483549_200w.jpg,24,22894,https://cpt.tcgcsv.com/_qT5,2024-05-04T18:13:59.677,1,None,"Brave
+<br>When Sephiroth attacks, dull all the Forwards opponent controls.
+At the end of each of your turns, remove all the cards in your opponent's Break Zone from the game.",,,,,,,B-028,Forward,Lightning,3,10000,SOLDIER,VII
+483550,President Shinra,President Shinra,https://tcgplayer-cdn.tcgplayer.com/product/483550_200w.jpg,24,22894,https://cpt.tcgcsv.com/0rT5,2024-05-04T18:05:16.387,1,None,"President Shinra cannot leave the field due to your opponent's Summons or abilities.
+You can play 2 or more Dark Characters onto the field.
+<br>If President Shinra is on the field, President Shinra can produce CP of any Element.
+<br>2T: Draw 1 card.",,,,,,,B-029,Backup,Lightning,4,,President of Shinra,VII
+483551,Hojo,Hojo,https://tcgplayer-cdn.tcgplayer.com/product/483551_200w.jpg,24,22894,https://cpt.tcgcsv.com/2rT5,2024-05-04T18:06:27.883,1,None,"Hojo cannot leave the field due to your opponent's Summons or abilities.
+<br>If Hojo is on the field, Hojo can produce CP of any Element.
+<br>t: Play 1 Card Name Sephiroth from your hand onto the field.",2.99,2.99,2.99,2.25,,Normal,B-030,Backup,Earth,4,,Shinra Executive,VII
+483552,Weiss,Weiss,https://tcgplayer-cdn.tcgplayer.com/product/483552_200w.jpg,24,22894,https://cpt.tcgcsv.com/3rT5,2024-05-04T18:16:25.767,1,None,"When Weiss enters the field, you may play 1 Character from your hand onto the field.
+<br>When Weiss attacks, all the Forwards you control gain +2000 power until the end of the turn.",0.7,0.7,1.0,0.81,,Normal,B-031,Forward,Ice,2,8000,Tsviets,VII
+483553,Shelke,Shelke,https://tcgplayer-cdn.tcgplayer.com/product/483553_200w.jpg,24,22894,https://cpt.tcgcsv.com/5rT5,2024-05-04T17:52:59.277,1,None,"When Shelke enters the field, you may play 1 Forward from your hand onto the field. If you do so, your opponent discards 1 card.",0.7,0.85,1.0,0.99,,Normal,B-032,Forward,Ice,3,7000,Tsviets,VII
+483554,Genesis Avatar,Genesis Avatar,https://tcgplayer-cdn.tcgplayer.com/product/483554_200w.jpg,24,22894,https://cpt.tcgcsv.com/6rT5,2024-05-04T17:54:20.23,1,None,"Genesis Avatar is also <em>Card Name Genesis</em> in all situations.
+<br>When Genesis Avatar enters the field, deal 9000 damage to all the Forwards opponent controls.",0.7,0.7,1.0,,,Normal,B-033,Forward,Ice,6,9000,Avatar,VII
+483555,Scarlet,Scarlet,https://tcgplayer-cdn.tcgplayer.com/product/483555_200w.jpg,24,22894,https://cpt.tcgcsv.com/7rT5,2024-05-04T13:01:24.15,1,None,"T: Select up to 3 of the 3 following actions.
+<br>""Choose up to 2 Characters. Dull them.""
+<br>""Choose 1 Character. Freeze it.""
+<br>""Your opponent discards 1 card.""",0.7,0.7,1.0,,,Normal,B-034,Forward,Ice,2,8000,Shinra Executive,VII
+483556,Angeal Penance,Angeal Penance,https://tcgplayer-cdn.tcgplayer.com/product/483556_200w.jpg,24,22894,https://cpt.tcgcsv.com/8rT5,2024-05-04T18:16:54.503,1,None,"Angeal Penance is also <em>Card Name Angeal</em> in all situations.
+<br><strong>Haste</strong>
+<br>When Angeal Penance deals damage to your opponent, break all the Forwards opponent controls.",0.7,0.7,1.0,,,Normal,B-035,Forward,Lightning,3,8000,Test Subject,VII
+483557,Shinra Soldier,Shinra Soldier,https://tcgplayer-cdn.tcgplayer.com/product/483557_200w.jpg,24,22894,https://cpt.tcgcsv.com/9rT5,2024-05-04T17:53:20.543,1,None,"When Shinra Soldier enters the field, you may search for up to 2 <em>Card Name Shinra Soldier</em> and add them to your hand. Then, you may play any number of <em>Card Name Shinra Soldier</em> from your hand onto the field.",0.7,0.7,1.0,0.7,,Normal,B-036,Forward,Lightning,3,8000,Standard Unit,VII
+483558,Tseng,Tseng,https://tcgplayer-cdn.tcgplayer.com/product/483558_200w.jpg,24,22894,https://cpt.tcgcsv.com/brT5,2024-05-04T18:17:36.237,1,None,"The Forwards other than Tseng you control gain +2000 power.
+<br>When Tseng enters the field, you may search for 1 Job Member of the Turks and play it onto the field.",0.99,1.0,1.0,1.0,,Normal,B-037,Forward,Lightning,4,8000,Member of the Turks,VII
+483559,Sephiroth (B-038),Sephiroth B 038,https://tcgplayer-cdn.tcgplayer.com/product/483559_200w.jpg,24,22894,https://cpt.tcgcsv.com/crT5,2024-05-04T18:05:59.453,1,None,"<strong>First Strike</strong>
+<br>When Sephiroth enters the field, choose 1 Forward and 1 Backup. Break them.",0.49,0.49,0.49,1.87,,Normal,B-038,Forward,Light,8,10000,War Hero,VII;DFF
+483560,Sephiroth EX (B-039),Sephiroth EX B 039,https://tcgplayer-cdn.tcgplayer.com/product/483560_200w.jpg,24,22894,https://cpt.tcgcsv.com/drT5,2024-05-04T18:04:45.147,1,None,"EX BURST When Sephiroth enters the field, choose 1 Character. Break it.
+<br>Octaslash S: Choose up to 1 Forward, up to 1 Backup, and up to 1 Monster. Remove them from the game.",1.0,1.0,1.0,1.0,,Normal,B-039,Forward,Light,4,10000,One-Winged Angel,VII
+483561,Heidegger,Heidegger,https://tcgplayer-cdn.tcgplayer.com/product/483561_200w.jpg,24,22894,https://cpt.tcgcsv.com/frT5,2024-05-04T13:01:07.337,1,None,"When Heidegger enters the field, choose up to 2 Forwards. Break them.
+<br>LT, put Heidegger into the Break Zone: Reveal the top 5 cards of your deck. Add 1 Forward among them to your hand and return the other cards to the bottom of your deck in any order.",0.7,0.7,1.0,,,Normal,B-040,Backup,Lightning,2,,Shinra Executive,VII
+483562,Reeve EX,Reeve EX,https://tcgplayer-cdn.tcgplayer.com/product/483562_200w.jpg,24,22894,https://cpt.tcgcsv.com/grT5,2024-05-04T18:13:11.937,1,None,"EX BURST When Reeve enters the field, choose 1 Forward of cost 3 or less in your Break Zone. Play it onto the field.",0.7,0.85,1.0,,,Normal,B-041,Backup,Lightning,3,,Shinra Executive,VII
+483563,Bahamut,Bahamut,https://tcgplayer-cdn.tcgplayer.com/product/483563_200w.jpg,24,22894,https://cpt.tcgcsv.com/hrT5,2024-05-04T17:53:41.333,1,None,Deal 10000 damage to all the Forwards opponent controls.,,,,,,,B-042,Summon,Fire,4,,,VII
+483564,Shiva EX,Shiva EX,https://tcgplayer-cdn.tcgplayer.com/product/483564_200w.jpg,24,22894,https://cpt.tcgcsv.com/jrT5,2024-05-04T17:51:52.407,1,None,EX BURST Choose up to 3 dull Forwards. Break them. Your opponent discards 1 card.,,,,,,,B-043,Summon,Ice,4,,,VII
+483565,Alexander,Alexander,https://tcgplayer-cdn.tcgplayer.com/product/483565_200w.jpg,24,22894,https://cpt.tcgcsv.com/krT5,2023-02-13T21:27:47.44,1,None,Choose 1 Character of cost 4 or more. Break it.,0.65,0.83,1.0,0.7,,Normal,B-044,Summon,Wind,2,,,VIII
+483566,Carbuncle EX,Carbuncle EX,https://tcgplayer-cdn.tcgplayer.com/product/483566_200w.jpg,24,22894,https://cpt.tcgcsv.com/lrT5,2024-05-04T18:09:34.433,1,None,EX BURST All the Forwards you control gain +5000 power until the end of the turn. Draw 1 card.,0.7,0.85,1.0,0.85,,Normal,B-045,Summon,Earth,1,,,VII
+483567,Ramuh,Ramuh,https://tcgplayer-cdn.tcgplayer.com/product/483567_200w.jpg,24,22894,https://cpt.tcgcsv.com/mrT5,2024-05-04T17:50:54.763,1,None,"Select up to 2 of the 4 following actions.
+<br>""Choose 1 Monster. Break it.""
+<br>""Choose 1 Forward of cost 4 or less. Break it.""
+<br>""Choose 1 active Forward. Deal it 8000 damage.""
+<br>""Choose 1 Forward. It gains Haste until the end of the turn.""",0.7,0.85,1.0,0.85,,Normal,B-046,Summon,Lightning,3,,,VII
+483568,Leviathan,Leviathan,https://tcgplayer-cdn.tcgplayer.com/product/483568_200w.jpg,24,22894,https://cpt.tcgcsv.com/nrT5,2024-05-04T12:59:49.247,1,None,"Select 1 of the 3 following actions.
+<br>""Choose up to 3 Forwards. Return them to their owners' hands.""
+<br>""Choose 1 action ability. Cancel its effect.""
+<br>""During this turn, if a Forward you control is dealt damage by a Summon or an ability, the damage becomes 0 instead.""",0.7,1.48,2.25,1.41,,Normal,B-047,Summon,Earth,3,,,VII
+483570,Rufus EX,Rufus EX,https://tcgplayer-cdn.tcgplayer.com/product/483570_200w.jpg,24,22894,https://cpt.tcgcsv.com/qrT5,2024-05-04T18:04:16.403,1,None,"EX BURST When Rufus enters the field, you may search for 1 Job Member of the Turks and play it onto the field.
+<br>When Rufus or a Job Member of the Turks you control is put from the field into the Break Zone, choose 1 Forward opponent controls. Deal it 10000 damage.",1.0,1.0,1.0,1.0,,Normal,B-048,Forward,Lightning,4,5000,President of Shinra,VII
+483573,Rude,Rude,https://tcgplayer-cdn.tcgplayer.com/product/483573_200w.jpg,24,22894,https://cpt.tcgcsv.com/trT5,2024-05-04T17:52:15.767,1,None,"If you control a <em>Job Member of the Turks</em> other than Rude, Rude gains First Strike.",0.68,0.7,1.0,1.0,,Normal,B-049,Forward,Lightning,1,10000,Member of the Turks,VII
+483576,Reno,Reno,https://tcgplayer-cdn.tcgplayer.com/product/483576_200w.jpg,24,22894,https://cpt.tcgcsv.com/xrT5,2024-05-04T18:01:47.3,1,None,"If you control a <em>Job Member of the Turks</em> other than Reno, Reno gains Haste.",0.68,0.69,0.7,1.0,,Normal,B-050,Forward,Lightning,1,10000,Member of the Turks,VII
+483577,Elena,Elena,https://tcgplayer-cdn.tcgplayer.com/product/483577_200w.jpg,24,22894,https://cpt.tcgcsv.com/zrT5,2024-05-04T18:07:19.03,1,None,"Haste
+<br>Elena cannot be blocked.
+<br>If you control a <em>Job Member of the Turks</em> other than Elena, Elena cannot be chosen by your opponent's Summons.",0.7,0.85,1.0,,,Normal,B-051,Forward,Lightning,2,7000,Member of the Turks,VII;Pictlogica
+483578,Cissnei,Cissnei,https://tcgplayer-cdn.tcgplayer.com/product/483578_200w.jpg,24,22894,https://cpt.tcgcsv.com/BrT5,2023-02-13T21:44:39.847,1,None,"When Cissnei enters the field, you may discard 1 card. When you do so, choose 1 Forward. Deal it 9000 damage.
+<br><em>Damage 3</em> -- Cissnei gains Haste and Brave.",0.75,0.88,1.0,0.88,,Normal,B-052,Forward,Lightning,2,7000,Member of the Turks,VII
+483579,Shalua,Shalua,https://tcgplayer-cdn.tcgplayer.com/product/483579_200w.jpg,24,22894,https://cpt.tcgcsv.com/CrT5,2023-02-13T21:45:23.383,1,None,"The Card Name Shelke you control gains +5000 power.
+<br>T, put Shalua into the Break Zone: Choose 1 Forward. During this turn, the next damage dealt to it becomes 0 instead.",0.7,0.85,1.0,0.85,,Normal,B-053,Backup,Ice,2,,Scientist,VII
+483580,Restrictor EX,Restrictor EX,https://tcgplayer-cdn.tcgplayer.com/product/483580_200w.jpg,24,22894,https://cpt.tcgcsv.com/DrT5,2023-02-13T21:46:06.643,1,None,"EX BURST When Restrictor enters the field, you may search for 1 <em>Job Tsviets</em> and play it onto the field.",1.0,1.0,1.0,,,Normal,B-054,Backup,Lightning,3,,SOLDIER,VII

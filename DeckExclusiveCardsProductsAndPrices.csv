@@ -1,0 +1,219 @@
+productId,name,cleanName,imageUrl,categoryId,groupId,url,modifiedOn,imageCount,extRarity,extNumber,extDescription,extCardType,extElement,extCost,extPower,extJob,extCategory,lowPrice,midPrice,highPrice,marketPrice,directLowPrice,subTypeName
+137390,Quina - 3-133C,Quina 3 133C,https://tcgplayer-cdn.tcgplayer.com/product/137390_200w.jpg,24,2362,https://cpt.tcgcsv.com/QZ62,2018-11-09T15:34:15.697,1,Common,3-133C,"For each card in your hand, Quina gains +1000 power.
+<br><strong>Eat</strong>[S]: Choose 1 Forward opponent controls which has been dealt damage this this turn. If that Forward has a special ability or an action ability, break it.",Forward,Water,4,5000,Blue Mage,IX,0.25,0.25,0.5,0.25,,Normal
+137393,Arecia Al-Rashia - 3-097R,Arecia Al Rashia 3 097R,https://tcgplayer-cdn.tcgplayer.com/product/137393_200w.jpg,24,2362,https://cpt.tcgcsv.com/TZ62,2018-11-09T13:54:02.177,1,Rare,3-097R,"When Arecia Al-Rashia enters the field, you may <strong>search</strong> for 1 <em>Category TYPE-0</em> Forward and add it to your hand.",Backup,Lightning,3,,Archsorceress,Type-0,0.15,0.31,1.0,0.2,,Normal
+137396,Nine - 3-113R,Nine 3 113R,https://tcgplayer-cdn.tcgplayer.com/product/137396_200w.jpg,24,2362,https://cpt.tcgcsv.com/XZ62,2018-11-09T18:59:33.11,1,Rare,3-113R,"When Nine attacks, choose 1 Forward you control.
+<br>Until the end of the turn, it gains +1000 power for each <em>Job Class Zero Cadet</em> Forward you control.
+<br><strong>Primal Roar</strong> [S][P][P][P][P]: All Forwards cannot block this turn.",Forward,Lightning,4,8000,Class Zero Cadet,Type-0,0.15,0.25,0.55,,,Normal
+137401,Rem EX - 3-072R,Rem EX 3 072R,https://tcgplayer-cdn.tcgplayer.com/product/137401_200w.jpg,24,2362,https://cpt.tcgcsv.com/2-62,2018-11-09T15:34:23.127,1,Rare,3-072R,"<strong>EX BURST</strong> When Rem enters the field, choose 1 <em>Category TYPE-0</em> card from your Break Zone. Add it to your hand.",Backup,Wind,4,,Class Zero Cadet,Type-0,0.26,0.48,0.55,0.35,,Normal
+137404,Amarant - 3-013R,Amarant 3 013R,https://tcgplayer-cdn.tcgplayer.com/product/137404_200w.jpg,24,2362,https://cpt.tcgcsv.com/6-62,2018-11-09T13:52:22.963,1,Rare,3-013R,"[Dull], put 1 Forward into the Break Zone: Choose 1 Forward. Deal it damage equal to the power of the Forward put in the Break Zone.",Forward,Fire,5,9000,Fighter,IX,0.1,0.25,0.55,0.31,,Normal
+141794,Steiner EX - 3-137R,Steiner EX 3 137R,https://tcgplayer-cdn.tcgplayer.com/product/141794_200w.jpg,24,2362,https://cpt.tcgcsv.com/VK82,2018-11-09T15:34:27.653,1,Rare,3-137R,"<strong>EX BURST</strong> When Steiner enters the field, you may <strong>search</strong> for 1 <em>Category IX</em> Character and add it to your hand.
+<br>If you control a <em>Category IX</em> Character other than Steiner, Steiner gains +1000 power.",,,,,,,0.16,0.19,0.55,0.19,,Normal
+179691,Amon - 2-098L,Amon 2 098L,https://tcgplayer-cdn.tcgplayer.com/product/179691_200w.jpg,24,2362,https://cpt.tcgcsv.com/RTr2,2018-11-06T19:51:48.823,1,Legend,2-098L,"When Amon enters the field, choose 1 Forward opponent controls. <strong>Dull</strong><br> [Dull]: Choose 1 Forward. <strong>Dull</strong> it.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Forward,Lightning,4,8000,Technologist,XIV,0.37,0.38,2.0,0.37,,Normal
+179692,Archer (Male Unit) - 1-088C,Archer Male Unit 1 088C,https://tcgplayer-cdn.tcgplayer.com/product/179692_200w.jpg,24,2362,https://cpt.tcgcsv.com/STr2,2019-09-19T17:44:36.257,1,Common,1-088C,"[G][G][Dull], put Archer into the Break Zone: Choose 1 Backup of cost 3 or less. Break it.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Wind,2,,Standard Unit,FFT,0.11,0.2,0.67,0.13,,Normal
+179693,"Belias, the Gigas EX - 2-019R",Belias the Gigas EX 2 019R,https://tcgplayer-cdn.tcgplayer.com/product/179693_200w.jpg,24,2362,https://cpt.tcgcsv.com/TTr2,2018-11-06T19:57:07.68,1,Rare,2-019R,"<strong>EX BURST</strong>: Choose 1 Forward. Until the end of the turn, it gains +1000 power, <strong>Haste</strong> and <strong>First Strike</strong>. Draw 1 card.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Summon,Fire,2,,,XII,0.1,0.2,3.0,0.14,,Normal
+179694,Black Mage (Arc) - 1-010C,Black Mage Arc 1 010C,https://tcgplayer-cdn.tcgplayer.com/product/179694_200w.jpg,24,2362,https://cpt.tcgcsv.com/VTr2,2018-11-06T20:03:07.17,1,Common,1-010C,"[R][Dull], put Black Mage into the Break Zone: Choose 1 Forward. Deal it 4000 damage.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Fire,2,,Standard Unit,III,0.02,0.1,0.3,0.13,,Normal
+179695,Brynhildr EX - 1-023R,Brynhildr EX 1 023R,https://tcgplayer-cdn.tcgplayer.com/product/179695_200w.jpg,24,2362,https://cpt.tcgcsv.com/WTr2,2018-11-06T20:03:39.197,1,Rare,1-023R,<b>EX BURST</b> Choose 1 Forward. Deal it 7000 damage.,Summon,Fire,3,,,XIII,0.1,0.15,0.99,,,Normal
+179696,Chocobo - 1-075C,Chocobo 1 075C,https://tcgplayer-cdn.tcgplayer.com/product/179696_200w.jpg,24,2362,https://cpt.tcgcsv.com/XTr2,2018-11-06T20:04:33.493,1,Common,1-075C,"<strong>Haste</strong><br>When Chocobo forms a party and attacks, Chocobo and all Forwards forming a party with it gain +3000 power until end of turn.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Forward,Wind,3,4000,Standard Unit,VII,1.89,1.89,1.89,1.89,,Normal
+179697,Devout (Ingus) - 1-048C,Devout Ingus 1 048C,https://tcgplayer-cdn.tcgplayer.com/product/179697_200w.jpg,24,2362,https://cpt.tcgcsv.com/ZTr2,2018-11-06T20:06:16.683,1,Common,1-048C,"[Dull], put Devout into the Break Zone: Choose 1 Forward of cost 4 or less from your Break Zone. Play it onto the field. You can only use this ability during your turn.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Ice,4,,Standard Unit,III,0.24,0.25,0.3,,,Normal
+179698,Doctor Cid - 2-041H,Doctor Cid 2 041H,https://tcgplayer-cdn.tcgplayer.com/product/179698_200w.jpg,24,2362,https://cpt.tcgcsv.com/-Tr2,2018-11-06T20:55:10.353,1,Hero,2-041H,"When a Backup you control is broken by your opponent's Summon or ability, your opponent puts 1 Character from his field into the Break Zone.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Ice,2,,Research Chief,XII,0.25,0.41,0.5,0.31,,Normal
+179699,Duke Goltanna - 1-134R,Duke Goltanna 1 134R,https://tcgplayer-cdn.tcgplayer.com/product/179699_200w.jpg,24,2362,https://cpt.tcgcsv.com/_Tr2,2018-11-06T20:46:54.873,1,Rare,1-134R,"When Duke Goltanna enters the field, you may <b>search</b> for 1 <em>Job Knight</em> and add it to your hand.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Lightning,3,,Duke,FFT,0.46,0.46,0.46,1.15,,Normal
+179700,Genesis - 3-033L,Genesis 3 033L,https://tcgplayer-cdn.tcgplayer.com/product/179700_200w.jpg,24,2362,https://cpt.tcgcsv.com/0Vr2,2018-11-06T20:49:25.24,1,Legend,3-033L,"When Genesis enters your field, choose 1 Forward opponent controls. <strong>Dull</strong> it and <strong>Freeze</strong> it.
+<br>When Genesis deals damage to your opponent, your opponent discards 1 card from his/her hand.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Forward,Ice,4,7000,Soldier,VII,0.72,0.77,5.99,0.74,,Normal
+179701,Izana - 3-049C,Izana 3 049C,https://tcgplayer-cdn.tcgplayer.com/product/179701_200w.jpg,24,2362,https://cpt.tcgcsv.com/2Vr2,2018-11-06T20:49:20.817,1,Common,3-049C,"When Izana enters the field, you may <strong>search</strong> for 1 <em>Job Chocobo</em> or <em>Card Name Chocobo</em> and add it to your hand.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Forward,Wind,2,5000,Dominion Legionary,Type-0,0.1,0.13,0.99,0.1,,Normal
+179702,Odin EX - 1-124R,Odin EX 1 124R,https://tcgplayer-cdn.tcgplayer.com/product/179702_200w.jpg,24,2362,https://cpt.tcgcsv.com/3Vr2,2018-11-06T20:50:58.77,1,Rare,1-124R,"<b>EX BURST</b> Choose 1 Forward. Break it.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Summon,Lightning,7,,,FFT,0.21,0.42,0.99,0.45,,Normal
+179703,Qator Bashtar EX - 3-027R,Qator Bashtar EX 3 027R,https://tcgplayer-cdn.tcgplayer.com/product/179703_200w.jpg,24,2362,https://cpt.tcgcsv.com/5Vr2,2018-11-06T20:51:37.993,1,Rare,3-027R,"<strong>EX BURST</strong> When Qator Bashtar attacks, choose 1 Forward of cost 3 or less opponent controls. <strong>Freeze</strong> it.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Forward,Ice,4,8000,Brigadier General,Type-0,0.19,0.22,0.75,,,Normal
+179704,Red Mage (Arc) - 1-003C,Red Mage Arc 1 003C,https://tcgplayer-cdn.tcgplayer.com/product/179704_200w.jpg,24,2362,https://cpt.tcgcsv.com/6Vr2,2018-11-06T20:54:02.483,1,Common,1-003C,"[R][1][Dull]: Choose 1 Forward. It cannot block this turn.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Fire,2,,Standard Unit,III,0.1,0.2,0.99,0.01,,Normal
+179705,Red Mage (Refia) - 1-121C,Red Mage Refia 1 121C,https://tcgplayer-cdn.tcgplayer.com/product/179705_200w.jpg,24,2362,https://cpt.tcgcsv.com/7Vr2,2019-09-13T20:18:32.907,1,Common,1-121C,"[P][Dull]: Choose 1 Forward. It gains <b>Haste</b> until the end of the turn.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Lightning,2,,Standard Unit,III,0.13,0.16,0.72,0.07,,Normal
+179706,Selphie - 2-009R,Selphie 2 009R,https://tcgplayer-cdn.tcgplayer.com/product/179706_200w.jpg,24,2362,https://cpt.tcgcsv.com/8Vr2,2019-09-13T20:21:34.373,1,Rare,2-009R,"[R][R][Dull]: Choose 1 attacking Forward. It gains +2000 power until the end of the turn.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Fire,2,,SeeD Candidate,VIII,0.09,0.13,0.5,0.12,,Normal
+179707,Seymour - 1-137R,Seymour 1 137R,https://tcgplayer-cdn.tcgplayer.com/product/179707_200w.jpg,24,2362,https://cpt.tcgcsv.com/9Vr2,2018-11-06T20:57:01.957,1,Rare,1-137R,"When Seymour enters the field, choose 1 Forward of cost 3 or less. Break it.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Backup,Lightning,4,,Summoner,X,0.84,0.85,1.5,,,Normal
+179708,Shiva - 3-032R,Shiva 3 032R,https://tcgplayer-cdn.tcgplayer.com/product/179708_200w.jpg,24,2362,https://cpt.tcgcsv.com/bVr2,2018-11-06T21:00:52.99,1,Rare,3-032R,"Choose up to 2 Forwards opponent controls. <strong>Dull</strong> them.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Summon,Ice,2,,,DFF,0.76,1.37,1.98,,,Normal
+179709,Vivi - 3-017L,Vivi 3 017L,https://tcgplayer-cdn.tcgplayer.com/product/179709_200w.jpg,24,2362,https://cpt.tcgcsv.com/cVr2,2018-11-06T21:04:02.857,1,Legend,3-017L,"When Vivi enters the field, choose 1 Forward opponent controls. Deal it 4000 damage and 1000 more damage for each card in your opponent's hand.
+<br><strong>Firaga</strong>[S][R][R][R][Dull]: Deal 7000 damage to all Forwards.
+<br>
+<br><em>This reprint deck exclusive features the new card design introduced with Opus IV.</em>",Forward,Fire,3,4000,Black Mage,IX,0.98,1.0,1.99,1.24,,Normal
+198844,Lightning - 4-115L (Full Art),Lightning 4 115L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/198844_200w.jpg,24,2362,https://cpt.tcgcsv.com/VxC2,2019-09-13T20:16:01.393,1,Legend,4-115L,"<strong>Haste</strong>
+<br>When Lightning enters the field or attacks, choose 1 
+<br>Forward opponent controls. If you control a Category 
+<br><em>XIII</em> Character other than Lightning, <strong>dull</strong> it.
+<br>Discard 1 <em>Card Name Lightning</em>: Remove Lightning 
+<br>from the game. Then, play Lightning onto the field <strong>dull</strong>.",Forward,Lightning,5,7000,Knight of Etro,XIII,1.95,2.1,2.25,1.97,,Normal
+198845,Onion Knight - 4-054L (Full Art),Onion Knight 4 054L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/198845_200w.jpg,24,2362,https://cpt.tcgcsv.com/WxC2,2023-03-22T14:24:31.887,1,Legend,4-054L,"When Onion Knight enters the field or attacks, choose 1 Forward. Deal it 3000 
+<br>damage.
+<br>When Onion Knight enters the field, choose 1 <em>Card Name Onion Knight</em> of any <br>Element except Wind in your Break Zone. Add it to your hand.
+<br><strong>Job change: Ninja</strong>[S]: Place Onion Knight at the bottom of your deck. If you do so, <strong>search</strong> for 1 <em>Card Name Onion Knight</em> with <em>Job Sage</em> and play it onto the field.",Forward,Wind,4,7000,Ninja,III;DFF,0.4,0.77,5.75,0.83,,Normal
+198846,Phoenix - 5-019L (Full Art),Phoenix 5 019L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/198846_200w.jpg,24,2362,https://cpt.tcgcsv.com/XxC2,2019-09-13T20:16:27.137,1,Legend,5-019L,Choose 1 Forward of cost 3 or less in your Break Zone and up to 1 Forward opponent controls. Play the former onto the field dull and deal the latter 8000 damage.,Summon,Fire,7,,,Mobius,1.69,2.94,7.75,1.74,,Normal
+198847,Diabolos - 5-062L (Full Art),Diabolos 5 062L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/198847_200w.jpg,24,2362,https://cpt.tcgcsv.com/ZxC2,2019-09-13T20:16:45.387,1,Legend,5-062L,"Select up to 2 of the 4 following actions.
+<br>""Choose 1 Forward of cost 5 or more. Break it.""
+<br>""Choose 1 Forward of cost 4 or less. Until the end of the turn, its power becomes 1000.""
+<br>""Activate all the Forwards you control.""
+<br>""Activate all the Backups you control.""",Summon,Wind,5,,,Mobius,0.25,0.55,7.05,0.68,,Normal
+198848,Cecil EX - 5-086L (Full Art),Cecil EX 5 086L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/198848_200w.jpg,24,2362,https://cpt.tcgcsv.com/-xC2,2019-09-13T20:16:52.707,1,Legend,5-086L,"<strong>EX Burst</strong> When Cecil enters the field, choose 1 dull Forward opponent controls. If its cost is equal to or less than the damage you have received, break it.
+<br><strong>Dark</strong> [S]: Choose 1 Forward. Cecil deals you 1 point of damage. If the cost of the Forward is equal to or less than the damage you have received, break it.",Forward,Earth,5,9000,Dark Knight,IV,0.69,0.88,3.5,0.72,,Normal
+199096,Nora EX - 1-079R,Nora EX 1 079R,https://tcgplayer-cdn.tcgplayer.com/product/199096_200w.jpg,24,2362,https://cpt.tcgcsv.com/XFC2,2019-09-13T20:17:55.153,1,Rare,1-079R,"<b>EX BURST</b> When Nora enters the field, you may search for 1 [Card Name (Hope)] and add it to your hand.",Backup,Wind,3,,Mother,XIII,,,,,,
+199098,Onion Knight (Sage) - 1-125R,Onion Knight Sage 1 125R,https://tcgplayer-cdn.tcgplayer.com/product/199098_200w.jpg,24,2362,https://cpt.tcgcsv.com/-FC2,2023-03-22T14:24:10.51,1,Rare,1-125R,"When Onion Knight enters the field, choose 1 damaged Forward. Deal it 5000 damage.",Forward,Lightning,3,6000,Sage,III;DFF,0.33,0.34,0.35,,,Normal
+199099,Ifrit EX - 2-002C,Ifrit EX 2 002C,https://tcgplayer-cdn.tcgplayer.com/product/199099_200w.jpg,24,2362,https://cpt.tcgcsv.com/_FC2,2019-09-13T20:20:37.567,1,Common,2-002C,<strong>EX BURST</strong> Choose 1 Forward. Deal it 6000 damage.,Summon,Fire,2,,,VIII,0.72,0.76,1.0,,,Normal
+199100,Rydia - 3-096R,Rydia 3 096R,https://tcgplayer-cdn.tcgplayer.com/product/199100_200w.jpg,24,2362,https://cpt.tcgcsv.com/0GC2,2019-09-13T20:22:09.19,1,Rare,3-096R,"When Rydia enters the field, you may <strong>search</strong> for 1 Summon and add it to your hand.",Backup,Earth,3,,Summoner,IV;Lord of Vermilion,0.1,0.15,5.0,0.12,,Normal
+199429,Evoker (Arc) - 1-011C,Evoker Arc 1 011C,https://tcgplayer-cdn.tcgplayer.com/product/199429_200w.jpg,24,2362,https://cpt.tcgcsv.com/CNC2,2019-09-19T17:27:35.213,1,Common,1-011C,<em>This card was reprinted with a new formatted style.</em>,Backup,Fire,1,,Standard Unit,III,0.02,0.1,194333.93,0.1,,Normal
+199430,Bard (Arc) - 1-035C,Bard Arc 1 035C,https://tcgplayer-cdn.tcgplayer.com/product/199430_200w.jpg,24,2362,https://cpt.tcgcsv.com/DNC2,2019-09-19T17:36:11.29,1,Common,1-035C,"[I][I][Dull]: Choose 1 Forward. <b>Dull</b> it.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Forward,Ice,2,4000,Standard Unit,III,0.47,0.77,5.28,,,Normal
+199431,Shiva EX (Rare) - 1-038R,Shiva EX Rare 1 038R,https://tcgplayer-cdn.tcgplayer.com/product/199431_200w.jpg,24,2362,https://cpt.tcgcsv.com/FNC2,2019-09-19T17:36:17.34,1,Rare,1-038R,"<b>EX Burst</b> Choose 1 Forward. <b>Dull</b> it and <b>Freeze</b> it.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Summon,Ice,3,,,XIII,0.1,0.24,0.35,0.26,,Normal
+199432,Summoner (Female Unit) - 1-040C,Summoner Female Unit 1 040C,https://tcgplayer-cdn.tcgplayer.com/product/199432_200w.jpg,24,2362,https://cpt.tcgcsv.com/GNC2,2019-09-19T17:36:21.43,1,Common,1-040C,<em>This card was reprinted with a new formatted style.</em>,Backup,Ice,1,,Standard Unit,FFT,0.15,0.16,194333.93,,,Normal
+199435,Knight (Male Unit) - 1-050C,Knight Male Unit 1 050C,https://tcgplayer-cdn.tcgplayer.com/product/199435_200w.jpg,24,2362,https://cpt.tcgcsv.com/KNC2,2019-09-19T17:35:43.62,1,Common,1-050C,<em>This card was reprinted with a new formatted style.</em>,Forward,Ice,3,7000,Standard Unit,FFT,0.19,0.19,5.23,,,Normal
+199436,Aerith (Common) - 1-065C,Aerith Common 1 065C,https://tcgplayer-cdn.tcgplayer.com/product/199436_200w.jpg,24,2362,https://cpt.tcgcsv.com/LNC2,2019-09-19T17:38:11.983,1,Common,1-065C,"When Aerith enters the field, choose 1 Backup you control other than Aerith. <b>Activate</b> it.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Backup,Wind,2,,Ancient,VII,1.74,1.94,1.98,1.98,,Normal
+199437,Evoker (Luneth) - 1-068C,Evoker Luneth 1 068C,https://tcgplayer-cdn.tcgplayer.com/product/199437_200w.jpg,24,2362,https://cpt.tcgcsv.com/MNC2,2019-09-19T17:40:41.19,1,Common,1-068C,<em>This card was reprinted with a new formatted style.</em>,Backup,Wind,1,,Standard Unit,III,0.25,0.41,0.5,,,Normal
+199438,Vincent - 1-094R,Vincent 1 094R,https://tcgplayer-cdn.tcgplayer.com/product/199438_200w.jpg,24,2362,https://cpt.tcgcsv.com/NNC2,2019-09-19T17:41:31.697,1,Rare,1-094R,"When Vincent attacks, Vincent gains <b>First Strike</b> until end of turn. 
+<br><b>Berserk Dance</b> [S][Dull]: Choose 1 Forward. Deal it 6000 damage.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Forward,Earth,5,9000,Gunslinger,VII,0.5,0.5,0.5,,,Normal
+199439,Black Belt (Ingus) - 1-099C,Black Belt Ingus 1 099C,https://tcgplayer-cdn.tcgplayer.com/product/199439_200w.jpg,24,2362,https://cpt.tcgcsv.com/PNC2,2019-09-19T17:42:34.84,1,Common,1-099C,<em>This card was reprinted with a new formatted style.</em>,Forward,Earth,4,8000,Standard Unit,III,0.15,0.17,0.57,0.5,,Normal
+199440,Evoker (Ingus) - 1-105C,Evoker Ingus 1 105C,https://tcgplayer-cdn.tcgplayer.com/product/199440_200w.jpg,24,2362,https://cpt.tcgcsv.com/QNC2,2019-09-19T17:43:22.713,1,Common,1-105C,<em>This card was reprinted with a new formatted style.</em>,Backup,Earth,1,,Standard Unit,III,0.03,0.13,202547.22,,,Normal
+199441,Summoner (Male Unit) - 1-138C,Summoner Male Unit 1 138C,https://tcgplayer-cdn.tcgplayer.com/product/199441_200w.jpg,24,2362,https://cpt.tcgcsv.com/RNC2,2019-09-19T17:47:26.65,1,Common,1-138C,<em>This card was reprinted with a new formatted style.</em>,Backup,Lightning,1,,Standard Unit,FFT,0.07,0.15,0.99,0.12,,Normal
+199442,Evoker (Refia) - 1-159C,Evoker Refia 1 159C,https://tcgplayer-cdn.tcgplayer.com/product/199442_200w.jpg,24,2362,https://cpt.tcgcsv.com/SNC2,2019-09-19T17:48:02.07,1,Common,1-159C,<em>This card was reprinted with a new formatted style.</em>,Backup,Water,1,,Standard Unit,III,0.07,0.15,0.65,0.07,,Normal
+199443,Viking (Refia) - 1-167C,Viking Refia 1 167C,https://tcgplayer-cdn.tcgplayer.com/product/199443_200w.jpg,24,2362,https://cpt.tcgcsv.com/TNC2,2019-09-19T17:48:57.3,1,Common,1-167C,"When Viking enters the field, draw 1 card.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Forward,Water,2,1000,Viking,III,0.12,0.17,4.29,0.14,,Normal
+199444,Geomancer (Female Unit) - 1-168C,Geomancer Female Unit 1 168C,https://tcgplayer-cdn.tcgplayer.com/product/199444_200w.jpg,24,2362,https://cpt.tcgcsv.com/VNC2,2019-09-19T17:49:36.683,1,Common,1-168C,"When Geomancer is put from the field into the Break Zone, draw 1 card.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Forward,Water,3,6000,Standard Unit,FFT,0.19,0.2,5.0,,,Normal
+199445,Sazh - 2-006R,Sazh 2 006R,https://tcgplayer-cdn.tcgplayer.com/product/199445_200w.jpg,24,2362,https://cpt.tcgcsv.com/WNC2,2019-09-19T17:51:31.823,1,Rare,2-006R,"When Sazh attacks, choose 1 Forward opponent controls. Deal it 1000 damage for each point of damage you have received.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Forward,Fire,2,3000,Ravager,XIII,0.14,0.15,0.99,,,Normal
+199446,Montblanc - 2-021C,Montblanc 2 021C,https://tcgplayer-cdn.tcgplayer.com/product/199446_200w.jpg,24,2362,https://cpt.tcgcsv.com/XNC2,2019-09-19T17:53:01.92,1,Common,2-021C,"[R][R][Dull]: Choose 1 Forward. Deal it 1000 damage for each [Job (Moogle)] you control.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Backup,Fire,2,,Moogle,XII,0.14,0.16,8.58,0.15,,Normal
+199447,Hurdy - 2-043C,Hurdy 2 043C,https://tcgplayer-cdn.tcgplayer.com/product/199447_200w.jpg,24,2362,https://cpt.tcgcsv.com/ZNC2,2019-09-19T17:54:26.89,1,Common,2-043C,"[I][I][Dull]: <b>Dull</b> all the Forwards with a cost equal to the number of [Job (Moogle)] you control.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Backup,Ice,2,,Moogle,XII,0.09,0.15,0.99,0.14,,Normal
+199448,White Mage - 2-058C,White Mage 2 058C,https://tcgplayer-cdn.tcgplayer.com/product/199448_200w.jpg,24,2362,https://cpt.tcgcsv.com/-NC2,2019-09-19T17:55:26.18,1,Common,2-058C,"When White Mage enters the field, choose up to 2 Wind Characters. <b>Activate</b> them.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Backup,Wind,3,,Standard Unit,XIV,0.17,0.25,7.01,,,Normal
+199449,"Shemhazai, the Whisperer - 2-070R",Shemhazai the Whisperer 2 070R,https://tcgplayer-cdn.tcgplayer.com/product/199449_200w.jpg,24,2362,https://cpt.tcgcsv.com/_NC2,2019-09-19T17:56:36.857,1,Rare,2-070R,"Each Forward can only be blocked by a Forward with a cost inferior or equal to its own this turn.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Summon,Wind,1,,,XII,0.24,0.42,8.58,,,Normal
+199450,Reddas - 2-072C,Reddas 2 072C,https://tcgplayer-cdn.tcgplayer.com/product/199450_200w.jpg,24,2362,https://cpt.tcgcsv.com/0PC2,2019-09-19T17:57:20.19,1,Common,2-072C,"Reddas must attack once per turn if possible. <br>When Reddas attacks, the Forwards other than Reddas you control gain +1000 power until the end of the turn.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Forward,Wind,5,9000,Sky Pirate,XII,0.13,0.24,5.23,0.17,,Normal
+199451,Dark Knight - 2-073C,Dark Knight 2 073C,https://tcgplayer-cdn.tcgplayer.com/product/199451_200w.jpg,24,2362,https://cpt.tcgcsv.com/2PC2,2019-09-19T17:58:07.72,1,Common,2-073C,"For each point of damage you have received, Dark Knight gains +1000 power.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Forward,Earth,4,5000,Standard Unit,XIV,0.35,2.68,5.0,0.35,,Normal
+199452,Monk - 2-089C,Monk 2 089C,https://tcgplayer-cdn.tcgplayer.com/product/199452_200w.jpg,24,2362,https://cpt.tcgcsv.com/3PC2,2019-09-19T17:59:20.393,1,Common,2-089C,"[Y][Y][Dull], put Monk into the Break Zone: Choose 1 Forward. It gains +3000 power and <b>Brave</b> until the end of the turn.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Backup,Earth,2,,Standard Unit,XIV,0.49,0.53,0.57,0.64,,Normal
+199453,Dragoon - 2-120C,Dragoon 2 120C,https://tcgplayer-cdn.tcgplayer.com/product/199453_200w.jpg,24,2362,https://cpt.tcgcsv.com/5PC2,2019-09-19T18:02:15.98,1,Common,2-120C,"[P]: Dragoon gains <b>First Strike</b> until the end of the turn.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Forward,Lightning,2,5000,Standard Unit,XIV,0.18,0.23,5.13,0.21,,Normal
+199454,"Cuchulainn, the Impure EX - 2-133R",Cuchulainn the Impure EX 2 133R,https://tcgplayer-cdn.tcgplayer.com/product/199454_200w.jpg,24,2362,https://cpt.tcgcsv.com/6PC2,2019-09-19T18:05:48.547,1,Rare,2-133R,"<b>EX BURST</b>: Choose 1 Forward opponent controls. It loses 1000 power for each dull Character opponent controls until the end of the turn. Draw 1 card.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Summon,Water,4,,,XII,0.15,0.17,5.18,0.16,,Normal
+199455,Oracle - 3-070C,Oracle 3 070C,https://tcgplayer-cdn.tcgplayer.com/product/199455_200w.jpg,24,2362,https://cpt.tcgcsv.com/7PC2,2019-09-19T18:07:14.303,1,Common,3-070C,"[G][G][Dull], put Oracle into the Break Zone: <strong>Activate</strong> all Characters you control.
+<br><br>
+<em>This card was reprinted with a new formatted style.</em>",Backup,Wind,2,,Standard Unit,V,0.55,0.63,8.0,,,Normal
+199456,Atomos - 3-074R,Atomos 3 074R,https://tcgplayer-cdn.tcgplayer.com/product/199456_200w.jpg,24,2362,https://cpt.tcgcsv.com/8PC2,2023-03-22T14:24:21.02,1,Rare,3-074R,"Choose 1 Forward. Deal it damage equal to the highest power Forward you control.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Summon,Earth,4,,,IX;DFF,0.19,0.3,0.99,0.33,,Normal
+199457,Blue Mage - 3-121C,Blue Mage 3 121C,https://tcgplayer-cdn.tcgplayer.com/product/199457_200w.jpg,24,2362,https://cpt.tcgcsv.com/9PC2,2019-09-19T18:11:20.39,1,Common,3-121C,"[U][U][1][Dull], put Blue Mage into the Break Zone: Choose 1 Forward of cost 5 or higher. Return it to it's owner's hand.
+<br>
+<br><em>This card was reprinted with a new formatted style.</em>",Backup,Water,2,,Standard Unit,V,0.09,0.16,5.18,,,Normal
+233472,Minfilia - 6-079L (Full Art),Minfilia 6 079L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/233472_200w.jpg,24,2362,https://cpt.tcgcsv.com/spT2,2021-02-25T19:53:21.12,1,Legend,6-079L,"When Minfilia enters the field, choose up to 2 Characters in your Break Zone. Add them to your hand.
+<br>[Y][Y]1[Dull], put Minfilia into the Break Zone: Choose 1 Light Character or Dark Character. Break it.",Backup,Earth,6,,Scion of the Seventh Dawn,XIV,19.75,19.88,25.0,20.12,,Normal
+233473,Nael - 9-014L (Full Art),Nael 9 014L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/233473_200w.jpg,24,2362,https://cpt.tcgcsv.com/tpT2,2021-02-25T19:52:36.99,1,Legend,9-014L,"When Nael enters the field, reveal the top 3 cards of your deck. Add up to 2 Forwards among them to your hand and put the rest of the cards into the Break Zone.
+<br>Remove 1 Backup from the game: Until the end of the turn, Nael gains +2000 power and <strong>Haste</strong>.
+<br>Remove 2 Backups from the game: Choose 1 Forward. Deal it 8000 damage.",Forward,Fire,6,9000,General,XIV,0.85,1.0,10.0,0.99,,Normal
+272016,Squall - PR-108 (Full Art),Squall PR 108 Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272016_200w.jpg,24,2362,https://cpt.tcgcsv.com/lQb3,2022-10-27T21:21:36.403,1,Promo,PR-108,"Haste
+<br>When Squall enters the field or attacks, choose 1 Forward. It gains +2000 power until the end of the turn. 
+<br>Damage 3 — When Squall attacks, choose 1 Forward. It gains ""This Forward cannot block."" until the end of the turn.",Forward,Fire,3,6000,SeeD Candidate,VIII;DFF,1.4,1.5,2.57,1.32,,Normal
+272016,Squall - PR-108 (Full Art),Squall PR 108 Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272016_200w.jpg,24,2362,https://cpt.tcgcsv.com/lQb3,2022-10-27T21:21:36.403,1,Promo,PR-108,"Haste
+<br>When Squall enters the field or attacks, choose 1 Forward. It gains +2000 power until the end of the turn. 
+<br>Damage 3 — When Squall attacks, choose 1 Forward. It gains ""This Forward cannot block."" until the end of the turn.",Forward,Fire,3,6000,SeeD Candidate,VIII;DFF,0.38,2.16,40.0,3.24,,Foil
+272017,Yuna (Full Art),Yuna Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272017_200w.jpg,24,2362,https://cpt.tcgcsv.com/mQb3,2022-06-10T04:03:55.493,1,Promo,PR-109,"Remove 4 cards in the Break Zone from the game: Choose 1 Forward. It loses 2000 power until the end of the turn.
+<br>Choose 1 Forward. Until the end of the turn, it loses 2000 power for each Forward you control.",Forward,Water,3,7000,Summoner,X;DFF,1.44,2.01,40.0,2.24,,Foil
+272018,Lightning EX (Full Art),Lightning EX Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272018_200w.jpg,24,2362,https://cpt.tcgcsv.com/nQb3,2022-06-10T04:03:55.493,1,Promo,PR-110,"EX BURST When Lightning attacks, choose 1 Forward other than Lightning. You may return it to its owner's hand.
+<br>1, put the top 2 cards of your deck into the Break Zone: Choose 1 Forward. Dull it or activate it. You can only use this ability once per turn.",Forward,Light,4,9000,Savior,XIII,1.74,3.53,40.0,4.02,,Foil
+272020,Zidane - 6-044L (Full Art),Zidane 6 044L Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272020_200w.jpg,24,2362,https://cpt.tcgcsv.com/qQb3,2022-06-29T20:55:09.477,0,Legend,6-044L,"Zidane cannot be chosen by your opponent's abilities.
+When your opponent discards a card from his/her hand due to your Summons or abilities, choose 1 Wind Character. <strong>Activate</strong> it. 
+<br>When Zidane attacks, your opponent reveals his/her hand. Select 1 Forward from their hand. Your opponent discards this card.",Forward,Wind,4,7000,Genome,IX;DFF,0.25,0.55,3.0,0.28,,Normal
+272021,Rinoa (Full Art),Rinoa Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272021_200w.jpg,24,2362,https://cpt.tcgcsv.com/rQb3,2022-06-10T04:03:55.493,0,Legend,6-041L,"When Rinoa enters the field, choose 1 Forward other than Rinoa you control. Remove it from the game. Then, play the removed Forward onto the field dull.",Forward,Ice,4,7000,Resistance Fighter,VIII,0.95,1.0,4.0,0.61,,Normal
+272022,Y'shtola (Full Art),Yshtola Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272022_200w.jpg,24,2362,https://cpt.tcgcsv.com/sQb3,2022-06-10T04:03:55.493,0,Legend,5-068L,"Y'shtola doesn't receive any damage from Summons or abilities.
+<br>Put Y'shtola into the Break Zone: Choose 1 Summon or auto-ability. Cancel its effect.",Forward,Wind,3,7000,Scion of the Seventh Dawn,XIV,0.5,0.52,2.49,0.91,,Normal
+272025,Golbez (Full Art),Golbez Full Art,https://tcgplayer-cdn.tcgplayer.com/product/272025_200w.jpg,24,2362,https://cpt.tcgcsv.com/wQb3,2023-03-22T14:23:57.88,0,Legend,1-135L,"When Golbez is put from the field into the Break Zone, you may <b>search</b> for up to 4 Forwards of cost 2, each of a different Element and play them onto the field. Their auto-abilities will not trigger.",Forward,Lightning,6,9000,Warlock,IV;DFF,0.09,0.4,3.0,0.21,,Normal
+276901,Lightning EX,Lightning EX,https://tcgplayer-cdn.tcgplayer.com/product/276901_200w.jpg,24,2362,https://cpt.tcgcsv.com/2Nd3,2022-07-29T14:01:16.41,1,Promo,PR-110,"EX BURST When Lightning attacks, choose 1 Forward other than Lightning. You may return it to its owner's hand.
+<br>1, put the top 2 cards of your deck into the Break Zone: Choose 1 Forward. Dull it or activate it. You can only use this ability once per turn.",Forward,Light,4,9000,Savior,XIII,0.15,0.49,2.99,0.49,,Normal
+276903,Yuna,Yuna,https://tcgplayer-cdn.tcgplayer.com/product/276903_200w.jpg,24,2362,https://cpt.tcgcsv.com/5Nd3,2022-07-29T14:02:59.513,1,Promo,PR-109,"Remove 4 cards in the Break Zone from the game: Choose 1 Forward. It loses 2000 power until the end of the turn.
+<br>Choose 1 Forward. Until the end of the turn, it loses 2000 power for each Forward you control.",Forward,Water,3,7000,Summoner,X;DFF,0.09,0.25,1.0,0.2,,Normal
+451612,Squall - PR-108,Squall PR 108,https://tcgplayer-cdn.tcgplayer.com/product/451612_200w.jpg,24,2362,https://cpt.tcgcsv.com/gGD5,2022-10-31T15:58:34.987,1,Promo,PR-108,"Haste
+<br>When Squall enters the field or attacks, choose 1 Forward. It gains +2000 power until the end of the turn. 
+<br>Damage 3 — When Squall attacks, choose 1 Forward. It gains ""This Forward cannot block."" until the end of the turn.",Forward,Fire,3,6000,SeeD Candidate,VIII;DFF,0.15,0.5,35.0,0.59,,Normal
+483766,Sage,Sage,https://tcgplayer-cdn.tcgplayer.com/product/483766_200w.jpg,24,2362,https://cpt.tcgcsv.com/lwT5,2023-02-15T15:35:24.083,0,Common,2-005C,"When Sage enters the field, choose 1 Forward. It gains <b>Haste</b> until the end of the turn.",Backup,Fire,2,,Standard Unit,III,0.59,0.66,0.7,,,Normal
+483768,Vivi EX,Vivi EX,https://tcgplayer-cdn.tcgplayer.com/product/483768_200w.jpg,24,2362,https://cpt.tcgcsv.com/nwT5,2023-02-15T15:36:06.677,0,Common,3-018C,"<strong>EX BURST</strong> When Vivi enters the field, choose 1 Forward opponent controls. Deal it 5000 damage.",Backup,Fire,2,,Black Mage,IX,0.5,0.5,0.5,0.5,,Normal
+483769,Eiko,Eiko,https://tcgplayer-cdn.tcgplayer.com/product/483769_200w.jpg,24,2362,https://cpt.tcgcsv.com/pwT5,2023-02-15T15:37:29.13,0,Rare,3-127R,"When Eiko enters the field, you may <strong>search</strong> for 1 <em>Category IX</em> Forward and add it to your hand.",Backup,Water,3,,Summoner,IX,0.5,0.5,0.5,0.5,,Normal
+483772,Lebreau,Lebreau,https://tcgplayer-cdn.tcgplayer.com/product/483772_200w.jpg,24,2362,https://cpt.tcgcsv.com/swT5,2023-02-15T15:38:33.26,0,Rare,1-030R,The Fire Forwards you control gain +1000 power.,Backup,Fire,3,,NORA,XIII,0.12,0.14,0.29,,,Normal
+483775,Argath,Argath,https://tcgplayer-cdn.tcgplayer.com/product/483775_200w.jpg,24,2362,https://cpt.tcgcsv.com/wwT5,2023-02-15T15:40:17.04,0,Common,1-033C,"When Argath enters the field, your opponent discards 1 card from his/her hand.",Forward,Ice,2,3000,Squire,FFT,0.5,0.5,0.5,,,Normal
+483778,Sephiroth (1-044R),Sephiroth 1 044R,https://tcgplayer-cdn.tcgplayer.com/product/483778_200w.jpg,24,2362,https://cpt.tcgcsv.com/BwT5,2023-02-15T15:41:05.183,0,Rare,1-044R,"<b>First Strike</b><br>When Sephiroth enters the field, each player discards 2 cards from his/her hand.",Forward,Ice,5,7000,SOLDIER,VII,14.99,15.0,15.0,,,Normal
+483783,Duke Larg,Duke Larg,https://tcgplayer-cdn.tcgplayer.com/product/483783_200w.jpg,24,2362,https://cpt.tcgcsv.com/HwT5,2023-02-15T15:41:28.533,0,Rare,1-057R,The Ice Forwards you control gain +1000 power.,Backup,Ice,3,,Duke,FFT,1.7,1.8,2.96,,,Normal
+483785,Mog (XIII-2),Mog XIII 2,https://tcgplayer-cdn.tcgplayer.com/product/483785_200w.jpg,24,2362,https://cpt.tcgcsv.com/KwT5,2024-04-29T17:49:28.977,1,Starter,1-196S,"Whe Mog (XIII-2) enters the field, you may <b>search</b> for 1 [Category (XIII)] Forward and add it to your hand.",Backup,Ice,3,,Moogle,XIII,0.8,0.9,0.95,0.9,,Normal
+483789,Jihl Nabaat,Jihl Nabaat,https://tcgplayer-cdn.tcgplayer.com/product/483789_200w.jpg,24,2362,https://cpt.tcgcsv.com/PwT5,2023-02-15T15:43:14.867,0,Rare,2-037R,Backups don't deal damage to the Forwards you control.,Backup,Ice,2,,PSICOM,XIII,0.15,0.23,1.41,,,Normal
+483790,Maria,Maria,https://tcgplayer-cdn.tcgplayer.com/product/483790_200w.jpg,24,2362,https://cpt.tcgcsv.com/QwT5,2023-02-15T15:44:26.487,0,Hero,1-083H,The Forwards you control gain +1000 power.,Backup,Wind,4,,Rebel,II,3.26,3.28,3.3,,,Normal
+483793,Asura,Asura,https://tcgplayer-cdn.tcgplayer.com/product/483793_200w.jpg,24,2362,https://cpt.tcgcsv.com/TwT5,2023-02-15T15:46:14.753,0,Hero,2-049H,"Select 1 of the 3 following actions: <br><b>-</b> ""Choose up to 2 Forwards. Activate them."" <br><b>-</b> ""Choose up to 5 Backups. Activate them."" <br><b>-</b> ""Choose 1 Character card of cost 2 or less in your Break Zone. Add it to your hand.""",Summon,Wind,1,,,IV,1.57,2.99,6.0,,,Normal
+483794,Zidane,Zidane,https://tcgplayer-cdn.tcgplayer.com/product/483794_200w.jpg,24,2362,https://cpt.tcgcsv.com/VwT5,2023-02-15T15:48:57.087,0,Hero,3-056H,"When Zidane enters the field, your opponent reveals his/her hand. Select 1 card from their hand. Your opponent discards this card.
+<br>If your opponent has 2 cards or less in his/her hand, Zidane gains +4000 power.",Forward,Wind,3,3000,Thief,IX,0.18,0.34,0.5,0.1,,Normal
+483795,Enna Kros,Enna Kros,https://tcgplayer-cdn.tcgplayer.com/product/483795_200w.jpg,24,2362,https://cpt.tcgcsv.com/WwT5,2023-02-15T15:49:44.297,0,Rare,1-095R,The Earth Forwards you control gain +1000 power.,Backup,Earth,3,,Creator of Worlds,World of Final Fantasy,0.5,0.5,0.5,,,Normal
+483796,Shantotto,Shantotto,https://tcgplayer-cdn.tcgplayer.com/product/483796_200w.jpg,24,2362,https://cpt.tcgcsv.com/XwT5,2023-03-22T14:20:07.067,0,Legend,1-107L,"If Shantotto is on the field, it gains Elements of Fire, Ice, Wind, Earth, Lightning and Water.<br>When Shantotto enters the field, remove all the Forwards from the game.",Backup,Earth,7,,Mage,XI;DFF,,,,,,
+483797,Titan,Titan,https://tcgplayer-cdn.tcgplayer.com/product/483797_200w.jpg,24,2362,https://cpt.tcgcsv.com/ZwT5,2023-02-15T15:50:40.41,0,Common,1-110C,Choose 1 Forward you control. <b>Dull it</b>. It cannot be broken this turn.,Summon,Earth,2,,,FFT,0.5,0.5,0.5,,,Normal
+483798,Jessie,Jessie,https://tcgplayer-cdn.tcgplayer.com/product/483798_200w.jpg,24,2362,https://cpt.tcgcsv.com/-wT5,2023-02-15T15:51:09.813,0,Starter,1-204S,"When Jessie enters the field, you may <b>search</b> for 1 [Category (VII)] Forward and add it to your hand.",Backup,Earth,3,,AVALANCHE Operative,VII,0.4,0.4,0.4,0.4,,Normal
+483800,Golbez,Golbez,https://tcgplayer-cdn.tcgplayer.com/product/483800_200w.jpg,24,2362,https://cpt.tcgcsv.com/0xT5,2023-03-22T14:23:45.487,0,Legend,1-135L,"When Golbez is put from the field into the Break Zone, you may <b>search</b> for up to 4 Forwards of cost 2, each of a different Element and play them onto the field. Their auto-abilities will not trigger.",Forward,Lightning,6,9000,Warlock,IV;DFF,0.44,0.49,0.99,,,Normal
+483802,Lulu,Lulu,https://tcgplayer-cdn.tcgplayer.com/product/483802_200w.jpg,24,2362,https://cpt.tcgcsv.com/3xT5,2023-02-15T15:53:42.48,0,Rare,1-150R,The Lightning Forwards you control gain +1000 power.,Backup,Lightning,3,,Guardian,X,4.0,4.0,5.26,4.0,,Normal
+483804,Gramis,Gramis,https://tcgplayer-cdn.tcgplayer.com/product/483804_200w.jpg,24,2362,https://cpt.tcgcsv.com/6xT5,2023-02-15T15:54:08.443,0,Rare,2-106R,"When Gramis enters the field, you may search for 1 [Category (XII)] Forward and add it to your hand.",Backup,Lightning,3,,Emperor,XII,0.15,0.17,0.29,,,Normal
+483805,"Exodus, the Judge-Sal",Exodus the Judge Sal,https://tcgplayer-cdn.tcgplayer.com/product/483805_200w.jpg,24,2362,https://cpt.tcgcsv.com/7xT5,2023-02-15T15:54:34.277,0,Hero,3-112H,Select 1 number. Your opponent selects 1 number. Break all Forwards of cost equal to either number.,Summon,Lightning,4,,,XII,0.1,0.13,0.49,0.15,,Normal
+483807,Freya,Freya,https://tcgplayer-cdn.tcgplayer.com/product/483807_200w.jpg,24,2362,https://cpt.tcgcsv.com/9xT5,2024-09-03T15:52:09.967,1,Common,3-114C,"<strong>Haste First Strike</strong>
+<strong>Cherry Blossom</strong>[S][P][P]: For each <em>Job Dragoon</em> and <em>Card Name Dragoon</em> you control, deal 2000 damage to all the Forwards opponent controls.",Forward,Lightning,3,5000,Dragoon,IX,0.5,0.5,0.5,0.5,,Normal
+483809,Minwu,Minwu,https://tcgplayer-cdn.tcgplayer.com/product/483809_200w.jpg,24,2362,https://cpt.tcgcsv.com/cxT5,2023-02-15T15:55:24.02,0,Hero,1-171H,The Forwards you control don't receive damage that is less than their power.,Backup,Water,3,,Mage,II,2.99,3.0,4.25,,,Normal
+483810,Yuna (1-117R),Yuna 1 117R,https://tcgplayer-cdn.tcgplayer.com/product/483810_200w.jpg,24,2362,https://cpt.tcgcsv.com/dxT5,2023-02-15T15:55:53.12,0,Rare,1-177R,The cost required to cast your Water Summons is reduced by 1 (it cannot become 0).,Backup,Water,2,,Summoner,X,3.26,3.28,3.3,,,Normal
+483811,Wakka,Wakka,https://tcgplayer-cdn.tcgplayer.com/product/483811_200w.jpg,24,2362,https://cpt.tcgcsv.com/fxT5,2023-02-15T15:56:28.933,0,Rare,1-180R,The Water Forwards you control gain +1000 power.,Backup,Water,3,,Blitzballer,X,0.5,0.5,0.5,0.5,,Normal
+483813,"Famfrit, the Darkening Cloud EX",Famfrit the Darkening Cloud EX,https://tcgplayer-cdn.tcgplayer.com/product/483813_200w.jpg,24,2362,https://cpt.tcgcsv.com/hxT5,2023-02-15T15:57:08.253,0,Rare,3-123R,<strong>EX BURST</strong>: Both players select 1 Forward they control and put it into the Break Zone.,Summon,Water,3,,,XII,0.3,0.3,0.3,0.22,,Normal
+483814,Leonora EX,Leonora EX,https://tcgplayer-cdn.tcgplayer.com/product/483814_200w.jpg,24,2362,https://cpt.tcgcsv.com/jxT5,2023-02-15T15:57:30.017,0,Common,3-143C,"<strong>EX BURST</strong> when Leonora enters the field, you may <strong>search</strong> for 1 <em>Card Name Palom</em> or <em>Card Name Porom</em> and add it to your hand.",Backup,Water,3,,Epopt,IV,0.3,0.3,0.3,,,Normal
+483816,Cosmos,Cosmos,https://tcgplayer-cdn.tcgplayer.com/product/483816_200w.jpg,24,2362,https://cpt.tcgcsv.com/lxT5,2023-03-22T14:22:57.893,0,Hero,1-183H,"Cosmos can be played onto the field even if you control other Light Characters. <br>You can play 2 or more Light Characters onto the field.<br>If Cosmos is on the field, Cosmos can produce CP of any Element.",Backup,Light,2,,Goddess of Harmony,DFF,1.5,2.5,2.76,,,Normal
+483819,Chaos,Chaos,https://tcgplayer-cdn.tcgplayer.com/product/483819_200w.jpg,24,2362,https://cpt.tcgcsv.com/pxT5,2023-03-22T14:23:31.977,0,Hero,1-184H,"Chaos can be played onto the field even if you control other Dark Characters.
+<br>You can play 2 or more Dark Characters onto the field. 
+<br>If Chaos is on the field, Chaos can produce CP of any Element.",Backup,Dark,2,,God of Chaos,I;DFF,0.5,1.13,1.76,,,Normal
+497161,Yuna (Full Art Reprint),Yuna Full Art Reprint,https://tcgplayer-cdn.tcgplayer.com/product/497161_200w.jpg,24,2362,https://cpt.tcgcsv.com/fT-5,2023-05-17T12:46:22.337,1,Legend,2-138L,"When Yuna attacks, all Characters other than Light and Dark opponent controls lose all their abilities until the end of the turn. <br><b> Spherechange</b> [S]: Name 1 Element and 1 Job. Yuna becomes the named Element and Job until the end of the turn.",Forward,Water,3,7000,Songstress,X,1.49,1.74,5.0,2.48,,Normal
+554138,"Zalera, the Death Seraph",Zalera the Death Seraph,https://tcgplayer-cdn.tcgplayer.com/product/554138_200w.jpg,24,2362,https://cpt.tcgcsv.com/NGr6,2024-06-03T17:38:14.067,1,Hero,3-037H,"Break all the <strong>dull</strong> Forwards of cost 2, 3, 5, 7, 11, and 13 opponent controls.",Summon,Ice,4,,,XII,,,,,,
